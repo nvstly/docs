@@ -15,4 +15,4 @@ You can open multiple positions at once in a single message by placing the input
 
 #### Example
 
-![](<../../.gitbook/assets/image (126).png>)![](<../../.gitbook/assets/image (182).png>)
+![](<../../.gitbook/assets/image (132).png>)![](<../../.gitbook/assets/image (188).png>)

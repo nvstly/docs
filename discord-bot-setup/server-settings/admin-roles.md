@@ -15,7 +15,7 @@ The bot's setup commands will only work for users with server _Administrator_ or
 To add a role to allow access to the bots setting commands use the command `$adminroles add` and mention the role you would like to add. You can add multiple roles in one command by just spacing them out, or using the command for each role.\
 \
 If successful, the bot will react with :white\_check\_mark:\
-![](<../../.gitbook/assets/image (44).png>)
+![](<../../.gitbook/assets/image (50).png>)
 
 ### Remove Admin Role
 
@@ -26,10 +26,10 @@ If successful, the bot will react with :white\_check\_mark:\
 To remove a role that was previously added to access the settings commands use the command `$adminroles remove` and mention the role you would like to remove. You can remove multiple roles in one command by just spacing them out, or using the command for each role.\
 \
 If successful, the bot will react with :white\_check\_mark:\
-![](<../../.gitbook/assets/image (53).png>)
+![](<../../.gitbook/assets/image (59).png>)
 
 ### Admin Roles List
 
 You can view all the admin roles that are set by using the command `$adminroles`\
-![](<../../.gitbook/assets/image (8).png>)
+![](<../../.gitbook/assets/image (14).png>)
 

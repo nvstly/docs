@@ -11,10 +11,10 @@ How to setup Trade Sharing for Discord & customize messages/embeds
 ### Webhooks
 
 You need to add webhooks for the app to use for sending your trades. To do this go to your [Account Settings](https://thetradehub.net/settings) and expand the Trade Sharing section. Click on the `Webhooks` button then hit `New Webhook`, it will create a new wbehook named `My Webhook` where you can then set the desired name and avatar. Paste the Discord webhook link in the URL text box.\
-![](<../.gitbook/assets/image (189).png>)
+![](<../.gitbook/assets/image (195).png>)
 
 To add a webhook hit the _New Webhook_ button. Here you can choose the name that will be used when messages are posted to Discord along with an avatar- these settings will over-ride the settings chosen in Discord.\
-![](<../.gitbook/assets/image (175).png>)\
+![](<../.gitbook/assets/image (181).png>)\
 _You can submit an unlimited number of webhooks to send trades through._
 
 ### Pings (@everyone/@here/@role)
@@ -32,7 +32,7 @@ To create webhooks on Discord, right click on the desired channel you want trade
 ## How It Works
 
 To share your trades to Discord via webhooks, you can either enable it in your [account settings](https://thetradehub.net/settings), or just check the _Share to Discord_ box when submitting a trade through the [New Trade](https://thetradehub.net/submit) feature.\
-![](<../.gitbook/assets/image (106).png>)![](<../.gitbook/assets/image (152).png>)
+![](<../.gitbook/assets/image (112).png>)![](<../.gitbook/assets/image (158).png>)
 
 {% hint style="info" %}
 _When enabled in settings, will always be enabled in New Trade_

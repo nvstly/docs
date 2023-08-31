@@ -15,12 +15,12 @@ Daytrade - Swing - Scalp - Long Term
 {% endhint %}
 
 Marking your trades style doesn't have any effect on the trade, it's just labeling the type of trade it is.\
-![](<../../.gitbook/assets/image (71).png>)\
+![](<../../.gitbook/assets/image (77).png>)\
 \
 By default all trades are labeled as `Daytrade`. Using `Swing` or `Scalp` anywhere in your notes will label your trade as such as shown in the example above.\
-![](<../../.gitbook/assets/image (100).png>)![](<../../.gitbook/assets/image (169).png>)
+![](<../../.gitbook/assets/image (106).png>)![](<../../.gitbook/assets/image (175).png>)
 
-<figure><img src="../../.gitbook/assets/image (117).png" alt=""><figcaption><p>Keywords can be used anywhere in notes</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (123).png" alt=""><figcaption><p>Keywords can be used anywhere in notes</p></figcaption></figure>
 
 {% hint style="warning" %}
 Trade styles & flags can be used anywhere in the notes to label them as such.
@@ -44,16 +44,16 @@ These trades displayed on the app will have an icon associating with the relevan
 
 ### Examples
 
-<img src="../../.gitbook/assets/image (22).png" alt="" data-size="line">\
-![](<../../.gitbook/assets/image (102).png>)\
-<img src="../../.gitbook/assets/image (65).png" alt="" data-size="line">\
-![](<../../.gitbook/assets/image (147).png>)\
+<img src="../../.gitbook/assets/image (28).png" alt="" data-size="line">\
+![](<../../.gitbook/assets/image (108).png>)\
+<img src="../../.gitbook/assets/image (71).png" alt="" data-size="line">\
+![](<../../.gitbook/assets/image (153).png>)\
 Dev note: Change screenshots to match crypto trades when icons are fixed for crypto.\
 \
 
 
-![Can use both trade styles & flag icons](<../../.gitbook/assets/image (16).png>)
+![Can use both trade styles & flag icons](<../../.gitbook/assets/image (22).png>)
 
-![Can even use multiple flags](<../../.gitbook/assets/image (84).png>)
+![Can even use multiple flags](<../../.gitbook/assets/image (90).png>)
 
 Dev note: Change screenshots to match crypto trades when icons are fixed for crypto.

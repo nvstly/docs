@@ -19,7 +19,7 @@ If a whitelist has not been set, when the bot is used in a channel that it doesn
 To add a channel to the whitelist use the command `$whitelist add` and specify the channel to add. You can add multiple channels to the whitelist in one command by spacing them out, or using the command for each role.\
 \
 If successful, the bot will react with :white\_check\_mark:\
-![](<../../.gitbook/assets/image (27).png>)
+![](<../../.gitbook/assets/image (33).png>)
 
 ### Remove Channels From Whitelist
 
@@ -30,8 +30,8 @@ If successful, the bot will react with :white\_check\_mark:\
 To remove a channel from the whitelist use the command `$whitelist remove` and specify the channel to remove. You can remove multiple channels from the whitelist in one command by spacing them out, or using the command for each channel.\
 \
 If successful, the bot will react with :white\_check\_mark:\
-![](<../../.gitbook/assets/image (92).png>)
+![](<../../.gitbook/assets/image (98).png>)
 
 ### List Channels On Whitelist
 
-You can view all the whitelisted channels by using the command `$whitelist`![](<../../.gitbook/assets/image (24).png>)\
+You can view all the whitelisted channels by using the command `$whitelist`![](<../../.gitbook/assets/image (30).png>)\

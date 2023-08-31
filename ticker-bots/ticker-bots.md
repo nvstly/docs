@@ -9,7 +9,7 @@ description: >-
 We'll be revamping these to add more customization, so servers can re-order them however they'd like or remove number order altogether.
 
 Ticker bots can be added by using the links below, along with an example of how they look.\
-![](<../.gitbook/assets/image (146).png>)\
+![](<../.gitbook/assets/image (152).png>)\
 \
 Upon adding a bot(s), they will need to be restarted to start updating and changing their nicknames within your server. Bots are generally restarted every 6 hours. If you have added a bot and would like it to function right away, feel free to send a message in our [support](https://discord.gg/4fEAb8aTPv) channel and we'll do so.
 

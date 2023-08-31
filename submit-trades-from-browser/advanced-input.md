@@ -41,5 +41,5 @@ You can get a clearer idea of how the advanced input works by checking out the [
 
 {% hint style="info" %}
 When submitting a trade, you can see the advanced format of it.\
-![](<../.gitbook/assets/image (30).png>)
+![](<../.gitbook/assets/image (36).png>)
 {% endhint %}

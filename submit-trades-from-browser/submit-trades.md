@@ -6,7 +6,7 @@ description: >-
 
 # Submit Trades
 
-<figure><img src="../.gitbook/assets/image (108).png" alt=""><figcaption><p>New Trade display</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (114).png" alt=""><figcaption><p>New Trade display</p></figcaption></figure>
 
 ### Explantion Of All Selections
 
@@ -70,7 +70,7 @@ Expiration date, call/put, & strike price menus will appear when a actual ticker
 8. You can add notes in the _Notes_ field. _(optional)_
 9. Hit the _Submit_ button
 
-<figure><img src="../.gitbook/assets/image (143).png" alt=""><figcaption><p>Leaving price blank will submit at current market price. Notes &#x26; TP/SL are optional.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (149).png" alt=""><figcaption><p>Leaving price blank will submit at current market price. Notes &#x26; TP/SL are optional.</p></figcaption></figure>
 
 ### Average, Partial/Trim, or Closing
 
@@ -80,7 +80,7 @@ Expiration date, call/put, & strike price menus will appear when a actual ticker
 4. You can add notes in the _Notes_ field. _(optional)_
 5. Hit the _Submit_ button
 
-<figure><img src="../.gitbook/assets/image (134).png" alt=""><figcaption><p>Select from the dropdown menu whether to average up/down, partial close, or fully close the trade.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (140).png" alt=""><figcaption><p>Select from the dropdown menu whether to average up/down, partial close, or fully close the trade.</p></figcaption></figure>
 
 {% hint style="info" %}
 You can back out at any time by hitting the New Trade with red borders above the ticker field.
@@ -103,7 +103,7 @@ You can back out at any time by hitting the New Trade with red borders above the
 11. You can add notes in the _Notes_ field. _(optional)_
 12. Hit the _Submit_ button
 
-<figure><img src="../.gitbook/assets/image (122).png" alt=""><figcaption><p>Leaving price blank will submit at current market price. Notes &#x26; TP/SL ae optional.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (128).png" alt=""><figcaption><p>Leaving price blank will submit at current market price. Notes &#x26; TP/SL ae optional.</p></figcaption></figure>
 
 ### Average, Partial/Trim, or Closing
 
@@ -113,7 +113,7 @@ You can back out at any time by hitting the New Trade with red borders above the
 4. You can add notes in the _Notes_ field. _(optional)_
 5. Hit the _Submit_ button
 
-<figure><img src="../.gitbook/assets/image (156).png" alt=""><figcaption><p>Select from the dropdown menu whether to average up/down, partial close, or fully close the trade.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (162).png" alt=""><figcaption><p>Select from the dropdown menu whether to average up/down, partial close, or fully close the trade.</p></figcaption></figure>
 
 {% hint style="info" %}
 You can back out at any time by hitting the New Trade with red borders above the ticker field.
@@ -139,7 +139,7 @@ Currently disabled, only functional through Discord bot
 10. You can add notes in the _Notes_ field. _(optional)_
 11. Hit the _Submit_ button
 
-<figure><img src="../.gitbook/assets/image (183).png" alt=""><figcaption><p>Currently, unlike the Discord bot, a <code>/</code> separator is not required and won't work if used. Notes &#x26; TP/SL are optional</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (189).png" alt=""><figcaption><p>Currently, unlike the Discord bot, a <code>/</code> separator is not required and won't work if used. Notes &#x26; TP/SL are optional</p></figcaption></figure>
 
 ### Average, Partial/Trim, or Closing
 
@@ -167,7 +167,7 @@ For now, forex trades can be submitted using the Stocks interface
 8. You can add notes in the Notes field. (optional)
 9. Hit the Submit button
 
-<figure><img src="../.gitbook/assets/image (115).png" alt=""><figcaption><p>A <code>/</code> seperator is not required, and won't work if used. Notes &#x26; TP/SL are optional.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (121).png" alt=""><figcaption><p>A <code>/</code> seperator is not required, and won't work if used. Notes &#x26; TP/SL are optional.</p></figcaption></figure>
 
 ### Average, Partial/Trim, or Closing
 
@@ -177,11 +177,11 @@ For now, forex trades can be submitted using the Stocks interface
 4. You can add notes in the Notes field. (optional)
 5. Hit the Submit button
 
-<figure><img src="../.gitbook/assets/image (167).png" alt=""><figcaption><p>Select from the dropdown menu whether to average up/down, partial close, or fully close the trade.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (173).png" alt=""><figcaption><p>Select from the dropdown menu whether to average up/down, partial close, or fully close the trade.</p></figcaption></figure>
 
 ## Changing TP/SL on open trades
 
-TP/SL can be added or changed from the Trade Insight display. [#trade-insight-pop-ups-and-pages](../info/website.md#trade-insight-pop-ups-and-pages "mention")\
+TP/SL can be added or changed from the Trade Insight display. [#trade-insight-pop-ups-and-pages](../info/user-interfaces-overview.md#trade-insight-pop-ups-and-pages "mention")\
 This ability will be available on this New Trade display in an upcoming version.
 
 

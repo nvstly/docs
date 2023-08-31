@@ -14,7 +14,7 @@ I.e. _`STC AAPL @ 150.20`_
 {% endhint %}
 
 To close your **long** stock position, use the trigger **`STC`** followed by the _ticker_ and use `@` before your price. \
-![](<../../.gitbook/assets/image (76).png>)
+![](<../../.gitbook/assets/image (82).png>)
 
 ### Options Input
 
@@ -30,7 +30,7 @@ I.e. _`STC SPY 450c 1/23 @ 1.23`_
 {% endhint %}
 
 To close your **long** options position, use the trigger **`STC`** followed by the _ticker,_ then the expiration date using MM/DD format, your strike price and attaching **`c`** or **`p`** to it or specifying **`call` or `put`.** \
-![](<../../.gitbook/assets/image (154).png>)\
+![](<../../.gitbook/assets/image (160).png>)\
 \
 _Note: You can use single digit months, but days always need to be double digits. I.e. 6/01_
 

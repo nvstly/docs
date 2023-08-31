@@ -15,4 +15,4 @@ description: >-
 Quick and easy way to see your latest open trades and either set or change TP/SL\
 If you are a trader with many positions open, you can specify a ticker after `$list` and it will pull up the last 5 trades regarding the ticker.
 
-![](<../.gitbook/assets/image (25).png>)
+![](<../.gitbook/assets/image (31).png>)

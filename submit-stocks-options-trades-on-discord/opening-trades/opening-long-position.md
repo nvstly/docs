@@ -14,7 +14,7 @@ I.e. _`BTO AAPL @ 150.20`_
 {% endhint %}
 
 To open your **long** stock position, use the trigger **`BTO`** followed by the _ticker_ and use `@` before your price. \
-![](../../.gitbook/assets/image.png)
+![](<../../.gitbook/assets/image (6).png>)
 
 ### Options Input
 
@@ -30,7 +30,7 @@ I.e. `BTO SPY 450c 1/23 @ 1.23`
 {% endhint %}
 
 To open your **long** options position, use the trigger **`BTO`** followed by the _ticker,_ then the expiration date using MM/DD format, your strike price, and either attaching **`c`** or **`p`** to it or specifying `call` or `put`. \
-![](<../../.gitbook/assets/image (78).png>)\
+![](<../../.gitbook/assets/image (84).png>)\
 \
 _Note: You can use single digit months, but days always need to be double digits. I.e. 6/01_
 

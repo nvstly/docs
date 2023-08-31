@@ -14,14 +14,14 @@ I.e. _`BTO BTC/USDT @ 19,000`_
 {% endhint %}
 
 To open your **short** crypto position, use the trigger **`STO`** followed by the _ticker/pair_ and use `@` before your price. \
-![](<../../.gitbook/assets/image (137).png>)
+![](<../../.gitbook/assets/image (143).png>)
 
 If your default trading market is set to `crypto`, you don't need to specify the pair- unless you are trading a different pair than your default.\
 \
-![](<../../.gitbook/assets/image (148).png>)
+![](<../../.gitbook/assets/image (154).png>)
 
 If you are submitting a trade from a different exchange than your default, specify the exchange name after the price. _It can be mentioned anywhere within your notes._\
-![](<../../.gitbook/assets/image (170).png>)
+![](<../../.gitbook/assets/image (176).png>)
 
 
 

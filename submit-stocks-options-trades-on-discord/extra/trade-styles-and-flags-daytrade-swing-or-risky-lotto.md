@@ -15,12 +15,12 @@ Daytrade - Swing - Scalp - Long Term
 {% endhint %}
 
 Marking your trading style doesn't have any effect on the trade, it's just labeling the type of trade it is.\
-![](<../../.gitbook/assets/image (119).png>)\
+![](<../../.gitbook/assets/image (125).png>)\
 \
 By default, all trades are labeled as `Daytrade`. Using `Swing` or `Scalp` anywhere in your notes will label your trade as such, as shown in the example above.\
-![](<../../.gitbook/assets/image (97).png>)<img src="../../.gitbook/assets/image (12).png" alt="" data-size="original">
+![](<../../.gitbook/assets/image (103).png>)<img src="../../.gitbook/assets/image (18).png" alt="" data-size="original">
 
-![Style keywords can be used as verbs](<../../.gitbook/assets/image (13).png>)
+![Style keywords can be used as verbs](<../../.gitbook/assets/image (19).png>)
 
 {% hint style="warning" %}
 Trade styles & flags can be used anywhere in the notes
@@ -46,11 +46,11 @@ These trades displayed on the app will have an icon associated with the relevant
 
 ### Examples
 
-<img src="../../.gitbook/assets/image (22).png" alt="" data-size="line">\
-![](<../../.gitbook/assets/image (85).png>)\
-<img src="../../.gitbook/assets/image (65).png" alt="" data-size="line">\
-![](<../../.gitbook/assets/image (31).png>)
+<img src="../../.gitbook/assets/image (28).png" alt="" data-size="line">\
+![](<../../.gitbook/assets/image (91).png>)\
+<img src="../../.gitbook/assets/image (71).png" alt="" data-size="line">\
+![](<../../.gitbook/assets/image (37).png>)
 
-<figure><img src="../../.gitbook/assets/image (174).png" alt=""><figcaption><p>Can use both trade styles &#x26; flag icons</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (180).png" alt=""><figcaption><p>Can use both trade styles &#x26; flag icons</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (161).png" alt=""><figcaption><p>Can even use multiple flags</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (167).png" alt=""><figcaption><p>Can even use multiple flags</p></figcaption></figure>

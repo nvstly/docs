@@ -14,13 +14,13 @@ I.e. _`STC BTC/USDT @ 20,000`_
 {% endhint %}
 
 To close your **long** crypto position, use the trigger **`STC`** followed by the _ticker/pair_ and use `@` before your price. \
-![](<../../.gitbook/assets/image (104).png>)
+![](<../../.gitbook/assets/image (110).png>)
 
 If your default trading market is set to `crypto`, you don't need to specify the pair- unless you are trading a different pair than your default.\
-![](<../../.gitbook/assets/image (164).png>)
+![](<../../.gitbook/assets/image (170).png>)
 
 If you are submitting a trade from a different exchange than your default, specify the exchange name after the price. _It can be mentioned anywhere within your notes._\
-![](<../../.gitbook/assets/image (135).png>)
+![](<../../.gitbook/assets/image (141).png>)
 
 
 

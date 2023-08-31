@@ -2,8 +2,8 @@
 
 ## ℹ Info
 
-* [Trade Hub](README.md)
-* [Website](info/website.md)
+* [NVSTly - Social Investing](README.md)
+* [User Interfaces Overview](info/user-interfaces-overview.md)
 * [Download Your Data](info/download-your-data.md)
 
 ## 🆕 Submit Trades From Browser

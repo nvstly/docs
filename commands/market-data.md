@@ -21,7 +21,7 @@ I.e. _`$c AAPL`_ | _`$c TSLA 1w`_ | _`$chart SPY 15m`_
 {% endhint %}
 
 The bot can display charts in Discord by using the `$chart` or `$c` command. By default, the timeframe shown for charts is 5 minutes if one is not specified. Specify the timeframe after the ticker using **`m`** or **`min`** or **`minute`**, **`h`** or **`hour`**, **`d`** or **`day`**, **`w`** or **`week`**\
-![](<../.gitbook/assets/image (165).png>)![](<../.gitbook/assets/image (56).png>)
+![](<../.gitbook/assets/image (171).png>)![](<../.gitbook/assets/image (62).png>)
 
 ### Crypto
 
@@ -30,7 +30,7 @@ I.e _`$c BTCUSD`_ | _`$chart DOGE`_ | _`$chart ETHEUR`_
 {% endhint %}
 
 Charts also work for crypto coins just by specifying the ticker & currency pair.\
-![](<../.gitbook/assets/image (67).png>)![](<../.gitbook/assets/image (168).png>)
+![](<../.gitbook/assets/image (73).png>)![](<../.gitbook/assets/image (174).png>)
 
 ## Stock Stats
 
@@ -48,7 +48,7 @@ The `$stock` command provides some data for any ticker specified. The following 
 * Daily High & Low
 * Year High & Low
 
-![](<../.gitbook/assets/image (125).png>)
+![](<../.gitbook/assets/image (131).png>)
 
 {% hint style="info" %}
 This command can also be used for crypto if the currency is attached to the ticker.\
@@ -65,7 +65,7 @@ We'll add a separate `$crypto` command just for cryptocurrencies.
 I.e. _`$p TSLA`_ | _`$price AAPL`_
 {% endhint %}
 
-The `$price` or `$p` command gets any ticker price without any extra data.![](<../.gitbook/assets/image (75).png>)
+The `$price` or `$p` command gets any ticker price without any extra data.![](<../.gitbook/assets/image (81).png>)
 
 #### Crypto
 
@@ -75,7 +75,7 @@ I.e. _`$p BTCUSD`_ | _`$price ETHUSD`_
 {% endhint %}
 
 The `$price` command can also get crypto prices Be sure to attach the currency to the crypto ticker. \
-![](<../.gitbook/assets/image (74).png>)
+![](<../.gitbook/assets/image (80).png>)
 
 ## Top Gainers/Losers
 
@@ -88,4 +88,4 @@ The `$gainers` command displays the top 10 highest gainers of the day in referen
 \
 The `$losers` command displays the top 10 losing stocks of the day in reference to the last closing price.
 
-![](<../.gitbook/assets/image (28).png>)![](<../.gitbook/assets/image (149).png>)
+![](<../.gitbook/assets/image (34).png>)![](<../.gitbook/assets/image (155).png>)

@@ -15,17 +15,17 @@ This can be seen as intimidating with all the available configurations & propert
 You can customize the Discord message or embed you intend on using to share your trades to Discord, for both stocks & options- and crypto soon. **Open, average, trim, & exit trades can be shared with fully customize message or embed content for each event.**&#x20;
 
 To customize your Discord message or embed, go to [account settings ](https://thetradehub.net/settings) and under _Trade Sharing_ click the _Embed_ button.\
-![](<../.gitbook/assets/image (193).png>)
+![](<../.gitbook/assets/image (199).png>)
 
 This will prompt you with the message/embed builder as shown below. The message builder is pretty self-explanatory. To start, choose either stocks or options at the top to begin building custom embeds for. Then choose either Open, Average, Partial, or Exit to specify which trade event you want to customize the shared message for.
 
-![](<../.gitbook/assets/image (1).png>)\
+![](<../.gitbook/assets/image (7).png>)\
 You can edit the message for every trade position event.\
 There is a checkbox to choose whether to use a regular text message or embed, which is set as default.
 
 
 
-![](<../.gitbook/assets/image (95).png>)
+![](<../.gitbook/assets/image (101).png>)
 
 There is a selection of properties that get prefilled with the data they represent when a trade is made and is shared on Discord. When clicking these, they will be automatically filled in where your cursor is. Some properties will be hidden depending on the trade event selected—for example, there are no options properties available when Stocks are selected, or `Trade Exit Price` isn't an option for the Open trade event.\
 You can hit the Show Advanced button to see more properties, such as stock volume and other stats related to a stock. In the [Account & Trade Properties](customize-messages-or-embeds.md#properties) section below you can see all the available properties and what they represent.
@@ -33,9 +33,9 @@ You can hit the Show Advanced button to see more properties, such as stock volum
 The embed builder is easy to use, there is a text box for each aspect of an embed. In the [Message & Embed Properties](customize-messages-or-embeds.md#undefined) section below you can see which each text box represents.\
 
 
-<figure><img src="../.gitbook/assets/image (185).png" alt=""><figcaption><p>Choose which properties of your trade to share and how it looks.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (191).png" alt=""><figcaption><p>Choose which properties of your trade to share and how it looks.</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (155).png" alt=""><figcaption><p>You can get a preview of your trade by using an advanced trade input format in the <em>Test Input</em> field.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (161).png" alt=""><figcaption><p>You can get a preview of your trade by using an advanced trade input format in the <em>Test Input</em> field.</p></figcaption></figure>
 
 {% hint style="success" %}
 You can see a **preview** of how your message or embed will look by typing out a sample trade input- knowledge of [advanced input](../submit-trades-from-browser/advanced-input.md#how-to-use-advanced-method) is required for this. _Use `bto aapl @ cmp` as an example._
@@ -49,7 +49,7 @@ You can see a **preview** of how your message or embed will look by typing out a
 
 Properties are a menu of data sets that can display stock tickers, current price, your account username & avatar, and so many others including advanced data sets such as the volume and the days high/low prices.
 
-![](<../.gitbook/assets/image (89).png>)
+![](<../.gitbook/assets/image (95).png>)
 
 **NOTE:**\
 You can have properties punctuated to start with capital letters, or have the whole value of that property in all caps.\
@@ -74,12 +74,12 @@ For example: \
 
 ### Message & Embed Properties
 
-![](<../.gitbook/assets/image (3).png>)\
+![](<../.gitbook/assets/image (9).png>)\
 
 
-<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption><p>Embed example</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption><p>Embed example</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption><p>Example of how inline Field's work</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (21).png" alt=""><figcaption><p>Example of how inline Field's work</p></figcaption></figure>
 
 <table><thead><tr><th width="182">Property</th><th>Value</th></tr></thead><tbody><tr><td>Author Name</td><td>The name of author of the embed author</td></tr><tr><td>Author URL</td><td>Used to link the Author Name</td></tr><tr><td>Author Image</td><td>An avatar for author, shown with the teal logo in the example above</td></tr><tr><td>Title</td><td>The embed title</td></tr><tr><td>Title URL</td><td>Used to link the Title</td></tr><tr><td>Color</td><td>The embed color, shown as the teal strip in the example above</td></tr><tr><td>Description</td><td>The content within the embed</td></tr><tr><td>Thumbnail URL</td><td>The thumbnail image, shown as the white logo in the example above</td></tr><tr><td>Image URL</td><td>Adds an image below the description and the above footer</td></tr><tr><td>Footer Name</td><td>The small footer text at the bottom</td></tr><tr><td>Footer Img URL</td><td>The footer image, shown as the black logo in the example above</td></tr><tr><td>Timestamp</td><td>Used to show date/time at end of footer</td></tr><tr><td>Field (w/ inline)</td><td>Creates text fields with headers &#x26; values. These can be 'inline' to put 2-3 of them on the same row.</td></tr></tbody></table>
 
@@ -90,12 +90,12 @@ Author Name & Author Image URL are not to be confused with the username & avatar
 ## Twitter
 
 To customize your Twitter tweets, go to [account settings ](https://thetradehub.net/settings) and under _Trade Sharing_ click the _Embed_ button.\
-![](<../.gitbook/assets/image (159).png>)
+![](<../.gitbook/assets/image (165).png>)
 
 \
 This will prompt you with the tweet builder as shown below. You can edit the message for every trade position event.
 
-<figure><img src="../.gitbook/assets/image (130).png" alt=""><figcaption><p><em>Choose which properties of your trade to share and how it looks.</em></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (136).png" alt=""><figcaption><p><em>Choose which properties of your trade to share and how it looks.</em></p></figcaption></figure>
 
 ## Examples
 

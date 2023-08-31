@@ -7,7 +7,7 @@ description: You can share your trades to Twitter right from the app
 Trades can also be sent to Twitter. Currently you will need to confirm each tweet after submitting a trade position, but we'll be implementing the option to fully automate it which will require the user to create a Twitter developer account and prvoide their API keys so our app can post tweets on your behalf.\
 \
 To share your trades to Twitter you can either enable it in your [account settings](https://thetradehub.net/settings), or just check the _Share to Twitter_ box when submitting a trade through the [New Trade](https://thetradehub.net/submit) feature.\
-![](<../.gitbook/assets/image (110).png>)![](<../.gitbook/assets/image (177).png>)
+![](<../.gitbook/assets/image (116).png>)![](<../.gitbook/assets/image (183).png>)
 
 {% hint style="info" %}
 _When enabled in settings, will always be enabled in New Trade_
