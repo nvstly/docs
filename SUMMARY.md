@@ -8,6 +8,7 @@
 
 ## 🆕 Submit Trades From Browser
 
+* [New Trade Overview](submit-trades-from-browser/new-trade-overview.md)
 * [Submit Trades](submit-trades-from-browser/submit-trades.md)
 * [Advanced Input](submit-trades-from-browser/advanced-input.md)
 
