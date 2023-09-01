@@ -31,5 +31,5 @@ If successful, the bot will react with :white\_check\_mark:\
 ### Admin Roles List
 
 You can view all the admin roles that are set by using the command `$adminroles`\
-![](<../../.gitbook/assets/image (14).png>)
+![](<../../.gitbook/assets/image (14) (1).png>)
 

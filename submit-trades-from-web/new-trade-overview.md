@@ -4,7 +4,7 @@ description: Explanation of all New Trade and Active Positions interface element
 
 # New Trade Overview
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>New Trade Interface</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption><p>New Trade Interface</p></figcaption></figure>
 
 ## New Trade
 
@@ -43,7 +43,7 @@ We check real-time prices when a trade is submitted, and allow a small threshold
 **Strike**\
 \- The strike price of your options contract.
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Second &#x26; Optional Final Step of New Trade</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption><p>Second &#x26; Optional Final Step of New Trade</p></figcaption></figure>
 
 **Take Profit & Stop Loss**\
 \- Set TP and/or SL.\
@@ -58,6 +58,9 @@ Trades will automatically close when your specified Take Profit or Stop Loss has
 \- Include notes or _(soon)_ upload media.\
 \- Not required\
 \
+**Flags**\
+\- Flag a trade with three different types of risks.\
+\
 **Sharing Settings**\
 \- Auto share trade to your Discord webhooks or via Tweet.
 
@@ -68,9 +71,9 @@ To add Discord webhooks or link your Twitter for automatic trade sharing, read m
 
 ## Active Positions
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption><p>Active Positions Interface</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption><p>Active Positions Interface</p></figcaption></figure>
 
-**Quick Close** ![](<../.gitbook/assets/image (7).png>)\
+**Quick Close** ![](<../.gitbook/assets/image (13).png>)\
 \- Instantly close a position at it's current market price.\
 \
 **Status**\

@@ -4,35 +4,53 @@ description: Open, average, partial/trim, or close trades on all markets.
 
 # Submit Trades
 
+How To Submit & Modify Trades For:\
+\- [Stocks](submit-trades.md#how-to-submit-stock-trades)\
+\- [Options](submit-trades.md#how-to-submit-options-trades)\
+\- [Crypto](submit-trades.md#how-to-submit-crypto-trades)\
+\- Futures (soon)\
+\- Forex (soon)
+
 ## How To Submit Stock Trades
 
 ### Opening
 
-1. Hit the [New Trade](https://thetradehub.net/submit) button on navbar, for new users it automatically sets it to stock trades.
-2. Select whether your trade is _Long_ or _Short._
-3. Enter the stock ticker. _You will see it's logo appear and it's current price in the price box._
-4. Put in your traded price, or leave it blank for current market price. _(Note: we allow a small tolerance the price can be off from current price to allow for volatility and time it takes to submit)_
-5. _I am Opening_ will be the only option. _(unless you select an open position from the right side of display.)_
-6. Select the style of your trade where _Daytrade_ is set as default. _(optional)_
-7. Set your take profit or stop loss in the _TP/SL_ fields. _(optional)_
-8. You can add notes in the _Notes_ field. _(optional)_
-9. Hit the _Submit_ button
+1. Open the [New Trade](https://thetradehub.net/submit) interface from the left navbar.
+2. Choose Stocks under Market.
+3. Select whether your trade is _Long_ or _Short._
+4. Enter the stock ticker symbol. _You will see it's logo appear and it's current price in the price box._
+5. [Put in your traded price, or use the provided real-time price.](#user-content-fn-1)[^1]
+6. Select the Style of your trade; Daytrade, Swing, Scalp, or Long Term.
+7. Hit `Continue`
 
-<figure><img src="../.gitbook/assets/image (149).png" alt=""><figcaption><p>Leaving price blank will submit at current market price. Notes &#x26; TP/SL are optional.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Submit trades using the New Trade interface</p></figcaption></figure>
+
+{% hint style="info" %}
+Did you know?\
+After continuing to the next step, the submitted price will be locked in. So even if the current market price exceeds the price tolerance threshold, you will still be able to complete the submission. _Keep in mind there is a time expiration on this._
+{% endhint %}
+
+**Second & **<mark style="color:red;">**Optional**</mark>** Final Step**
+
+1. [Specify a Take Profit and/or Stop Loss.](#user-content-fn-2)[^2]
+2. Add notes or upload media.
+3. Add a risky, YOLO/lotto, or earnings flag.
+4. Modify your Trade Sharing settings.
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>TP/SL, trade notes, risk flags, and Trade Sharing are all optional and this step can be skipped</p></figcaption></figure>
 
 ### Average, Partial/Trim, or Closing
 
-1. Select an open position from the right side of the [New Trade](https://thetradehub.net/submit) display, "Choose a position to modify".
-2. Select _averaging, partialing, or closing_ from the dropdown menu after `I am`
-3. Put in your traded price, or leave it blank for current market price.
-4. You can add notes in the _Notes_ field. _(optional)_
-5. Hit the _Submit_ button
+Use ![](<../.gitbook/assets/image (5).png>) to instantly close a position at the current market price.
 
-<figure><img src="../.gitbook/assets/image (140).png" alt=""><figcaption><p>Select from the dropdown menu whether to average up/down, partial close, or fully close the trade.</p></figcaption></figure>
+1. Click on a position's row to expand it.
+2. Select Average, Partial, or Close from the dropdown menu under Status.
+3. Input your price or use the provided real-time market price.
+4. Optionally add notes or upload media.
+5. Modify the Trade Share settings
+6. Hit `Submit`
 
-{% hint style="info" %}
-You can back out at any time by hitting the New Trade with red borders above the ticker field.
-{% endhint %}
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Average, partial/trim, and close all open positions from the Active Positions tab on the New Trade interface</p></figcaption></figure>
 
 ## How to Submit Options Trades
 
@@ -137,3 +155,7 @@ This ability will be available on this New Trade display in an upcoming version.
 ## Last Notes
 
 Selections saved from the previous trade will be saved when you open the New Trade display to allow for better efficiency.
+
+[^1]: _A small tolerance of the submitted price can be off from current price to allow for volatility and time it takes to submit a trade._
+
+[^2]: Trades will close automatically when the current market prices reaches these values.

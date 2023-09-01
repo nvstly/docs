@@ -22,7 +22,7 @@ Click on the button that represents what you're requesting.
 ### Provide your trade data
 
 \
-![](<../.gitbook/assets/image (13).png>)\
+![](<../.gitbook/assets/image (13) (1).png>)\
 You will then be asked to provide the trade data exactly as you normally would when submitting trades with the bot. _This prevents any confusion for our staff and guarantees the accuracy of your request._
 
 
