@@ -38,7 +38,7 @@ The embed builder is easy to use, there is a text box for each aspect of an embe
 <figure><img src="../.gitbook/assets/image (161).png" alt=""><figcaption><p>You can get a preview of your trade by using an advanced trade input format in the <em>Test Input</em> field.</p></figcaption></figure>
 
 {% hint style="success" %}
-You can see a **preview** of how your message or embed will look by typing out a sample trade input- knowledge of [advanced input](../submit-trades-from-web/advanced-input.md#how-to-use-advanced-method) is required for this. _Use `bto aapl @ cmp` as an example._
+You can see a **preview** of how your message or embed will look by typing out a sample trade input- knowledge of [advanced input](../submit-trades-from-browser/advanced-input.md#how-to-use-advanced-method) is required for this. _Use `bto aapl @ cmp` as an example._
 {% endhint %}
 
 {% hint style="info" %}

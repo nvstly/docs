@@ -20,7 +20,7 @@ Users can give +Rep or drop comments directly from these trade rows.
 
 This interface is used to submit trades and modify existing positions. It is used to open trades and the Active Positions tab is used to average, trim/partial close, or exit your open positions.
 
-To learn how to use this interface, see [submit-trades.md](../submit-trades-from-web/submit-trades.md "mention")
+To learn how to use this interface, see [submit-trades.md](../submit-trades-from-browser/submit-trades.md "mention")
 
 <figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>New Trade</p></figcaption></figure>
 

@@ -18,7 +18,7 @@ Marking your trading style doesn't have any effect on the trade, it's just label
 ![](<../../.gitbook/assets/image (125).png>)\
 \
 By default, all trades are labeled as `Daytrade`. Using `Swing` or `Scalp` anywhere in your notes will label your trade as such, as shown in the example above.\
-![](<../../.gitbook/assets/image (103).png>)<img src="../../.gitbook/assets/image (18).png" alt="" data-size="original">
+![](<../../.gitbook/assets/image (103).png>)<img src="../../.gitbook/assets/image (18) (1).png" alt="" data-size="original">
 
 ![Style keywords can be used as verbs](<../../.gitbook/assets/image (19).png>)
 

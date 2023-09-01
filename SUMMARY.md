@@ -9,8 +9,8 @@
 ## 🆕 Submit Trades From Web
 
 * [New Trade Overview](submit-trades-from-web/new-trade-overview.md)
-* [Submit Trades](submit-trades-from-web/submit-trades.md)
-* [Advanced Input](submit-trades-from-web/advanced-input.md)
+* [Submit Trades](submit-trades-from-browser/submit-trades.md)
+* [Advanced Input](submit-trades-from-browser/advanced-input.md)
 
 ## 📣 Trade Sharing
 
