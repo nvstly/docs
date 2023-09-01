@@ -19,7 +19,7 @@ To customize your Discord message or embed, go to [account settings ](https://th
 
 This will prompt you with the message/embed builder as shown below. The message builder is pretty self-explanatory. To start, choose either stocks or options at the top to begin building custom embeds for. Then choose either Open, Average, Partial, or Exit to specify which trade event you want to customize the shared message for.
 
-![](<../.gitbook/assets/image (7).png>)\
+![](<../.gitbook/assets/image (7) (1).png>)\
 You can edit the message for every trade position event.\
 There is a checkbox to choose whether to use a regular text message or embed, which is set as default.
 

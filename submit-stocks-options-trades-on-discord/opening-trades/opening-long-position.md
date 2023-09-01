@@ -14,7 +14,7 @@ I.e. _`BTO AAPL @ 150.20`_
 {% endhint %}
 
 To open your **long** stock position, use the trigger **`BTO`** followed by the _ticker_ and use `@` before your price. \
-![](<../../.gitbook/assets/image (6).png>)
+![](<../../.gitbook/assets/image (6) (1).png>)
 
 ### Options Input
 

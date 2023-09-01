@@ -1,60 +1,92 @@
 ---
-description: >-
-  Open, average, partial/trim, or close trades right from the browser. Forex
-  trades can be used on the stocks toggle for now.
+description: Open, average, partial/trim, or close trades.
 ---
 
 # Submit Trades
 
-<figure><img src="../.gitbook/assets/image (114).png" alt=""><figcaption><p>New Trade display</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>New Trade UI</p></figcaption></figure>
 
-### Explantion Of All Selections
+## Explanation Of All Elements
 
-**Stocks/Options/Crypto Toggle** \
-\-To toggle between stocks, options, or crypto trades. (Forex can be used on stocks toggle for now)\
-\-Expiration date, call/put, & strike price menus will appear when a actual ticker is entered.\
+### New Trade
+
+**Market**\
+\- Toggle between stocks, options, or crypto markets.\
 \
-**Long/Short Toggle**\
-\-To toggle if submitting a long or short trade\
+**Position**\
+\- Toggle for submitting a long or short trade.\
 \
-**Ticker**\
-\-The ticker of asset being entered\
-\-The red circled X will be replaced by logo\
-\-When entering a ticker that gets removed, this means it's not an actual ticker or not in our database and should be reported. _Currently there is no way to report this directly from the app, only Discord. For now please send an email to support@thetradehub.net_\
+**Symbol**\
+\- The ticker symbol of asset being submitted.\
+\- When entering a ticker that our platform doesn't recognize, you will be prompted with an error and the option to report the missing ticker if you believe it is valid.\
 \
 **Pair** (crypto)\
-**-The trading pair used for trade (I.e. BTC/USDT)**\
+\- The trading pair being used for trade, the 2nd ticker symbol. (I.e. BTC/USDT where USDT is the pair.)\
 \
-**@ Price** _or_ **At Price** **Text Box**\
-\-The price of your trade\
-\
-**Type Dropdown Menu**\
-\-Averaging or Partial/Trim is available to this menu when an open position is selected from the right side of display\
-\
+**Price**\
+\- The price of your trade.\
+\- A real-time price is auto-filled when a ticker symbol has been entered, which can be used to submit rather than inputting a price.
+
+{% hint style="warning" %}
+We check real-time prices when a trade is submitted, and allow a small threshold of how far you can be off the current market price to allow for volatility and time it takes when submitting a trade.
+{% endhint %}
+
 **Style Dropdown Menu**\
-\-To note your trade as daytrade, scalp, swing, or long term\
+\- To mark your trade as daytrade, scalp, swing, or long term.
+
+#### When options is toggled
+
+**State**\
+\- To select whether the trade is a call or put.\
 \
-**TP/SL Text Boxes**\
-\-Optional, not required\
-\-To set Take Profit or Stop Loss\
-\-Your trade will automatically close when one of these are hit\
+**Exp. Date**\
+\- Type in an expiration date or select one.\
 \
-When options is toggled:\
-_Expiration date, call/put, & strike price will appear when a ticker is entered._\
-\
-**Select Date Dropdown Menu**\
-\-A list of all available expiration dates\
-\
-**Call/Put Dropdown Menu** (Call as default)\
-\-To select whether trade is a call or put\
-\
-**Strike Text Box**\
-\-The strike price of your options contract
+**Strike**\
+\- The strike price of your options contract.
+
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Second &#x26; Optional Final Step of New Trade</p></figcaption></figure>
+
+**Take Profit & Stop Loss**\
+\- Set TP and/or SL.\
+\- Not required
 
 {% hint style="info" %}
-The settings you use such as long/short or style will be saved from your last use to provide efficiency.\
-Expiration date, call/put, & strike price menus will appear when a actual ticker is entered.
+Did you know?\
+Trades will automatically close when your specified Take Profit or Stop Loss has been triggered. See more info regarding this feature LINK HERE
 {% endhint %}
+
+**Trade Notes**\
+\- Include notes or _(soon)_ upload media.\
+\- Not required\
+\
+**Sharing Settings**\
+\- Auto share trade to your Discord webhooks or via Tweet.
+
+{% hint style="info" %}
+Trade Sharing\
+To add Discord webhooks or link your Twitter for automatic trade sharing, read more about [trade-sharing.md](../trade-sharing/trade-sharing.md "mention").
+{% endhint %}
+
+### Active Positions
+
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption><p>Modify Active Positions</p></figcaption></figure>
+
+**Quick Close** ![](<../.gitbook/assets/image (7).png>)\
+\- Instantly close a position at it's current market price.\
+\
+**Status**\
+\- Average, partial/trim, or close a position.\
+\
+**Price**\
+\- Use the provided current market price or input your own\
+\
+**Trade Notes**\
+\- Add optional notes or upload media.\
+\
+Share position update to Discord or Twitter. See [trade-sharing.md](../trade-sharing/trade-sharing.md "mention") for more info.
+
+
 
 ## How To Submit Stock Trades
 
