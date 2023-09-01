@@ -4,7 +4,7 @@ description: Explanation of all New Trade and Active Positions interface element
 
 # New Trade Overview
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>New Trade UI</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>New Trade Interface</p></figcaption></figure>
 
 ## New Trade
 
@@ -68,7 +68,7 @@ To add Discord webhooks or link your Twitter for automatic trade sharing, read m
 
 ## Active Positions
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption><p>Modify Active Positions</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption><p>Active Positions Interface</p></figcaption></figure>
 
 **Quick Close** ![](<../.gitbook/assets/image (7).png>)\
 \- Instantly close a position at it's current market price.\
