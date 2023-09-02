@@ -11,6 +11,8 @@ This can be seen as intimidating for some, with all the available configurations
 {% endhint %}
 
 {% embed url="https://youtu.be/6WDa5jnrTJg" %}
+v1 design, same functionality. v2 videos in the works.
+{% endembed %}
 
 ## Discord
 
@@ -18,6 +20,8 @@ Each individual market and trade event (open, close, etc.) can be customized.
 
 To customize your Discord message or embed, go to [Accounts & Sharing](https://nvst.ly/settings/sharing) in your account settings under Linked Accounts, click the `customize` button in the settings for your Discord account- you must have Discord linked for this.\
 ![](<../.gitbook/assets/image (213).png>)
+
+### Customization
 
 This will prompt you with the message/embed builder as shown below. The message builder is pretty self-explanatory. To start, select which trade event (open, close, etc.) and the market you you wish to customize trade sharing content for.
 
@@ -85,11 +89,11 @@ To customize your Twitter tweets, go to [Accounts & Sharing](https://test.nvst.l
 
 ![](<../.gitbook/assets/image (216).png>)
 
-This will prompt you with the message/embed builder as shown below. The message builder is pretty self-explanatory. To start, select which trade event (open, close, etc.) and the market you you wish to customize trade sharing content for.\
-\
+This will prompt you with the message/embed builder as shown below. The message builder is pretty self-explanatory. To start, select which trade event (open, close, etc.) and the market you you wish to customize trade sharing content for.
 
+<img src="../.gitbook/assets/image.png" alt="" data-size="original">
 
-<figure><img src="../.gitbook/assets/image (136).png" alt=""><figcaption><p><em>Choose which properties of your trade to share and how it looks.</em></p></figcaption></figure>
+Check out the above documentation here [#customization](customize-messages-or-embeds.md#customization "mention") for more info as customization for Discord and Twitter use the same interface with the same functionality. There is also a description of each property here [#account-trade-and-stock-properties](customize-messages-or-embeds.md#account-trade-and-stock-properties "mention")
 
 ## Examples
 
