@@ -66,7 +66,7 @@ Trades will automatically close when your specified Take Profit or Stop Loss has
 
 {% hint style="info" %}
 Trade Sharing\
-To add Discord webhooks or link your Twitter for automatic trade sharing, read more about [trade-sharing.md](../trade-sharing/trade-sharing.md "mention").
+To add Discord webhooks or link your Twitter for automatic trade sharing, read more about [trade-sharing-overview.md](../trade-sharing/trade-sharing-overview.md "mention").
 {% endhint %}
 
 ## Active Positions
@@ -85,4 +85,4 @@ To add Discord webhooks or link your Twitter for automatic trade sharing, read m
 **Trade Notes**\
 \- Add optional notes or upload media.\
 \
-Share position update to Discord or Twitter. See [trade-sharing.md](../trade-sharing/trade-sharing.md "mention") for more info.
+Share position update to Discord or Twitter. See [trade-sharing-overview.md](../trade-sharing/trade-sharing-overview.md "mention") for more info.

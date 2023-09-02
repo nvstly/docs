@@ -14,7 +14,7 @@
 
 ## 📣 Trade Sharing
 
-* [Trade Sharing](trade-sharing/trade-sharing.md)
+* [Trade Sharing Overview](trade-sharing/trade-sharing-overview.md)
 * [Discord](trade-sharing/discord.md)
 * [Twitter](trade-sharing/twitter.md)
 * [Customize Messages or embeds](trade-sharing/customize-messages-or-embeds.md)
