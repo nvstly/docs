@@ -1,8 +1,7 @@
 ---
 description: >-
-  This section explains how to add the bot to your server, set it up, and offer
-  it to your members. By default this bot can be added and used without a setup
-  needed- but you will find settings useful.
+  There is no setup required when adding the bot to a server, but utilizing the
+  setup command helps keep servers structured.
 ---
 
 # Overview

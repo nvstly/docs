@@ -1,14 +1,20 @@
 ---
 description: >-
-  There is no setup required for the bot to function but there are some settings
-  command to fit the needs of your server.
+  There is no setup required for the bot to function but there are optional
+  settings to help fit the structure of a server.
 ---
 
 # Server Settings
 
-**The bot can be added with the required permissions and used in any channel immediately without any setup needed.** Servers are not one size fits all so there are some settings that can be tailored to fit your server.
 
 
+{% hint style="warning" %}
+All text based commands can also be used via /slash commands.
+{% endhint %}
+
+**The bot can be added with the required permissions and used in any channel immediately without any setup needed.** For a list of all available settings, use the `/setup` or `$setup` command.
+
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>All available settings</p></figcaption></figure>
 
 ## Prefix
 
@@ -17,4 +23,4 @@ description: >-
 I.e `$prefix !`
 {% endhint %}
 
-To change the bot's prefix for your server
+The bot's prefix can be changed to any character, the prefix is used to trigger bot commands- everything except submitting trades.

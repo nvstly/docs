@@ -10,7 +10,7 @@ The T[rades feed ](https://trhub.net/trades)displays all the trades that are sub
 \
 Each row shows the trader who made the trade and important information for that trade. It shows the ticker being traded with the direction (long/short) along with the options data (if any), the current status, and the price it was opened at and a profit/loss stat.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Trade Row</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>Trade Row</p></figcaption></figure>
 
 The row can be expanded which displays any notes about the trade the trader has provided.\
 \
@@ -22,7 +22,7 @@ This interface is used to submit trades and modify existing positions. It is use
 
 To learn how to use this interface, see [submit-trades.md](../submit-trades-from-browser/submit-trades.md "mention")
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>New Trade</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>New Trade</p></figcaption></figure>
 
 {% hint style="info" %}
 Did you know?\
@@ -42,7 +42,7 @@ All push notifications are enabled by default.
 
 Notifications can be modified in your Account Settings within the [Notifications](https://nvst.ly/settings/notifications) section.. From here you can enabled/disable all or some events as well modify them for each trader you follow.
 
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Customize Notifications for Each Trader</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption><p>Customize Notifications for Each Trader</p></figcaption></figure>
 
 ## Trade Insight
 
@@ -50,7 +50,7 @@ Trades have their own individual interfaces where additional data for that trade
 
 To access these interface displays, click the trade info from trade rows that are listed on the [Trades](user-interfaces-overview.md#trades-feed) feed, trader [Dashboards](user-interfaces-overview.md#dashboard), or [Stock Info](user-interfaces-overview.md#stock-info-page) displays.
 
-<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>Trade Insight Interface <em>(comments section soon)</em></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption><p>Trade Insight Interface <em>(comments section soon)</em></p></figcaption></figure>
 
 {% hint style="info" %}
 You can update positions and add or modify your TP/SL directly from this interface.
@@ -84,7 +84,7 @@ A trader's Dashboard is like a mix between their social profile and portfolio, d
 
 Stats are primarily based on all your closed trades, with the exception of a few. By default dashboards are a reflection of a traders activity and performance for the past 30 days, but time ranges can be filtered using the dropdown above the stats component.
 
-<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption><p>First set of stats</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption><p>First set of stats</p></figcaption></figure>
 
 {% hint style="danger" %}
 Stats cannot be reset, ever. We plan to add a feature that will allow traders to reset their stats 1-2 times a year, but even then there will be a historical archive publicly available of stats prior to a reset.
