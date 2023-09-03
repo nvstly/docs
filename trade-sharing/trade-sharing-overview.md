@@ -1,7 +1,5 @@
 ---
-description: >-
-  Send your trades to Discord or Twitter instantaneously after submitting them,
-  hands free.
+description: Send your trades to Discord or Twitter instantaneously after submitting them.
 ---
 
 # Trade Sharing Overview

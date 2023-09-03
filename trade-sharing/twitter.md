@@ -1,19 +1,20 @@
 ---
-description: You can share your trades to Twitter right from the app
+description: Auto trade sharing with tweets.
 ---
 
 # Twitter
 
-Trades can also be sent to Twitter. Currently you will need to confirm each tweet after submitting a trade position, but we'll be implementing the option to fully automate it which will require the user to create a Twitter developer account and prvoide their API keys so our app can post tweets on your behalf.\
+Currently you will need to confirm each tweet after submitting a trade position, soon PRO users will be able to opt-in for automatic trade sharing tweets. You \
 \
-To share your trades to Twitter you can either enable it in your [account settings](https://thetradehub.net/settings), or just check the _Share to Twitter_ box when submitting a trade through the [New Trade](https://thetradehub.net/submit) feature.\
-![](<../.gitbook/assets/image (116).png>)![](<../.gitbook/assets/image (183).png>)
+To share your trades to Twitter, you can either enable it in the [Accounts & Sharing](https://nvst.ly/settings/sharing) section of account settings, or just check the _Share to Twitter_ box when submitting a trade through the New Trade interface. You will need Twitter linked to your account to access this feature.
+
+![](<../.gitbook/assets/image (220).png>)![](<../.gitbook/assets/image (221).png>)
 
 {% hint style="info" %}
-_When enabled in settings, will always be enabled in New Trade_
+When enabled in settings, will always be enabled in New Trade.
 {% endhint %}
 
-You have full permissions of how your message or embed looks when sent. We've built a 'no-code' message builder for your Discord trade sharing, scope it out in your [account settings](https://thetradehub.net/settings). There is where you'll also specify the webhooks you wish Trade Hub to use for sending out your trades.
+You have full permissions of how your message or embed looks when sent. We've built a no-code message builder for your trade sharing on Twitter, scope it out in in the [Accounts & Sharing](https://nvst.ly/settings/sharing) section of account settings by clicking the `Customize` button next to your linked Twitter account info.
 
 **You can customize each trade event message:**
 
@@ -34,6 +35,4 @@ You have full permissions of how your message or embed looks when sent. We've bu
 * Styles & flags
 * Curent market price of ticker
 * Daily high/low price of ticker
-* [And so much more](https://docs.thetradehub.net/trade-sharing/customize-messages-or-embeds)
-
-### To learn how to customize your trade's message content, see the [customize-messages-or-embeds.md](customize-messages-or-embeds.md "mention") section.
+* [And so much more](customize-messages-or-embeds.md)

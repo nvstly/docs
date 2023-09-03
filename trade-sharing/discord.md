@@ -1,5 +1,5 @@
 ---
-description: You can share your trades to Discord via webhooks instantly
+description: Auto trade sharing to Discord via webhooks.
 ---
 
 # Discord
@@ -24,16 +24,16 @@ To create webhooks on Discord, right click on the desired channel you want trade
 
 ## Enable/Disable Sharing Trades to Webhooks
 
-To share your trades to Discord via webhooks, you can either enable it in your account settings, or just check the _Share to Discord_ box when submitting a trade through the New Trade feature.\
+To share your trades to Discord via webhooks, you can either enable it in the [Accounts & Sharing](https://nvst.ly/settings/sharing) section of account settings, or just check the _Share to Discord_ box when submitting a trade through the New Trade interface. You will need to link Discord to your account to access this feature.\
 
 
 ![](<../.gitbook/assets/image (210).png>)![](<../.gitbook/assets/image (209).png>)
 
 {% hint style="info" %}
-When enabled in settings, it will always be enabled in New Trade
+When enabled in settings, it will always be enabled in New Trade.
 {% endhint %}
 
-You have full customization of how your message or embed content looks when sent. We've built a 'no-code' message builder for sharing trades to Discord, scope it out in your account settings. There is where you'll also specify the webhooks you wish Trade Hub to use for sending out your trades.
+You have full customization of how your message or embed content looks when sent. We've built a no-code message builder for sharing trades to Discord, scope it out in the [Accounts & Sharing](https://nvst.ly/settings/sharing) section of account settings by clicking the `Customize` button next to your linked Discord account info.
 
 **You can customize each trade event message:**
 
@@ -55,7 +55,7 @@ You have full customization of how your message or embed content looks when sent
 * Curent market price of ticker
 * Daily high/low price of ticker
 * Volume
-* [And so much more](https://docs.thetradehub.net/trade-sharing/customize-messages-or-embeds)
+* [And so much more](customize-messages-or-embeds.md)
 
 ## Your Bot
 
