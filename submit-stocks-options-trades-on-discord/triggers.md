@@ -20,7 +20,7 @@ description: The bot listens for 4 triggers when entering in your trades.
 
 ## Trigger Aliases
 
-These work just as triggers do and are used at start of input.
+These are alternative triggers.
 
 {% tabs %}
 {% tab title="Open (Long/Short)" %}
