@@ -12,10 +12,6 @@ To submit opening positions\
 
 
 
-{% hint style="warning" %}
-#### You can enter in your actual price or use `CMP` or `M` for the current market price.
-{% endhint %}
-
 {% hint style="danger" %}
 **Do not use `$` with tickers.**
 {% endhint %}

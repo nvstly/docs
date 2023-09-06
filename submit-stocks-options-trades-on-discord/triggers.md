@@ -28,7 +28,7 @@ Open _(long)_ / Open Long / Open Short\
 Opening _(long)_ / Opening Long / Opening Short\
 Long / Going Long\
 Short / Shorting / Going Short\
-Buy / Buying / Bought - _Note: As of now, these are long or BTO. Not closing short._\
+Buy / Buying / Bought - _Note: As of now, these are long or BTO. **Not closing short.**_\
 
 {% endtab %}
 
