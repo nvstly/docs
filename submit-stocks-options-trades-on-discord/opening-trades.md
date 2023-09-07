@@ -72,16 +72,17 @@ Submitting trades through slash commands has a more user friendly aspect to it b
 ### Stocks
 
 Type in `/open` then select `stocks.`\
-![](<../.gitbook/assets/image (7).png>)
+
 
 Type in or select the direction `Long` or `Short`. \
-![](<../.gitbook/assets/image (6).png>)
+
 
 Type in the ticker or select a matching ticker provided.\
-![](<../.gitbook/assets/image (8).png>)
 
-Enter in the price or use `0` for the current market price.\
-![](<../.gitbook/assets/image (9).png>)
+
+Enter in the price or use `0` for the current market price.
+
+ADD GIF HERE
 
 Notes can be added and are optional. Trade Styles (swing, scalp, etc.), [Risk Factor Flags](extra/trade-styles-and-flags-daytrade-swing-or-risky-lotto.md), and a Take Profit and/or Stop Loss can all be added through using the notes.
 
