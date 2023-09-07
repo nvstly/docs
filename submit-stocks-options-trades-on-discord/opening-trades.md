@@ -19,7 +19,7 @@ Opening triggers;\
 
 To open a **long** stock position, use the trigger **`BTO`** followed by the ticker, then the symbol @ before the price.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Example of submitting a long position for $AAPL at the price of $188.00</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Example of submitting a long position for $AAPL at the price of $188.00</p></figcaption></figure>
 
 ### Opening Short
 
@@ -28,7 +28,7 @@ To open a **long** stock position, use the trigger **`BTO`** followed by the tic
 
 To open a **short** stock position, use the trigger **`STO`** followed by the ticker, then the symbol **@** before the price.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Example of submitting a short position for $AAPL at the price of $177.94</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Example of submitting a short position for $AAPL at the price of $177.94</p></figcaption></figure>
 
 ## Options Format
 
@@ -71,14 +71,11 @@ Submitting trades through slash commands has a more user friendly aspect to it b
 
 ### Stocks
 
-Type in `/open` then select `stocks.`\
+Type in `/open` then select `stocks`.
 
+Type in or select the direction `Long` or `Short`.&#x20;
 
-Type in or select the direction `Long` or `Short`. \
-
-
-Type in the ticker or select a matching ticker provided.\
-
+Input the ticker or select a provided ticker matching your input.
 
 Enter in the price or use `0` for the current market price.
 
@@ -87,3 +84,25 @@ ADD GIF HERE
 Notes can be added and are optional. Trade Styles (swing, scalp, etc.), [Risk Factor Flags](extra/trade-styles-and-flags-daytrade-swing-or-risky-lotto.md), and a Take Profit and/or Stop Loss can all be added through using the notes.
 
 <figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption><p>Example of submitting a long position for $AAPL at $177.90, adding the Earnings risk flag, and setting both TP/SL</p></figcaption></figure>
+
+### Options
+
+Type in `/open` and select o`ptions`.
+
+Type in or select the direction `Long` or `Short`.
+
+Input the ticker or select a provided ticker matching your input.
+
+For State, select `Call` or `Put`.
+
+Enter in the date using the format MM/DD. _(Use /YY if next year.)_
+
+Put in the strike price.
+
+Enter in the price or use `0` for the current market price.
+
+ADD GIF HERE
+
+Notes can be added and are optional. Trade Styles (swing, scalp, etc.), [Risk Factor Flags](extra/trade-styles-and-flags-daytrade-swing-or-risky-lotto.md), and a Take Profit and/or Stop Loss can all be added through using the notes.
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Example of submitting a long options call position for $SPY with $450 strike &#x26; expiration date of 9/07</p></figcaption></figure>
