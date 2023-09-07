@@ -31,9 +31,7 @@
 
 * [Overview](submit-stocks-options-trades-on-discord/overview.md)
 * [Triggers](submit-stocks-options-trades-on-discord/triggers.md)
-* [Opening Trades](submit-stocks-options-trades-on-discord/opening-trades/README.md)
-  * [Opening Long Position](submit-stocks-options-trades-on-discord/opening-trades/opening-long-position.md)
-  * [Opening Short Position](submit-stocks-options-trades-on-discord/opening-trades/opening-short-position.md)
+* [Opening Trades](submit-stocks-options-trades-on-discord/opening-trades.md)
 * [Closing Trades](submit-stocks-options-trades-on-discord/closing-trades/README.md)
   * [Closing Long Position](submit-stocks-options-trades-on-discord/closing-trades/closing-long-position.md)
   * [Closing Short Position](submit-stocks-options-trades-on-discord/closing-trades/closing-short-position.md)
