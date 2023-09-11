@@ -9,7 +9,9 @@
 ## 🆕 Submit Trades From Web
 
 * [New Trade Overview](submit-trades-from-web/new-trade-overview.md)
-* [Submit Trades](submit-trades-from-browser/submit-trades.md)
+* [Submit Trades](submit-trades-from-web/submit-trades/README.md)
+  * [Add, Change, Remove TP/SL](submit-trades-from-web/submit-trades/add-change-remove-tp-sl.md)
+  * [Update Notes & Media](submit-trades-from-web/submit-trades/update-notes-and-media.md)
 * [Advanced Input](submit-trades-from-browser/advanced-input.md)
 
 ## 📣 Trade Sharing

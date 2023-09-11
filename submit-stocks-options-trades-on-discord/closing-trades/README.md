@@ -113,5 +113,5 @@ Notes can be added and are optional. Trimming or partially closing positions can
 
 {% hint style="info" %}
 Did you know?\
-You can quickly close trades by using the `$list` or `/list` command to show your open trades, where each one has a button to immediately close it at the current market price. Check out [Broken link](broken-reference "mention") for a list of all commands and how to use them.
+Quickly closing trades can be done by using the `$list` or `/list` command to show all open trades, where each one has a button to immediately close it at the current market price. Check out [Broken link](broken-reference "mention") for a list of all commands and how to use them.
 {% endhint %}
