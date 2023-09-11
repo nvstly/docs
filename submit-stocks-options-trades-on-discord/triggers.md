@@ -1,5 +1,5 @@
 ---
-description: The bot listens for 4 triggers when entering in your trades.
+description: The bot listens for 4 triggers when submitting your trades.
 ---
 
 # Triggers

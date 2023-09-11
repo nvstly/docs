@@ -33,7 +33,7 @@
 * [Triggers](submit-stocks-options-trades-on-discord/triggers.md)
 * [Opening Trades](submit-stocks-options-trades-on-discord/opening-trades.md)
 * [Closing Trades](submit-stocks-options-trades-on-discord/closing-trades/README.md)
-* [Average Up/Down](submit-stocks-options-trades-on-discord/average-up-down.md)
+* [Average Up/Down Positions](submit-stocks-options-trades-on-discord/average-up-down-positions.md)
 * [Trim/Partial Close](submit-stocks-options-trades-on-discord/trim-partial-close.md)
 * [Setting TP/SL](submit-stocks-options-trades-on-discord/setting-tp-sl.md)
 * [Error/Invalid Replies](submit-stocks-options-trades-on-discord/error-invalid-replies.md)
