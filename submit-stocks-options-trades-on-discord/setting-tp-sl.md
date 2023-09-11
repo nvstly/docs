@@ -58,7 +58,9 @@ A TP/SL can be added, changed, or removed at any time by using the `$list` or `/
 
 Trades are intended to auto close when the asset's price reaches or exceeds the specified TP/SL values. When this occurs, the bot will send a message notification in the originating server channel the trade was opened in, as well send a DM notification (if enabled) to the trader or user.
 
-ADD IMAGE HERE (of when tp/sl hit and notif sent to channel and DM)
+<figure><img src="../.gitbook/assets/image (234).png" alt=""><figcaption><p>Notification sent to channel the trade originates in</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (235).png" alt=""><figcaption><p>DM notification for TP/SL being triggered</p></figcaption></figure>
 
 {% hint style="danger" %}
 Note: Auto closing at TP/SL when hit is not always 100% successful with volatility. If you have them set and a trade didn't close when it should, please use the `$fixtrade` command or reach out to [support.](https://discord.gg/rhAvzyzk9J)
