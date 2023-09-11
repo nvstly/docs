@@ -81,15 +81,15 @@ Input the ticker or select a provided ticker matching your input.
 
 Enter in the price or use `0` for the current market price.
 
-ADD GIF HERE
+ADD GIF HERE of submitting trade (may need new screenshot for matching data)
 
-Notes can be added and are optional. Trade Styles (swing, scalp, etc.), [Risk Factor Flags](extra/trade-styles-and-flags-daytrade-swing-or-risky-lotto.md), and a Take Profit and/or Stop Loss can all be added through using the notes.
+Notes can be added and are optional. Trade Styles (swing, scalp, etc.), [Risk Factor Flags](extra/trade-styles-and-flags-daytrade-swing-or-risky-lotto.md), and a Take Profit and/or Stop Loss can all be added by using the notes.
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption><p>Example of submitting a long position for $AAPL at $177.90, adding the Earnings risk flag, and setting both TP/SL</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption><p>Example of opening a long position for $AAPL at $177.90, adding the Earnings risk flag, and setting both TP/SL</p></figcaption></figure>
 
 ### Options
 
-Type in `/open` and select o`ptions`.
+Type in `/open` and select `options`.
 
 Type in or select the direction `Long` or `Short`.
 
@@ -103,8 +103,8 @@ Put in the strike price.
 
 Enter in the price or use `0` for the current market price.
 
-ADD GIF HERE
+ADD GIF HERE of submitting trade (may need new screenshot for matching data)
 
-Notes can be added and are optional. Trade Styles (swing, scalp, etc.), [Risk Factor Flags](extra/trade-styles-and-flags-daytrade-swing-or-risky-lotto.md), and a Take Profit and/or Stop Loss can all be added through using the notes.
+Notes can be added and are optional. Trade Styles (swing, scalp, etc.), [Risk Factor Flags](extra/trade-styles-and-flags-daytrade-swing-or-risky-lotto.md), and a Take Profit and/or Stop Loss can all be added through by the notes.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Example of submitting a long options call position for $SPY with $450 strike &#x26; expiration date of 9/07</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Example of opening a long options call position for $SPY with $450 strike &#x26; expiration date of 9/07, adding the YOLO high risk flag, and setting both TP/SL.</p></figcaption></figure>
