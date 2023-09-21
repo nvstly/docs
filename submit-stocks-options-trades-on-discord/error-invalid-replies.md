@@ -46,4 +46,4 @@ This occurs if the specified strike price is not a real strike for that options 
 
 ### You already have an open position in _`TICKER`_
 
-You cannot have two open positions (long/short) for the same equity or options contract. If you've submitted a long position and try to submit a short sell position on the same ticker or options contract, you will get this error- and the same vice versa.
+You cannot have two opposite direction open positions (long & short) for the same equity or options contract. If you've submitted a long position and try to submit a short sell position on the same ticker or options contract, you will get this error- and the same vice versa.
