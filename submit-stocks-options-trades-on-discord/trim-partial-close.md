@@ -14,7 +14,7 @@ _(trimming, scale, scaling, partial, partially)_
 > I.e. _`STC AAPL @ 150`` `**`partial`**_\
 > _`BTC SPY 4/01 460p @ 2.4`**`0 trim`**_
 
-To trim or partially close trades and keep them open, use the trim/partial triggering keywords at the end of the trade or anywhere within the notes, such as `trim` `trimming` `scale` `scaling` `partial` `partially`.&#x20;
+To trim or partially close trades and keep them open, use the trim/partial keywords at the end of the trade or anywhere within the notes, such as `trim` `trimming` `scale` `scaling` `partial` `partially`.&#x20;
 
 {% hint style="info" %}
 When options trades expire that have been trimmed or partially closed, the position will be closed at the last trimmed/partial price.
@@ -22,15 +22,15 @@ When options trades expire that have been trimmed or partially closed, the posit
 
 {% tabs %}
 {% tab title="Example #1" %}
-![](<../.gitbook/assets/image (3) (1).png>)Example of partially closing $TSLA short position
+![](<../.gitbook/assets/image (3) (1) (1).png>)Example of partially closing $TSLA short position
 {% endtab %}
 
 {% tab title="Example #2" %}
-![](<../.gitbook/assets/image (5).png>)Example of partially closing $MSFT long position
+![](<../.gitbook/assets/image (5) (1).png>)Example of partially closing $MSFT long position
 {% endtab %}
 
 {% tab title="Example #3" %}
-![](<../.gitbook/assets/image (6).png>)Example of partially closing $AAPL long position
+![](<../.gitbook/assets/image (6) (1).png>)Example of partially closing $AAPL long position
 {% endtab %}
 {% endtabs %}
 

@@ -4,7 +4,7 @@ description: Explanation of all New Trade and Active Positions interface element
 
 # New Trade Overview
 
-<figure><img src="../.gitbook/assets/image (10) (1).png" alt=""><figcaption><p>New Trade Interface</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10) (1) (1).png" alt=""><figcaption><p>New Trade Interface</p></figcaption></figure>
 
 ## New Trade
 

@@ -27,7 +27,7 @@ If you're experienced or familiar with using the NVST.ly Discord bot, the advanc
 These keywords can be used anywhere within the notes.\
 \
 **Notes:**\
-Notes are used after the price. They can be used to set the [style](../submit-stocks-options-trades-on-discord/extra/trade-styles-and-flags-daytrade-swing-or-risky-lotto.md) of a trade, set Take Profit and/or Stop Loss, partial/trim a position, mark a trade with [risk factor flags](../submit-stocks-options-trades-on-discord/extra/trade-styles-and-flags-daytrade-swing-or-risky-lotto.md), or specify a crypto exchange,&#x20;
+Notes are used after the price. They can be used to set the [style](broken-reference) of a trade, set Take Profit and/or Stop Loss, partial/trim a position, mark a trade with [risk factor flags](broken-reference), or specify a crypto exchange,&#x20;
 
 ### &#x20;**Examples:**
 

@@ -24,7 +24,7 @@ How To Submit & Modify Trades For:\
 6. Select the Style of your trade; Daytrade, Swing, Scalp, or Long Term.
 7. Hit `Continue`
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1).png" alt=""><figcaption><p>Submit trades using the New Trade interface</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Submit trades using the New Trade interface</p></figcaption></figure>
 
 {% hint style="info" %}
 Did you know?\
@@ -38,11 +38,11 @@ After continuing to the next step, the submitted price will be locked in. So eve
 3. Add a risk factor flag; Earnings, YOLO/Lotto, or Risky.
 4. Modify your Trade Sharing settings.
 
-<figure><img src="../../.gitbook/assets/image (5) (1) (1) (1).png" alt=""><figcaption><p>TP/SL, trade notes, risk flags, and Trade Sharing are all optional and this step can be skipped</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (1) (1) (1).png" alt=""><figcaption><p>TP/SL, trade notes, risk flags, and Trade Sharing are all optional and this step can be skipped</p></figcaption></figure>
 
 ### Average, Partial/Trim, or Closing
 
-Use ![](<../../.gitbook/assets/image (9) (1).png>) to instantly close a position at the current market price.
+Use ![](<../../.gitbook/assets/image (9) (1) (1).png>) to instantly close a position at the current market price.
 
 1. Click on a position's row to expand it.
 2. Select Average, Partial, or Close from the dropdown menu under Status.
@@ -51,7 +51,7 @@ Use ![](<../../.gitbook/assets/image (9) (1).png>) to instantly close a position
 5. Modify the Trade Share settings
 6. Hit `Submit`
 
-<figure><img src="../../.gitbook/assets/image (8) (1).png" alt=""><figcaption><p>Average, partial/trim, and close all open positions from the Active Positions tab on the New Trade interface</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption><p>Average, partial/trim, and close all open positions from the Active Positions tab on the New Trade interface</p></figcaption></figure>
 
 ## How to Submit Options Trades
 
@@ -68,7 +68,7 @@ Use ![](<../../.gitbook/assets/image (9) (1).png>) to instantly close a position
 9. Input the strike price.
 10. Hit `Continue`
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Stock options trades can be submited using the New Trade interface</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Stock options trades can be submited using the New Trade interface</p></figcaption></figure>
 
 **Second & **<mark style="color:red;">**Optional**</mark>** Final Step**
 
@@ -79,7 +79,7 @@ Use ![](<../../.gitbook/assets/image (9) (1).png>) to instantly close a position
 
 ### Average, Partial/Trim, or Closing
 
-Use ![](<../../.gitbook/assets/image (9) (1).png>) to instantly close a position at the current market price.
+Use ![](<../../.gitbook/assets/image (9) (1) (1).png>) to instantly close a position at the current market price.
 
 1. Click on a position's row to expand it.
 2. Select Average, Partial, or Close from the dropdown menu under Status.
@@ -88,7 +88,7 @@ Use ![](<../../.gitbook/assets/image (9) (1).png>) to instantly close a position
 5. Modify the Trade Share settings
 6. Hit `Submit`
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Average, partial/trim, and close all open positions from the Active Positions tab on the New Trade interface</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Average, partial/trim, and close all open positions from the Active Positions tab on the New Trade interface</p></figcaption></figure>
 
 ## How to Submit Crypto Trades
 
@@ -103,7 +103,7 @@ Use ![](<../../.gitbook/assets/image (9) (1).png>) to instantly close a position
 7. Select the Style of your trade: Daytrade, Swing, Scalp, or Long Term.
 8. Hit `Continue`
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Submit crypto trades using the New Trade interface</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Submit crypto trades using the New Trade interface</p></figcaption></figure>
 
 **Second & **<mark style="color:red;">**Optional**</mark>** Final Step**
 
@@ -114,7 +114,7 @@ Use ![](<../../.gitbook/assets/image (9) (1).png>) to instantly close a position
 
 ### Average, Partial/Trim, or Closing
 
-Use ![](<../../.gitbook/assets/image (9) (1).png>) to instantly close a position at the current market price.
+Use ![](<../../.gitbook/assets/image (9) (1) (1).png>) to instantly close a position at the current market price.
 
 1. Click on a position's row to expand it.&#x20;
 2. Select Average, Partial, or Close from the dropdown menu under Status.&#x20;
@@ -123,7 +123,7 @@ Use ![](<../../.gitbook/assets/image (9) (1).png>) to instantly close a position
 5. Modify the Trade Share settings&#x20;
 6. Hit `Submit`
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption><p>Average, partial/trim, and close all open positions from the Active Positions tab on the New Trade interface</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Average, partial/trim, and close all open positions from the Active Positions tab on the New Trade interface</p></figcaption></figure>
 
 ##
 
