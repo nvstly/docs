@@ -38,12 +38,13 @@
 * [Average Up/Down Positions](submit-stocks-options-trades-on-discord/average-up-down-positions.md)
 * [Trim/Partial Close](submit-stocks-options-trades-on-discord/trim-partial-close.md)
 * [Setting TP/SL](submit-stocks-options-trades-on-discord/setting-tp-sl.md)
-* [Error/Invalid Replies](submit-stocks-options-trades-on-discord/error-invalid-replies.md)
-* [Fix/Edit Trades](submit-stocks-options-trades-on-discord/fix-edit-trades.md)
+* [Trade Styles, Risk Flags, & Trade Notes](submit-stocks-options-trades-on-discord/trade-styles-risk-flags-and-trade-notes.md)
 * [Extra](submit-stocks-options-trades-on-discord/extra/README.md)
   * [Trade Styles & Flags (daytrade/swing or risky/lotto)](submit-stocks-options-trades-on-discord/extra/trade-styles-and-flags-daytrade-swing-or-risky-lotto.md)
   * [Adding Notes](submit-stocks-options-trades-on-discord/extra/adding-notes.md)
   * [Submit Multiple Trades](submit-stocks-options-trades-on-discord/extra/submit-multiple-trades.md)
+* [Error/Invalid Replies](submit-stocks-options-trades-on-discord/error-invalid-replies.md)
+* [Fix/Edit Trades](submit-stocks-options-trades-on-discord/fix-edit-trades.md)
 * [Link Your Bot](submit-stocks-options-trades-on-discord/link-your-bot.md)
 
 ## 🪙 Submit Crypto Trades on Discord
