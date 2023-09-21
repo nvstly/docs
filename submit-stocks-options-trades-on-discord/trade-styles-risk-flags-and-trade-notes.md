@@ -37,9 +37,11 @@ Earnings, ER
 
 To specify risk factors on trades, use trade flag keywords anywhere in the notes. More than one trade flag can be applied.
 
-![](<../.gitbook/assets/image (7).png>)\
+\
 \
 Trades flagged with a risk factor are displayed as such on the [Trades](https://nvst.ly/trades) and Trade Insight interfaces.
+
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption><p>Risk Flag "Lotto" added by using the keyword in Trade Notes</p></figcaption></figure>
 
 <img src="../.gitbook/assets/image (8).png" alt="" data-size="original">![](<../.gitbook/assets/image (9).png>)
 
@@ -55,7 +57,7 @@ Trade Notes are comments that are attached to trades when they are submitted. Th
 
 Adding notes with trade submissions are done by commenting or writing anything after the trade price.
 
-![](<../.gitbook/assets/image (12).png>)
+<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption><p>Comments added to trade submission using Trade Notes</p></figcaption></figure>
 
 {% hint style="info" %}
 Remember
