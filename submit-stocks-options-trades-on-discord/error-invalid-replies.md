@@ -6,19 +6,15 @@ description: Explanation of error or invalid message replies you might run into.
 
 ### **Invalid:** Your input format is invalid, please recheck the format of your message.
 
-The format of your message is wrong. Common cases include typos of triggers or `cmp`, misplacing ticker, expiration date, strike price, missing `call`/`put`, or not including the `@` before price.
-
-
+The format of your message is wrong. Common cases include mistyping triggers or `cmp`, misplacing or excluding ticker, expiration date, strike price, missing `call`/`put`, or not including the `@` before price.
 
 ### That ticker symbol is invalid!
 
-The specified ticker does not exist, was spelled wrong, or is not yet in our system. Typically, IPOs take 48-72 hours to be entered. Please only click the Report button if it's an actual ticker, not a typo. You may use $fixtrade to request a trade if this occurs for an actual ticker.
+The specified ticker does not exist, was spelled wrong, or is not yet in our system. Typically, IPOs take 48-72 hours to be added. Please only click the Report button if it's an actual ticker, not a typo.
 
 ### Your price is too far off the current market price of...
 
-This occurs when your specified price for the stock trade is out of the allowed range of the current stock price at the time of submission. _Use `$fixtrade` if you can't get in your actual price._
-
-
+This occurs when your specified price of the trade is outside the tolerated range of the current price at the time of submission.
 
 ### Your premium price is too far off the current price of...
 
