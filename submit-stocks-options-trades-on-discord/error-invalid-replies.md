@@ -8,11 +8,6 @@ description: Explanation of error or invalid message replies you might run into.
 
 The format of your message is wrong. Common cases include mistyping triggers or `cmp`, misplacing or excluding ticker, expiration date, strike price, missing `call`/`put`, or not including the `@` before price.
 
-{% hint style="info" %}
-**Did you know?**\
-_Y_ou may use the `/fixtrade` or `$fixtrade` command to request a trade to be forced in on your behalf if you run into an error or issue preventing a legitament trade from being submitted.
-{% endhint %}
-
 ### That ticker symbol is invalid!
 
 The specified ticker does not exist, was spelled wrong, or is not yet in our system. Typically, IPOs take 48-72 hours to be added. Please only click the Report button if it's an actual ticker, not a typo.
@@ -24,6 +19,11 @@ This occurs when the specified price of the trade is outside the tolerated range
 ### Your premium price is too far off the current price of...
 
 This occurs when the specified premium price for an options trade submission is outside the tolerated range of the current price at the time of submission.
+
+{% hint style="info" %}
+**Did you know?**\
+_Y_ou may use the `/fixtrade` or `$fixtrade` command to request a trade to be forced in on your behalf if you run into an error or issue preventing a legitament trade from being submitted.
+{% endhint %}
 
 ### You do not have a position in...
 
