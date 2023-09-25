@@ -22,15 +22,15 @@ When options trades expire that have been trimmed or partially closed, the posit
 
 {% tabs %}
 {% tab title="Example #1" %}
-![](<../.gitbook/assets/image (3) (1) (1).png>)Example of partially closing $TSLA short position
+![](<../.gitbook/assets/image (3) (1) (1) (1).png>)Example of partially closing $TSLA short position
 {% endtab %}
 
 {% tab title="Example #2" %}
-![](<../.gitbook/assets/image (5) (1).png>)Example of partially closing $MSFT long position
+![](<../.gitbook/assets/image (5) (1) (1).png>)Example of partially closing $MSFT long position
 {% endtab %}
 
 {% tab title="Example #3" %}
-![](<../.gitbook/assets/image (6) (1).png>)Example of partially closing $AAPL long position
+![](<../.gitbook/assets/image (6) (1) (1).png>)Example of partially closing $AAPL long position
 {% endtab %}
 {% endtabs %}
 

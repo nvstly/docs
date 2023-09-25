@@ -13,11 +13,11 @@ Daytrade - Swing - Scalp - Long Term
 
 Specifying the style of a trade has no functionality other than cosmetic and informational purposes. It can help viewers whether the trade is short or long term. By default, all trades use the `Daytrade` style unless specified otherwise.&#x20;
 
-![](<../.gitbook/assets/image (3).png>)![](<../.gitbook/assets/image (5).png>)
+![](<../.gitbook/assets/image (3) (1).png>)![](<../.gitbook/assets/image (5) (1).png>)
 
 To set the style of a trade, mention any one of the style keywords anywhere in the trade notes.
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption><p>Trade Style keyword "swing" used in notes will mark the trade as a swing</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption><p>Trade Style keyword "swing" used in notes will mark the trade as a swing</p></figcaption></figure>
 
 ## Risk Flags
 
