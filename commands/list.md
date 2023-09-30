@@ -1,18 +1,21 @@
 ---
 description: >-
-  List 5 of your latest open trades and easily set/change the TP/SL or close it
-  out at cmp or current market price.
+  List all open trades, 4 at a time, and easily set/change the TP/SL or close
+  them out at current market price
 ---
 
 # List
 
 {% hint style="info" %}
-`$list`\
-**or**\
-**`$list <ticker>` (I.e. `$list SPY`)**
+`$list` **or** `/list`\
+**and**\
+`$list <ticker>` **or** `/list <ticker>`
 {% endhint %}
 
-Quick and easy way to see your latest open trades and either set or change TP/SL\
-If you are a trader with many positions open, you can specify a ticker after `$list` and it will pull up the last 5 trades regarding the ticker.
+> $list AAPL\
+> /list AAPL
 
-![](<../.gitbook/assets/image (31).png>)
+A quick and simple way to see all of the open trades in order of most recent, and can list only open positions for a specified ticker.\
+From this interface, trades can be instantly closed at the current market price with the click of a button, as well setting, changing, or removing TP/SL. _(See_ [setting-tp-sl.md](../submit-stocks-options-trades-on-discord/setting-tp-sl.md "mention") _for more info.)_
+
+![](<../.gitbook/assets/image (8).png>)

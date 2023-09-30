@@ -1,38 +1,31 @@
 ---
-description: Explanation of error or invalid message replies you might run into.
+description: Explanation of error or invalid message replies you might run into
 ---
 
 # Error/Invalid Replies
 
-## **Will be written soon, doesn't use all the same errors as stocks/options trades- finishing them up and will note them here.**
+### That ticker symbol is invalid!
 
-### **Invalid:** Your input format is invalid, please recheck the format of your message.
-
-The format of your message is wrong. Common cases include typos of triggers or `cmp`, misplacing ticker/pair, not using the right format, or not including the `@` before price.
-
-
-
-### That ticker and/or pair is invalid!
-
-The ticker or trading pair you used was not found on the exchange the trade was specified on. Double check your default exchange or the one you specified in the trade submit input is correct.\
-\
-If you feel it's a mistake, hit the _Report_ button and we'll look into it. You can also hit the _Report & Fixtrade_ button to report the issue and request a fixtrade at the same time.
-
-
+The specified ticker does not exist, was spelled wrong, or is not on the default or specified exchange. Please only click the Report button if it's an actual ticker, not a typo.
 
 ### Your price is too far off the current market price of...
 
-This occurs when your specified price for the crypto trade is outside of the allowed range of the current market price at the time of submission. _Use `$fixtrade` if you can't get in your actual price._
+This occurs when the specified price of the trade is outside the tolerated range of the current price at the time of submission.
 
+{% hint style="info" %}
+**Did you know?**\
+_Y_ou may use the `/fixtrade` or `$fixtrade` command to request a trade to be forced in on your behalf if you run into an error or issue preventing a legitimate trade from being submitted.
+{% endhint %}
 
+### You do not have a position in...
 
-### You don't have an open position in...
-
-This occurs when you are using a closing input for a crypto ticker/pair that you do not currently have an open position for. Check if your open position is long or short, and that you are using the proper triggers when closing, or that you're specifying the correct exchange. Use `$fixtrade` if your open position closes unexpectedly.
-
-
+This occurs when you attempt to submit a closing trade for a position that is not currently opened. _Double check that the open position is long or short, and that the proper trigger is being used when closing._
 
 ### You already have an open position in _`TICKER`_
 
-On the same exchange, you cannot have two open positions in opposite directions (long/short) for the same crypto token and pair.If you've submitted a long position and try to submit a short sell position on the same ticker/pair, you will get this error- and the same vice versa.
+There cannot be two opposite direction open positions (long & short) for the same stock or options contract. If a long position has been submitted and a short sell position with the same ticker or options contract is attempted to be submitted, this error will occur.
+
+### You cannot set your `TP`/`SL` `above`/`below` the current market price.
+
+This occurs when you attempt to set a TP below the current market price, or a SL above the current market price.
 

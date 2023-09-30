@@ -31,7 +31,7 @@ If successful, the bot will react with :white\_check\_mark:\
 ### Admin Roles List
 
 To view a list of all admin roles, use the command `$adminroles` without any syntax.\
-![](<../../.gitbook/assets/image (14) (1).png>)
+![](<../../.gitbook/assets/image (14) (1) (1).png>)
 
 
 

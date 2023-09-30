@@ -36,9 +36,9 @@ The `-S` and `.X` syntax's can be used with any of these characters:\
 ### How to set or change the Default Trading Market
 
 Use the `/defaults` or `$defaults` command to bring up the defaults settings interface. Click on the button labeled "Default Market".\
-![](../.gitbook/assets/image.png)\
+![](<../.gitbook/assets/image (17).png>)\
 A prompt will appear where the name of the default market can be entered.\
-![](<../.gitbook/assets/image (1).png>)\
+![](<../.gitbook/assets/image (1) (1).png>)\
 Type in `crypto` to set the default trading market to crypto, then hit Submit.
 
 If successful the bot will then respond with an ephemeral message stating that the default market has been changed. If it responds with "That is not a supported market!" try again and double check the spelling of `stocks` or `crypto`.
@@ -81,9 +81,9 @@ By default, a new users default exchange is set to `binance`. Specifying an exch
 ### How to set or change the Default Exchange
 
 Use the `/defaults` or `$defaults` command to bring up the defaults settings interface. Click on the button labeled "Default Exchange".\
-![](<../.gitbook/assets/image (2).png>)\
+![](<../.gitbook/assets/image (2) (1).png>)\
 A prompt will appear where the name of the exchange can be entered.\
-![](<../.gitbook/assets/image (3).png>)\
+![](<../.gitbook/assets/image (3) (1).png>)\
 Type in any one of the 26 exchanges and hit Submit.
 
 If successful the bot will then respond with an ephemeral message stating that the default exchange has been set to the specified exchange. If it responds with "That isn't a support crypto exchange!" try again and double check that the spelling matches one of the exchanges listed above.
@@ -100,9 +100,9 @@ I.e. BTC/USDT - where USDT is the pair.
 ### How to set or change the Default Trading Pair
 
 Use the `/defaults` or `$defaults` command to bring up the defaults settings interface. Click on the button labeled "Default Pair".\
-![](<../.gitbook/assets/image (4).png>)\
+![](<../.gitbook/assets/image (4) (1).png>)\
 A prompt will appear where the ticker of the default trading pair can be entered.\
-![](<../.gitbook/assets/image (5).png>)\
+![](<../.gitbook/assets/image (5) (1).png>)\
 Type in the desired ticker for the default pair.
 
 If successful the bot will then respond with an ephemeral message stating that the default pair has been set to the specified ticker. If it responds with "Your default pair is invalid." try again and double check that the ticker is a valid trading pair.

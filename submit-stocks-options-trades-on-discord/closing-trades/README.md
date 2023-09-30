@@ -62,7 +62,8 @@ To close **short** options position, use the trigger **`BTC`** followed by the _
 {% hint style="danger" %}
 Final Notes:\
 \- **Do not use `$` with tickers.** \
-**-** You can enter in your actual price or use `CMP` or `M` for submitting at the current market price.
+\- Submit using a specified price, or use `CMP` or `M` for submitting at the current market price.\
+\- Multiple trades can be submitted in a single message by using 3 back ticks (\`\`\`) before and after the whole message.
 {% endhint %}
 
 

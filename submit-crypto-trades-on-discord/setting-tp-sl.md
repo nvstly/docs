@@ -1,46 +1,66 @@
 ---
 description: >-
-  How to set or change TP/SL, one or both can be set. These can auto close your
-  trade when their specified levels are hit.
+  How to set and change a Take Profit and/or Stop Loss. Trades are automatically
+  closed when the asset prices reaches these specified values
 ---
 
 # Setting TP/SL
 
-### How To Set
+There are various methods in setting and changing Take Profits and Stop Losses.
+
+## Using the "Add TP/SL" button
+
+When the bot replies to an open trade submission, a blue button titled `Add TP/SL` is attached with it's response. Clicking this will prompt a user friendly popup where values can be specified for Take Profit and/or Stop Loss. Set the value for one or both.
+
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Set TP/SL popup upon clicking the "Add TP/SL" button</p></figcaption></figure>
+
+The bot will not allow a value below the current market price to be set for a Take Profit, and a value above the current market price to be set for a Stop Loss- and vice versa for short positions.
+
+#### Changing or removing TP/SL using "Add TP/SL" button
+
+This button can also be used to change or remove existing TPs and SLs. To change, simply specify a new value. To remove one or both, set the value to 0 (zero).
 
 {% hint style="info" %}
-**Take Profit & Stop Loss can be set, or just one**. The format is not strict, just need to specify the price after the letters **`TP`** or **`SL`** | To cancel one, set it to **0** (zero)\
-Example;\
-`TP 2.34`\
-`SL 1.23`
+Did you know?\
+Using the `$list` or `/list` command will display all open trades where each one has a button to add or change TP/SL.
 {% endhint %}
 
-You can set a _Take Profit_ and/or a _Stop Loss_ on your trades. It helps to set a stop loss on your trades as you would in your real trading account, otherwise your options trades can expire for -100% and impact your stats if you forget to submit the exit.\
-\
-Each time you submit an opening trade a temporary blue button labeled _Set TP/SL_ will be available. When clicking this button the bot will prompt you with an ephemeral message that only you can see noting the format to use when setting a TP and/or SL.\
-![](<../.gitbook/assets/image (89).png>)\
-The format is simple, just be sure to note **`TP`** before the price of your _Take Profit_ and **`SL`** before the price of your _Stop Loss_. Characters can be used between **`tp`**/**`sl`** and the price, a space between TP/SL and price, or even none  at all.\
-\
-When successfully setting your TP/SL the bot will react with :white\_check\_mark: and it's ephemeral message will edit to _Added new TP/SL._ and you will see that the original bots confirmation message reply to your trade has been edited with the set prices for your _Take Profit_ and/or _Stop Loss_.\
-![](<../.gitbook/assets/image (151).png>)\
-**You can either set one or the other.**\
-**To cancel one just set it to 0.**\
-\
-The bot will not allow you to set a _TP_ under the current market price or an _SL_ above the current market price for _long_ trades, and vice versa for _short_. But _TP/SL_ can be changed at any time as the market price moves.
+After successfully setting or changing a TP/SL, the bot's ephemeral message will be edited to confirm the values specified. The bot will also edit it's response embed to the submitted trade to display the TP/SL values.\
+CHANGE THIS - add gif of setting TP/SL and bot editing the embed
 
-### Changing TP/SL
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Successfully setting or changing TP/SL</p></figcaption></figure>
+
+## Setting TP/SL with trade submission
+
+Take Profit and/or Stop Loss values can be specified anywhere within the trade notes when submitting a trade. When using the keyword letters `TP` and/or `SL`, any numbers following after them will be the values used. It's sophisticated in a way where symbols or words can be used between `TP`/`SL` and the number values.
+
+> Specify the price after the keyword letters **`TP`** & **`SL`** | To cancel or remove a TP/SL, set it to **0** (zero).\
+> Examples;\
+> `TP 2.34 SL 1.23`\
+> `TP @ 2.34 and SL @ 1.23`\
+> `TP is 2.34 & SL is 1.23`\
+> _(Any symbol or word can be used where `@` and `is` are.)_
+
+EXAMPLE IMAGE HERE
+
+### Changing TP/SL using List command
 
 {% hint style="info" %}
-$list Displays 5 latest open trades
+The `$list` or `/list` command displays all open trades ordered by most recent. Specifying a ticker with the command will show only open trades for that ticker symbol.
 {% endhint %}
 
-You can change your _TP/SL_ anytime by hitting the same button again, or using the **`$list`** command which will show your last 5 open trades. (We're working on the ability to show or select more trades to display)\
-![](<../.gitbook/assets/image (69).png>)
+A TP/SL can be added, changed, or removed at any time by using the `$list` or `/list` command.  It displays all your open trades 4 at a time. Each trade has a TP/SL button that can be used to specify new or remove values.
+
+EXAMPLE IMAGE HERE OF $LIST WITH CRYPTO TRADES
 
 ### When TP/SL is Hit
 
-Trades are intended to auto close when your specified TP/SL levels are reached. When this occurs you will receive a DM notification from the bot, _be sure you don't have DM's disabled for the server you're using it in._
+Trades are intended to auto close when the asset's price reaches or exceeds the specified TP/SL values. When this occurs, the bot will send a message notification in the originating server channel the trade was opened in, as well send a DM notification (if enabled) to the trader or user.
+
+EXAMPLE IMAGE HERE OF BOT REPLY IN CHANNEL & DM NOTIF OF CRYPTO TP/SL BEING HIT
+
+
 
 {% hint style="danger" %}
-_**Auto closing at TP/SL when hit is not always 100% success with volatility, if you have them set and your play didn't close when hit please use `$fixtrade` or reach out to**_ [_**support**_](https://trhub.net/discord)_**.**_
+Note: Auto closing at TP/SL when hit is not always 100% successful with volatility. If you have them set and a trade didn't close when it should, please use the `$fixtrade` command or reach out to [support.](https://discord.gg/rhAvzyzk9J)
 {% endhint %}

@@ -1,14 +1,18 @@
 ---
-description: Give reputation with bot command.
+description: +Rep others using the bot
 ---
 
 # Reputation
 
 {% hint style="info" %}
-**$rep <@user/username>**\
-I.e. _`$rep @Hubert`_ | _`$rep Trader One`_
+`$rep @USER/USERNAME`\
+**or**\
+`/rep USER`
 {% endhint %}
 
-You can give traders' reputation directly from Discord with the bot. Use the `$rep` command followed by their Trade Hub username or by Discord's @mention ping. \
+> $rep @Hubert \
+> $rep Hubert
+
+Traders can give others +Rep (reputation) directly from Discord using the `$rep` or `/rep` command.\
 \
-When successful, the bot will react with ✅
+When successful, the bot will reply "Successful +Rep to \<trader name>"

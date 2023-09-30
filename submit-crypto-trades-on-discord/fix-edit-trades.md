@@ -1,46 +1,9 @@
 ---
-description: >-
-  Trades that need fixed, changed, or entered, averaged, trimmed, or closed need
-  to be requested through support to prevent stat manipulation. This page will
-  show you how to request them.
+description: Under Development
 ---
 
 # Fix/Edit Trades
 
-## Now that crypto is here, this command will be revamped completely different and more effecient for our team to keep up with the requests.
-
-### Please bare with us for the time being, you can still use the current method for crypto.
-
-{% hint style="info" %}
-**$fxtrade**
-{% endhint %}
-
-### $fixtrade
-
-The `$fixtrade` command prompts the bot to DM you with a quick & simple process to fix a trade or have one placed on your behalf that the bot wouldn't log for whatever reason.\
-![](<../.gitbook/assets/image (48).png>)\
-Click on the button that represents what you're requesting.
-
-
-
-### Provide your trade data
-
-\
-![](<../.gitbook/assets/image (13) (1) (1).png>)\
-You will then be asked to provide the trade data exactly as you normally would when submitting trades with the bot. _This prevents any confusion for our staff and guarantees the accuracy of your request._
-
-
-
-### Trade ID (Trade Insight link)
-
-\
-![](<../.gitbook/assets/image (145).png>)\
-Only applies if your trade is already in the system. You will need to provide your Trade ID so our team knows exactly which trade to fix or remove. To find this ID, visit your [dashboard](https://thetradehub.net/dashboard) and click on the trade you are inquiring about. It will redirect you to a page. Copy this link and send it.
-
-
-
-### Proof-of-Trade
-
-\
-![](<../.gitbook/assets/image (159).png>)\
-To prevent any type of stat manipulation or rank cheating, some type of proof is required. Whether it's a screenshot of your actual trade within your brokerage/app or a screenshot of you submitting the trade in Discord and the bots' error or invalid reply message, or lack thereof..
+Version 1's fixtrade process was lengthy and ineffeicent. While we continue to develop and improve this feature on 2.0, please use our Discord support server or send an email to request a trade to be fixed, added, or removed.\
+Discord: [https://discord.gg/tradehub](https://discord.gg/tradehub)\
+Email: fixtrade@nvst.ly

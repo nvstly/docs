@@ -1,8 +1,7 @@
 ---
 description: >-
   We continually add useful commands to the bot to help traders see real time
-  market data without leaving Discord. These subpages will go over all the
-  available commands and how to properly use them.
+  market data without leaving Discord. Asset info, prices, charts, & more.
 ---
 
 # Market Data
@@ -16,30 +15,35 @@ Crypto charts, stats, & prices will be modified soon where you can choose to req
 ### Stocks
 
 {% hint style="info" %}
-**$c TICKER \<time>** | **$chart TICKER \<time>**\
-I.e. _`$c AAPL`_ | _`$c TSLA 1w`_ | _`$chart SPY 15m`_
+`$chart` _(or)_ `$c TICKER [time]`\
+**or**\
+`/chart TICKER [time]`
 {% endhint %}
 
-The bot can display charts in Discord by using the `$chart` or `$c` command. By default, the timeframe shown for charts is 5 minutes if one is not specified. Specify the timeframe after the ticker using **`m`** or **`min`** or **`minute`**, **`h`** or **`hour`**, **`d`** or **`day`**, **`w`** or **`week`**\
-![](<../.gitbook/assets/image (171).png>)![](<../.gitbook/assets/image (62).png>)
+> `$c AAPL`\
+> `$c TSLA 1w`\
+> `$chart SPY 15min`
+
+The bot can display stock charts by using the `$chart`, `$c`, or `/chart` commands. By default, the timeframe used for charts is 5 minutes if one is not specified.\
+To specifiy a timeframe after the ticker, use `minute`, `min`, or `m`, `hour` or `h`, `day` or `d`, and `week` or `w`.
+
+ADD EXAMPLE IMAGE HERE FOR CHARTS
 
 ### Crypto
 
-{% hint style="info" %}
-I.e _`$c BTCUSD`_ | _`$chart DOGE`_ | _`$chart ETHEUR`_
-{% endhint %}
-
-Charts also work for crypto coins just by specifying the ticker & currency pair.\
-![](<../.gitbook/assets/image (73).png>)![](<../.gitbook/assets/image (174).png>)
+UNDER DEVELOPMENT
 
 ## Stock Stats
 
 {% hint style="info" %}
-**$s \<ticker>** | **$stock \<ticker>**\
-I.e. _`$s TSLA`_ | _`$stock AMC`_
+`$stock` _(or)_ `$s TICKER`
 {% endhint %}
 
-The `$stock` command provides some data for any ticker specified. The following is the data provided;
+> `$stock TSLA`
+>
+> `$s AMC`
+
+The `$stock` command provides some data for any stock ticker specified. The following is the data provided;
 
 * Price (Including extended hours price)
 * Price Movement / % Movement
@@ -48,44 +52,41 @@ The `$stock` command provides some data for any ticker specified. The following 
 * Daily High & Low
 * Year High & Low
 
-![](<../.gitbook/assets/image (131).png>)
+![](<../.gitbook/assets/image (7).png>)
 
-{% hint style="info" %}
-This command can also be used for crypto if the currency is attached to the ticker.\
-I.e. _$stock BTCUSD_\
-We'll add a separate `$crypto` command just for cryptocurrencies.
-{% endhint %}
+## Crypto Stats
+
+UNDER DEVELOPMENT
 
 ## Prices
 
 #### Stocks
 
 {% hint style="info" %}
-**$p TICKER** | **$price TICKER**\
-I.e. _`$p TSLA`_ | _`$price AAPL`_
+`$price` _(or)_ `$p TICKER`
 {% endhint %}
 
-The `$price` or `$p` command gets any ticker price without any extra data.![](<../.gitbook/assets/image (81).png>)
+> `$price TSLA`
+>
+> `$p AAPL`
+
+The `$price` or `$p` command gets only the stock ticker price.
+
+![](<../.gitbook/assets/image (6).png>)
 
 #### Crypto
 
-{% hint style="info" %}
-**$p TICKER/Cuurrency**\
-I.e. _`$p BTCUSD`_ | _`$price ETHUSD`_
-{% endhint %}
-
-The `$price` command can also get crypto prices Be sure to attach the currency to the crypto ticker. \
-![](<../.gitbook/assets/image (80).png>)
+UNDER DEVELOPMENT
 
 ## Top Gainers/Losers
 
 {% hint style="info" %}
-**`$gainers`** | **`$topgainers`** | **`$topg`**\
-**`$losers`** | **`$toplosers`** | **`$topl`**
+$gainers, $topgainers, $topg\
+$losers, $toplosers, $topl
 {% endhint %}
 
 The `$gainers` command displays the top 10 highest gainers of the day in reference to the last closing price.\
 \
 The `$losers` command displays the top 10 losing stocks of the day in reference to the last closing price.
 
-![](<../.gitbook/assets/image (34).png>)![](<../.gitbook/assets/image (155).png>)
+![](<../.gitbook/assets/image (4).png>)![](<../.gitbook/assets/image (5).png>)

@@ -1,5 +1,5 @@
 ---
-description: Specifying trade styles, adding risk factor flags, and adding notes to trades.
+description: Specifying trade styles, adding risk factor flags, and adding notes to trades
 ---
 
 # Trade Styles, Risk Flags, & Trade Notes
@@ -13,11 +13,11 @@ Daytrade - Swing - Scalp - Long Term
 
 Specifying the style of a trade has no functionality other than cosmetic and informational purposes. It can help viewers whether the trade is short or long term. By default, all trades use the `Daytrade` style unless specified otherwise.&#x20;
 
-![](<../.gitbook/assets/image (3) (1).png>)![](<../.gitbook/assets/image (5) (1).png>)
+![](<../.gitbook/assets/image (3) (1) (1).png>)![](<../.gitbook/assets/image (5) (1) (1).png>)
 
 To set the style of a trade, mention any one of the style keywords anywhere in the trade notes.
 
-<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption><p>Trade Style keyword "swing" used in notes will mark the trade as a swing</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption><p>Trade Style keyword "swing" used in notes will mark the trade as a swing</p></figcaption></figure>
 
 ## Risk Flags
 
@@ -35,15 +35,13 @@ Earnings, ER
 > \
 > `earnings` or `er` will be marked as _Earnings Play_
 
-To specify risk factors on trades, use trade flag keywords anywhere in the notes. More than one trade flag can be applied.
-
-\
+To specify risk factors on trades, use trade flag keywords anywhere in the notes. More than one trade flag can be applied.\
 \
 Trades flagged with a risk factor are displayed as such on the [Trades](https://nvst.ly/trades) and Trade Insight interfaces.
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption><p>Risk Flag "Lotto" added by using the keyword in Trade Notes</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption><p>Risk Flag "Lotto" added by using the keyword in Trade Notes</p></figcaption></figure>
 
-<img src="../.gitbook/assets/image (8).png" alt="" data-size="original">![](<../.gitbook/assets/image (9).png>)
+<img src="../.gitbook/assets/image (8) (1).png" alt="" data-size="original">![](<../.gitbook/assets/image (9) (1).png>)
 
 {% hint style="danger" %}
 Lotto/YOLO trades are exempted from main Win Rate and all main Loss/Gain/Return stats, and have their own stats for each.
@@ -53,11 +51,11 @@ Lotto/YOLO trades are exempted from main Win Rate and all main Loss/Gain/Return 
 
 Trade Notes are comments that are attached to trades when they are submitted. They give more insight from the trader about the position. Notes are displayed for each event (open, close, etc.) on [Trades](https://nvst.ly/trades) and Trade Insight interfaces.
 
-![](<../.gitbook/assets/image (10).png>)![](<../.gitbook/assets/image (11).png>)
+![](<../.gitbook/assets/image (10) (1).png>)![](<../.gitbook/assets/image (11) (1).png>)
 
 Adding notes with trade submissions are done by commenting or writing anything after the trade price.
 
-<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption><p>Comments added to trade submission using Trade Notes</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12) (1).png" alt=""><figcaption><p>Comments added to trade submission using Trade Notes</p></figcaption></figure>
 
 {% hint style="info" %}
 Remember

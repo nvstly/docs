@@ -1,13 +1,13 @@
 ---
 description: >-
   Partially closing or trimming positions allows for locking in gains for stats
-  while still keeping the position open for potentially more future gains.
+  while still keeping the position open for potentially more future gains
 ---
 
 # Trim/Partial Close
 
 {% hint style="success" %}
-**TRIM** - **SCAL** - **PART** are all keywords to trigger a trim/partial close & can be used within the notes.\
+**TRIM** - **SCAL** - **PART** are all keywords to trigger a trim/partial close & can be used anywhere within the notes.\
 _(trimming, scale, scaling, partial, partially)_
 {% endhint %}
 
@@ -22,15 +22,15 @@ When options trades expire that have been trimmed or partially closed, the posit
 
 {% tabs %}
 {% tab title="Example #1" %}
-![](<../.gitbook/assets/image (3) (1) (1) (1).png>)Example of partially closing $TSLA short position
+![](<../.gitbook/assets/image (3) (1) (1) (1) (1).png>)Example of partially closing $TSLA short position
 {% endtab %}
 
 {% tab title="Example #2" %}
-![](<../.gitbook/assets/image (5) (1) (1).png>)Example of partially closing $MSFT long position
+![](<../.gitbook/assets/image (5) (1) (1) (1).png>)Example of partially closing $MSFT long position
 {% endtab %}
 
 {% tab title="Example #3" %}
-![](<../.gitbook/assets/image (6) (1) (1).png>)Example of partially closing $AAPL long position
+![](<../.gitbook/assets/image (6) (1) (1) (1).png>)Example of partially closing $AAPL long position
 {% endtab %}
 {% endtabs %}
 
