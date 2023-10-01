@@ -61,4 +61,4 @@ ADD GIF HERE of submitting trade (may need new screenshot for matching data)
 
 Notes can be added and are optional. Trade Styles (swing, scalp, etc.), [Risk Factor Flags](broken-reference), and a Take Profit and/or Stop Loss can all be added by using the notes.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Example of opening a long BTC/USDT position on the Binance exchange using 0 for the current market price, and setting style to Long Term</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Example of opening a long BTC/USDT position on the Binance exchange using 0 for the current market price, and setting style to Long Term</p></figcaption></figure>

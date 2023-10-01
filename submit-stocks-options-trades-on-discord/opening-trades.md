@@ -19,7 +19,7 @@ Opening triggers;\
 
 To open a **long** stock position, use the trigger **`BTO`** followed by the ticker, then the symbol @ before the price.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Example of opening a long position for $AAPL at the price of $188.00</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Example of opening a long position for $AAPL at the price of $188.00</p></figcaption></figure>
 
 ### Opening Short
 
@@ -28,7 +28,7 @@ To open a **long** stock position, use the trigger **`BTO`** followed by the tic
 
 To open a **short** stock position, use the trigger **`STO`** followed by the ticker, then the symbol **@** before the price.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Example of opening a short position for $AAPL at the price of $177.94</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Example of opening a short position for $AAPL at the price of $177.94</p></figcaption></figure>
 
 ##
 
@@ -42,7 +42,7 @@ To open a **short** stock position, use the trigger **`STO`** followed by the ti
 
 To open **long** options position, use the trigger **`BTO`** followed by the _ticker,_ then the expiration date using MM/DD format _(and /YY if next year)_, the strike price, and either attaching **`c`** or **`p`** to it or specifying `call` or `put` followed by the symbol **@** and the price.
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Example of opening a long Call position for $SPY, 9/07 expiration date, $450 strike price, and $1.27 for the price by using CMP</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Example of opening a long Call position for $SPY, 9/07 expiration date, $450 strike price, and $1.27 for the price by using CMP</p></figcaption></figure>
 
 {% hint style="info" %}
 You can also use the format with expiration after strike & call/put\
@@ -57,7 +57,7 @@ I.e. `BTO SPY 450c 9/07 @ 1.27`
 
 To open **short** options position, use the trigger **`STO`** followed by the _ticker,_ then the expiration date using MM/DD format _(and /YY if next year)_, the strike price, and either attaching **`c`** or **`p`** to it or specifying `call` or `put` followed by the symbol **@** and the price.
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Example of opening a short Call position for $SPY, 9/08 expiration date, $450 strike price, and $0.32 for the price by using CMP</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Example of opening a short Call position for $SPY, 9/08 expiration date, $450 strike price, and $0.32 for the price by using CMP</p></figcaption></figure>
 
 {% hint style="warning" %}
 Final Notes:\
@@ -108,7 +108,7 @@ ADD GIF HERE of submitting trade (may need new screenshot for matching data)
 
 Notes can be added and are optional. Trade Styles (swing, scalp, etc.), [Risk Factor Flags](broken-reference), and a Take Profit and/or Stop Loss can all be added through by the notes.
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Example of opening a long options call position for $SPY with $450 strike &#x26; expiration date of 9/07, adding the YOLO high risk flag, and setting both TP/SL</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Example of opening a long options call position for $SPY with $450 strike &#x26; expiration date of 9/07, adding the YOLO high risk flag, and setting both TP/SL</p></figcaption></figure>
 
 
 
