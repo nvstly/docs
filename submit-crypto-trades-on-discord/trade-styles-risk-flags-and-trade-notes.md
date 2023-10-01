@@ -13,11 +13,11 @@ Daytrade - Swing - Scalp - Long Term
 
 Specifying the style of a trade has no functionality other than cosmetic and informational purposes. It can help viewers whether the trade is short or long term. By default, all trades use the `Daytrade` style unless specified otherwise.&#x20;
 
-EXAMPLE IMAGE HERE OF CRYPTO ON TRADES PAGE & TRADE INSIGHT
+![](<../.gitbook/assets/image (236).png>)![](<../.gitbook/assets/image (237).png>)
 
 To set the style of a trade, mention any one of the style keywords anywhere in the trade notes.
 
-EXAMPLE IMAGE HERE OF SUBMITTING CRYPTO TRADE WITH STYLE
+<figure><img src="../.gitbook/assets/image (238).png" alt=""><figcaption><p>Trade Style keyword "swing" used in notes will mark the trade as a swing</p></figcaption></figure>
 
 ## Risk Flags
 
@@ -27,7 +27,7 @@ YOLO\
 Risk, Risky
 {% endhint %}
 
-> `lotto` or `yolo` will be marked as _High Risk YOLO Play_
+> `yolo` will be marked as _High Risk YOLO Play_
 >
 > \
 > `risk` or `risky` or `high risk` will be marked as _High Risk Play_
@@ -36,7 +36,9 @@ To specify risk factors on trades, use trade flag keywords anywhere in the notes
 
 Trades flagged with a risk factor are displayed as such on the [Trades](https://nvst.ly/trades) and Trade Insight interfaces.
 
-EXAMPLE IMAGE HERE OF SUBMITTING TRADE WITH FLAG TRADES PAGE FLAG AND TRADE INSIGHT FLAG
+<figure><img src="../.gitbook/assets/image (239).png" alt=""><figcaption><p>Risk Flag "High Risk" added by using the keyword in Trade Notes</p></figcaption></figure>
+
+![](<../.gitbook/assets/image (240).png>)![](<../.gitbook/assets/image (241).png>)
 
 {% hint style="danger" %}
 YOLO trades are exempted from main Win Rate and all main Loss/Gain/Return stats, and have their own stats for each.
@@ -46,11 +48,11 @@ YOLO trades are exempted from main Win Rate and all main Loss/Gain/Return stats,
 
 Trade Notes are comments that are attached to trades when they are submitted. They give more insight from the trader about the position. Notes are displayed for each event (open, close, etc.) on [Trades](https://nvst.ly/trades) and Trade Insight interfaces.
 
-EXAMPLE IMAGE HERE OF TRADE NOTES ON TRADES PAGE & TRADE INSIGHT
+![](<../.gitbook/assets/image (244).png>)![](<../.gitbook/assets/image (245).png>)
 
 Adding notes with trade submissions are done by commenting or writing anything after the trade price.
 
-EXAMPLE IMAGE HERE OF SUBMITTING TRADE WITH NOTES
+<figure><img src="../.gitbook/assets/image (242).png" alt=""><figcaption><p>Comments added to trade submission using Trade Notes</p></figcaption></figure>
 
 {% hint style="info" %}
 Remember

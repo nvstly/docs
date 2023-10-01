@@ -51,7 +51,7 @@ Lotto/YOLO trades are exempted from main Win Rate and all main Loss/Gain/Return 
 
 Trade Notes are comments that are attached to trades when they are submitted. They give more insight from the trader about the position. Notes are displayed for each event (open, close, etc.) on [Trades](https://nvst.ly/trades) and Trade Insight interfaces.
 
-![](<../.gitbook/assets/image (10) (1).png>)![](<../.gitbook/assets/image (11) (1).png>)
+![](<../.gitbook/assets/image (243).png>)![](<../.gitbook/assets/image (11) (1).png>)
 
 Adding notes with trade submissions are done by commenting or writing anything after the trade price.
 
