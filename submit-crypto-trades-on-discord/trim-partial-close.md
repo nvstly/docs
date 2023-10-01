@@ -17,15 +17,15 @@ To trim or partially close trades and keep them open, use the trim/partial keywo
 
 {% tabs %}
 {% tab title="Example #1" %}
-EXAMPLE IMAGES HERE
+![](../.gitbook/assets/image.png)Example of partially closing SOL/USDT position
 {% endtab %}
 
 {% tab title="Example #2" %}
-
+![](<../.gitbook/assets/image (1).png>)Example of partially closing DOT/USDT position
 {% endtab %}
 
 {% tab title="Example #3" %}
-
+![](<../.gitbook/assets/image (2).png>)Example of partially closing ADA/USDT position
 {% endtab %}
 {% endtabs %}
 

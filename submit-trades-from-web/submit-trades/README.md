@@ -68,7 +68,7 @@ Use ![](<../../.gitbook/assets/image (9) (1) (1) (1).png>) to instantly close a 
 9. Input the strike price.
 10. Hit `Continue`
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Stock options trades can be submited using the New Trade interface</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Stock options trades can be submited using the New Trade interface</p></figcaption></figure>
 
 **Second & **<mark style="color:red;">**Optional**</mark>** Final Step**
 
@@ -88,7 +88,7 @@ Use ![](<../../.gitbook/assets/image (9) (1) (1) (1).png>) to instantly close a 
 5. Modify the Trade Share settings
 6. Hit `Submit`
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Average, partial/trim, and close all open positions from the Active Positions tab on the New Trade interface</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Average, partial/trim, and close all open positions from the Active Positions tab on the New Trade interface</p></figcaption></figure>
 
 ## How to Submit Crypto Trades
 
@@ -103,7 +103,7 @@ Use ![](<../../.gitbook/assets/image (9) (1) (1) (1).png>) to instantly close a 
 7. Select the Style of your trade: Daytrade, Swing, Scalp, or Long Term.
 8. Hit `Continue`
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Submit crypto trades using the New Trade interface</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Submit crypto trades using the New Trade interface</p></figcaption></figure>
 
 **Second & **<mark style="color:red;">**Optional**</mark>** Final Step**
 
@@ -123,7 +123,7 @@ Use ![](<../../.gitbook/assets/image (9) (1) (1) (1).png>) to instantly close a 
 5. Modify the Trade Share settings&#x20;
 6. Hit `Submit`
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Average, partial/trim, and close all open positions from the Active Positions tab on the New Trade interface</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Average, partial/trim, and close all open positions from the Active Positions tab on the New Trade interface</p></figcaption></figure>
 
 ##
 
