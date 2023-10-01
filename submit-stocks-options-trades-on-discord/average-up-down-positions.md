@@ -22,7 +22,7 @@ Averaging is the same with options, as long as the ticker, expiration date, call
 
 The same concept applies to slash commands as with text commands. Submitting an open position for the same existing open position will average it.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Example of averaging a position using slash command</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Example of averaging a position using slash command</p></figcaption></figure>
 
 {% hint style="danger" %}
 Averages can't be 100% accurate due to the app not tracking position sizes. If only 1 share/contract is being traded, it will be 100%. The app only recognizes that order quantity is always 1, and it can't be specified otherwise. \
