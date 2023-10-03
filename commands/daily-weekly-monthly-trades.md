@@ -19,7 +19,7 @@ _User syntax is optional_
 
 Check your own or another trader's trades from the past 24-hours, 7 days, or 30 days. By default, if no @user/username is specified, the trades displayed will be your own.
 
-EXAMPLE IMAGE HERE FOR $DAILY/$WEEKLY
+![](<../.gitbook/assets/image (249).png>)
 
 {% hint style="info" %}
 Did you know?\
