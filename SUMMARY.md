@@ -65,7 +65,7 @@
 
 * [List](commands/list.md)
 * [Stats](commands/stats.md)
-* [Daily/Weekly Trades](commands/daily-weekly-trades.md)
+* [Daily/Weekly/Monthly Trades](commands/daily-weekly-monthly-trades.md)
 * [Reputation](commands/reputation.md)
 * [Follow](commands/follow.md)
 * [Market Data](commands/market-data.md)
