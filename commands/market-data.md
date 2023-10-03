@@ -27,7 +27,7 @@ Crypto charts, stats, & prices will be modified soon where you can choose to req
 The bot can display stock charts by using the `$chart`, `$c`, or `/chart` commands. By default, the timeframe used for charts is 5 minutes if one is not specified.\
 To specifiy a timeframe after the ticker, use `minute`, `min`, or `m`, `hour` or `h`, `day` or `d`, and `week` or `w`.
 
-ADD EXAMPLE IMAGE HERE FOR CHARTS
+![](<../.gitbook/assets/image (246).png>)
 
 ### Crypto
 
@@ -52,7 +52,7 @@ The `$stock` command provides some data for any stock ticker specified. The foll
 * Daily High & Low
 * Year High & Low
 
-![](<../.gitbook/assets/image (7).png>)
+![](<../.gitbook/assets/image (247).png>)
 
 ## Crypto Stats
 
