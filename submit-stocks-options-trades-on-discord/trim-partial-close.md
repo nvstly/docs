@@ -7,7 +7,7 @@ description: >-
 # Trim/Partial Close
 
 {% hint style="success" %}
-**TRIM** - **SCAL** - **PART** are all keywords to trigger a trim/partial close & can be used anywhere within the notes.\
+**TRIM** - **SCAL** - **PART - Leaving Some** are all keywords to trigger a trim/partial close & can be used anywhere within the notes.\
 _(trimming, scale, scaling, partial, partially)_
 {% endhint %}
 
