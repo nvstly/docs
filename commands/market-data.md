@@ -90,3 +90,9 @@ The `$gainers` command displays the top 10 highest gainers of the day in referen
 The `$losers` command displays the top 10 losing stocks of the day in reference to the last closing price.
 
 ![](<../.gitbook/assets/image (4) (1).png>)![](<../.gitbook/assets/image (5) (1).png>)
+
+
+
+{% hint style="info" %}
+When using data commands for tickers containing special characters, such as dots or dashes, or any index ticker symbols, be sure to use their alias. They are all listed in [tickers-with-special-characters.md](../submit-stocks-options-trades-on-discord/tickers-with-special-characters.md "mention")
+{% endhint %}

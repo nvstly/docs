@@ -41,6 +41,7 @@
 * [Trade Styles, Risk Flags, & Trade Notes](submit-stocks-options-trades-on-discord/trade-styles-risk-flags-and-trade-notes.md)
 * [Error/Invalid Replies](submit-stocks-options-trades-on-discord/error-invalid-replies.md)
 * [Fix/Edit Trades](submit-stocks-options-trades-on-discord/fix-edit-trades.md)
+* [Tickers With Special Characters](submit-stocks-options-trades-on-discord/tickers-with-special-characters.md)
 
 ## 🪙 Submit Crypto Trades on Discord
 
