@@ -142,6 +142,24 @@ You can request any stock, futures, forex, or crypto ticker(s) you'd like added,
 [$ADA Cardano](https://discord.com/api/oauth2/authorize?client\_id=1064309005327015999\&permissions=402656256\&scope=applications.commands%20bot)
 
 [$XLM Stellar](https://discord.com/api/oauth2/authorize?client\_id=1064306980631609414\&permissions=335547392\&scope=applications.commands%20bot)
+
+[$TRX Tron](https://discord.com/oauth2/authorize?client\_id=1158950491619852388\&permissions=335547392\&scope=applications.commands%20bot)
+
+[$XMR Monero](https://discord.com/oauth2/authorize?client\_id=1158947906104078437\&permissions=335547392\&scope=applications.commands%20bot)
+
+[$XNO Nano](https://discord.com/oauth2/authorize?client\_id=1158950089709060137\&permissions=335547392\&scope=applications.commands%20bot)
+
+[$LINK Chainlink](https://discord.com/oauth2/authorize?client\_id=1158950132826509332\&permissions=335547392\&scope=applications.commands%20bot)
+
+[$SPRING Seasonal Tokens](https://discord.com/oauth2/authorize?client\_id=1158950656586027028\&permissions=335547392\&scope=applications.commands%20bot)
+
+[$SUMMER Seasonal Tokens](https://discord.com/oauth2/authorize?client\_id=1158950528009650247\&permissions=335547392\&scope=applications.commands%20bot)
+
+[$AUTUMN Seasonal Tokens](https://discord.com/oauth2/authorize?client\_id=1158950617113436211\&permissions=335547392\&scope=applications.commands%20bot)
+
+[$WINTER Seasonal Tokens](https://discord.com/oauth2/authorize?client\_id=1158950569747161150\&permissions=335547392\&scope=applications.commands%20bot)
 {% endtab %}
 {% endtabs %}
+
+
 
