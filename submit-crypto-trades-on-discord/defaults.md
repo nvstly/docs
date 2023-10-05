@@ -47,7 +47,7 @@ If successful the bot will then respond with an ephemeral message stating that t
 
 The default crypto exchange setting is what allows trades to be submitted without needing to specify the exchange name within the trade notes. When submitting a trade on a different exchange than what the default exchange is set to, the exchange name needs to be included in the trade notes.
 
-We currently support 26 crypto exchanges used to check real-time crypto prices. Here's the full list:
+We currently support 25 crypto exchanges used to check real-time crypto prices. Here's the full list:
 
 * Binance
 * Binance.us
@@ -73,7 +73,6 @@ We currently support 26 crypto exchanges used to check real-time crypto prices. 
 * MEXC
 * OKX
 * Poloniex
-* Stex
 * Xt
 
 By default, a new users default exchange is set to `binance`. Specifying an exchange name in the trade notes can be used to submit a trade on an exchange that is not the default exchange.
