@@ -51,7 +51,7 @@ We check real-time prices when a trade is submitted, and allow a small threshold
 
 {% hint style="info" %}
 Did you know?\
-Trades will automatically close when your specified Take Profit or Stop Loss has been triggered. See more info regarding this feature LINK HERE
+Trades will automatically close when your specified Take Profit or Stop Loss has been triggered. See more info regarding this feature [setting-tp-sl.md](../submit-stocks-options-trades-on-discord/setting-tp-sl.md "mention")
 {% endhint %}
 
 **Trade Notes**\
