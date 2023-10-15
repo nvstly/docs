@@ -120,6 +120,8 @@ You can request any stock, futures, forex, or crypto ticker(s) you'd like added,
 [GBP/TRY](https://discord.com/api/oauth2/authorize?client\_id=1139787938960515122\&permissions=335545344\&scope=bot%20applications.commands)
 
 [EUR/TRY](https://discord.com/api/oauth2/authorize?client\_id=1139811978211241994\&permissions=335545344\&scope=bot%20applications.commands)
+
+[GBP/JPY](https://discord.com/api/oauth2/authorize?client\_id=1162899866012360724\&permissions=335545344\&scope=bot%20applications.commands)
 {% endtab %}
 
 {% tab title="Crypto" %}
