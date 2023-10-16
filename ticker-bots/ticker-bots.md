@@ -61,7 +61,9 @@ You can request any stock, futures, forex, or crypto ticker(s) you'd like added,
 
 [NASDAQ](https://discord.com/api/oauth2/authorize?client\_id=1057543504127078411\&permissions=335547392\&scope=applications.commands%20bot)
 
-[Dow Jones](https://discord.com/api/oauth2/authorize?client\_id=1057542980606636163\&permissions=335547392\&scope=applications.commands%20bot)
+[Dow Jones](https://discord.com/api/oauth2/authorize?client\_id=1057542980606636163\&permissions=335547392\&scope=applications.commands%20bot) or [US30](https://discord.com/api/oauth2/authorize?client\_id=1163330255180804146\&permissions=335547392\&scope=applications.commands%20bot)
+
+[U.S. Dollar Index](https://discord.com/api/oauth2/authorize?client\_id=1163327819628154941\&permissions=335547392\&scope=bot%20applications.commands)
 
 [$OMXH25 OMX Helsinki 25](https://discord.com/api/oauth2/authorize?client\_id=1057557438867443823\&permissions=335547392\&scope=applications.commands%20bot)
 
