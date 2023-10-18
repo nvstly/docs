@@ -54,6 +54,10 @@ You can request any stock, futures, forex, or crypto ticker(s) you'd like added,
 [$HYMC Hycroft Mining](https://discord.com/api/oauth2/authorize?client\_id=1056164613244325930\&permissions=335547392\&scope=applications.commands%20bot)
 
 [$PPP Prospector Metals Corp](https://discord.com/api/oauth2/authorize?client\_id=1059974856583688202\&permissions=335547392\&scope=applications.commands%20bot)
+
+[$ARKK ARK Innovation ETF](https://discord.com/api/oauth2/authorize?client\_id=1164309284641853571\&permissions=335547392\&scope=applications.commands%20bot)
+
+[$PTON Peloton Interactive Inc](https://discord.com/api/oauth2/authorize?client\_id=1164309334700859422\&permissions=335547392\&scope=applications.commands%20bot)
 {% endtab %}
 
 {% tab title="Indices" %}
