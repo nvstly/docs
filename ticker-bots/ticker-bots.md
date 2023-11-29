@@ -15,7 +15,7 @@ Upon adding a bot(s), they will need to be restarted to start updating and chang
 
 ### How to automatically change colors
 
-For the bots to automatically change colors, representing up/down price changes, you will need to create two roles. Create two roles named "tickers-red" and "tickers-green" with their respected colors. Then assign the `Manage Roles` permissions to the bots if they don't have it already.
+For the bots to automatically change colors, representing up/down price changes, you will need to create two roles. Create two roles named "Up" and "Down" with their respected colors. Then assign the `Manage Roles` permissions to the bots if they don't have it already.
 
 ### Available ticker bots
 
