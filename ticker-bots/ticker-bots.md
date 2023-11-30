@@ -163,6 +163,12 @@ You can request any stock, futures, forex, or crypto ticker(s) you'd like added,
 
 [$LINK Chainlink](https://discord.com/oauth2/authorize?client\_id=1158950132826509332\&permissions=335547392\&scope=applications.commands%20bot)
 
+[$ROOT The Root Network](https://discord.com/api/oauth2/authorize?client\_id=1179480985847476325\&permissions=335547392\&scope=bot)
+
+[$ASTO Altered State Token](https://discord.com/api/oauth2/authorize?client\_id=1179481420276711516\&permissions=335547392\&scope=bot)
+
+[$SYLO Sylo](https://discord.com/api/oauth2/authorize?client\_id=1179481694831640607\&permissions=335547392\&scope=bot)
+
 [$SPRING Seasonal Tokens](https://discord.com/oauth2/authorize?client\_id=1158950656586027028\&permissions=335547392\&scope=applications.commands%20bot)
 
 [$SUMMER Seasonal Tokens](https://discord.com/oauth2/authorize?client\_id=1158950528009650247\&permissions=335547392\&scope=applications.commands%20bot)
