@@ -58,8 +58,6 @@ You can request any stock, futures, forex, or crypto ticker(s) you'd like added,
 [$ARKK ARK Innovation ETF](https://discord.com/api/oauth2/authorize?client\_id=1164309284641853571\&permissions=335547392\&scope=applications.commands%20bot)
 
 [$PTON Peloton Interactive Inc](https://discord.com/api/oauth2/authorize?client\_id=1164309334700859422\&permissions=335547392\&scope=applications.commands%20bot)
-
-[$MBOX Freedom Day Dividend ETF](https://discord.com/api/oauth2/authorize?client\_id=1182105957543723128\&permissions=335547392\&scope=applications.commands+bot)
 {% endtab %}
 
 {% tab title="Indices" %}
@@ -178,6 +176,8 @@ You can request any stock, futures, forex, or crypto ticker(s) you'd like added,
 [$AUTUMN Seasonal Tokens](https://discord.com/oauth2/authorize?client\_id=1158950617113436211\&permissions=335547392\&scope=applications.commands%20bot)
 
 [$WINTER Seasonal Tokens](https://discord.com/oauth2/authorize?client\_id=1158950569747161150\&permissions=335547392\&scope=applications.commands%20bot)
+
+[$MBOX MOBOX](https://discord.com/api/oauth2/authorize?client\_id=1182105957543723128\&permissions=335547392\&scope=bot+application.commands)
 {% endtab %}
 {% endtabs %}
 
