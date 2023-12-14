@@ -49,9 +49,11 @@ Use ![](<../../.gitbook/assets/image (9) (1) (1) (1).png>) to instantly close a 
 3. Input your price or use the provided real-time market price.
 4. Optionally add notes or upload media.
 5. Modify the Trade Share settings
-6. Hit `Submit`
+6. Hit `Submit`&#x20;
 
 <figure><img src="../../.gitbook/assets/image (8) (1) (1) (1).png" alt=""><figcaption><p>Average, partial/trim, and close all open positions from the Active Positions tab on the New Trade interface</p></figcaption></figure>
+
+Trades can also be averaged, trimmed, or closed directly from the [Trade Insight](../../info/user-interfaces-overview.md#trade-insight) interface. Standalone notes can also be added from this interface using `Update` in the dropdown menu under `Status`.
 
 ## How to Submit Options Trades
 
@@ -90,6 +92,8 @@ Use ![](<../../.gitbook/assets/image (9) (1) (1) (1).png>) to instantly close a 
 
 <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Average, partial/trim, and close all open positions from the Active Positions tab on the New Trade interface</p></figcaption></figure>
 
+Trades can also be averaged, trimmed, or closed directly from the [Trade Insight](../../info/user-interfaces-overview.md#trade-insight) interface. Standalone notes can also be added from this interface using `Update` in the dropdown menu under `Status`.
+
 ## How to Submit Crypto Trades
 
 ### Opening
@@ -125,7 +129,7 @@ Use ![](<../../.gitbook/assets/image (9) (1) (1) (1).png>) to instantly close a 
 
 <figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Average, partial/trim, and close all open positions from the Active Positions tab on the New Trade interface</p></figcaption></figure>
 
-##
+Trades can also be averaged, trimmed, or closed directly from the [Trade Insight](../../info/user-interfaces-overview.md#trade-insight) interface. Standalone notes can also be added from this interface using `Update` in the dropdown menu under `Status`.
 
 ## Changing TP/SL on open trades
 
