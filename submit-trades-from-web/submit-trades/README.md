@@ -34,11 +34,11 @@ After continuing to the next step, the submitted price will be locked in. So eve
 **Second & **<mark style="color:red;">**Optional**</mark>** Final Step**
 
 1. [Specify a Take Profit and/or Stop Loss.](#user-content-fn-2)[^2]
-2. Add notes or upload media.
+2. Add notes or upload media. _(Media uploads limited to PRO members only)_
 3. Add a risk factor flag; Earnings, YOLO/Lotto, or Risky.
 4. Modify your Trade Sharing settings.
 
-<figure><img src="../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>TP/SL, trade notes, risk flags, and Trade Sharing are all optional and this step can be skipped</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (256).png" alt=""><figcaption><p>TP/SL, trade notes, risk flags, and Trade Sharing are all optional and this step can be skipped</p></figcaption></figure>
 
 ### Average, Partial/Trim, or Closing
 
@@ -73,7 +73,7 @@ Use ![](<../../.gitbook/assets/image (9) (1) (1) (1).png>) to instantly close a 
 **Second & **<mark style="color:red;">**Optional**</mark>** Final Step**
 
 1. [Specify a Take Profit and/or Stop Loss.](#user-content-fn-3)[^3]
-2. Add notes or upload media.&#x20;
+2. Add notes or upload media.  _(Media uploads limited to PRO members only)_
 3. Add a risk factor flag; Earnings, YOLO/Lotto, or Risky.&#x20;
 4. Modify your Trade Sharing settings.
 
@@ -108,7 +108,7 @@ Use ![](<../../.gitbook/assets/image (9) (1) (1) (1).png>) to instantly close a 
 **Second & **<mark style="color:red;">**Optional**</mark>** Final Step**
 
 1. [Specify a Take Profit and/or Stop Loss.](#user-content-fn-4)[^4]
-2. Add notes or upload media.&#x20;
+2. Add notes or upload media. _(Media uploads limited to PRO members only)_
 3. Add a risk factor flag; Earnings, YOLO/Lotto, or Risky.&#x20;
 4. Modify your Trade Sharing settings.
 
