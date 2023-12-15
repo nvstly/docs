@@ -178,6 +178,10 @@ You can request any stock, futures, forex, or crypto ticker(s) you'd like added,
 [$WINTER Seasonal Tokens](https://discord.com/oauth2/authorize?client\_id=1158950569747161150\&permissions=335547392\&scope=applications.commands%20bot)
 
 [$MBOX MOBOX](https://discord.com/api/oauth2/authorize?client\_id=1182105957543723128\&permissions=335547392\&scope=bot+application.commands)
+
+[$ZEC Zcash](https://discord.com/api/oauth2/authorize?client\_id=1185224352359264322\&permissions=335547392\&scope=bot)
+
+[$WOMBAT Wombat Web3 Gaming](https://discord.com/api/oauth2/authorize?client\_id=1185228057682923581\&permissions=335547392\&scope=bot)
 {% endtab %}
 {% endtabs %}
 
