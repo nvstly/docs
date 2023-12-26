@@ -129,6 +129,8 @@ You can request any stock, futures, forex, or crypto ticker(s) you'd like added,
 
 [GBP/JPY](https://discord.com/api/oauth2/authorize?client\_id=1162899866012360724\&permissions=335545344\&scope=bot%20applications.commands)
 
+[USD/KRW](https://discord.com/api/oauth2/authorize?client\_id=1189156095806148678\&permissions=335547392\&scope=bot)
+
 [XAU/USD (Gold Spot)](https://discord.com/api/oauth2/authorize?client\_id=1163332729937612811\&permissions=335545344\&scope=bot%20applications.commands)
 
 [XAG/USD (Silver Spot)](https://discord.com/api/oauth2/authorize?client\_id=1163335145093349396\&permissions=335545344\&scope=bot%20applications.commands)
