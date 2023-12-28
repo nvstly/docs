@@ -59,3 +59,23 @@ Remember
 
 Trim/Partial keywords, setting TP/SL, Trade Styles, & Risk Flags, are all done by utilizing Trade Notes, and all can be used in a single trade's notes.
 {% endhint %}
+
+### Standalone Notes
+
+You can add individual notes without necessitating a position update, such as an average or trim/partial. There are two methods of adding standalone notes through Discord, there are additional methods when using the web or mobile apps, see [update-notes-and-media.md](../submit-trades-from-web/submit-trades/update-notes-and-media.md "mention")
+
+To add a standalone note, just reply to the bot's confirmation response for any of your trade submissions. These notes will be displayed individually on the Trade Insight interface. Up to 3 images can be attached with the message and will be displayed on the Trade Insight interface- a feature for PRO members.
+
+<figure><img src="../.gitbook/assets/image (269).png" alt=""><figcaption><p>Replying to the bot's response with a message will be logged as standalone notes</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (270).png" alt=""><figcaption><p>Standalones notes are displayed as updates on Trade Insight interfaces</p></figcaption></figure>
+
+Another method for adding standalone notes is through the use of the /list or $list command. Each trade displayed in the response of the command will have an "Update" button which will prompt a popup of a text box to enter in notes. _Images can't be added using this method._
+
+<figure><img src="../.gitbook/assets/image (271).png" alt=""><figcaption><p>The /list command UI</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (268).png" alt=""><figcaption><p>This prompt appears when hitting the Update button on the /list UI</p></figcaption></figure>
+
+{% hint style="success" %}
+For PRO members, up to 3 images can be included with notes. Whether attached to your Discord message when submitting a trade, or uploading through the app, they will appear on the Trade Insight interface.
+{% endhint %}
