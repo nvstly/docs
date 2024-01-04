@@ -59,6 +59,10 @@ For example: \
 \[\[trade.type]] would be `open,` `average,` p`artial,` or `close`\
 \[\[Trade.type]] would be `Open,` `Average,` `Partial,`or `Close`
 
+{% hint style="info" %}
+When TP/SL is triggered and options expire, these are sent through the **Close** event, and will utilize the **Trade Notes** property. "Trade Expired", and "Stop Loss Hit" or "Take Profit Hit" will be in the trade notes.
+{% endhint %}
+
 #### Account Properties
 
 <table><thead><tr><th width="221" align="center">Property Name</th><th align="center">Info</th></tr></thead><tbody><tr><td align="center">Account Username</td><td align="center">Your username on the web app</td></tr><tr><td align="center">Account Avatar</td><td align="center">Your avatar or profile picture on the web app</td></tr><tr><td align="center">Account Link</td><td align="center">Your <a href="https://nvst.ly/dashboard">dashboard</a> link</td></tr><tr><td align="center">Account Rep</td><td align="center">Your reputation count</td></tr></tbody></table>
@@ -83,7 +87,7 @@ For example: \
 Author Name & Author Image URL are not to be confused with the username & avatar that the webhook name & avatar uses.
 {% endhint %}
 
-## Twitter
+## Twitter (Temporarily Disabled)
 
 To customize your Twitter tweets, go to [Accounts & Sharing](https://test.nvst.ly/settings/sharing) in your account settings under Linked Accounts, click the `customize` button in the settings for your Twitter account- you must have Twitter linked for this.
 

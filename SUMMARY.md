@@ -18,7 +18,7 @@
 
 * [Trade Sharing Overview](trade-sharing/trade-sharing-overview.md)
 * [Discord](trade-sharing/discord.md)
-* [Twitter](trade-sharing/twitter.md)
+* [Twitter (Temporarily Disabled)](trade-sharing/twitter-temporarily-disabled.md)
 * [Customize Messages or embeds](trade-sharing/customize-messages-or-embeds.md)
 
 ## ⚙ Discord Bot Setup
