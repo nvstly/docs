@@ -5,6 +5,7 @@
 * [NVSTly - Social Investing](README.md)
 * [User Interfaces Overview](info/user-interfaces-overview.md)
 * [Download Your Data](info/download-your-data.md)
+* [Contact & Support](info/contact-and-support.md)
 
 ## 🆕 Submit Trades From Web
 
