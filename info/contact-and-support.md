@@ -7,7 +7,7 @@ description: Contact methods and user support
 ## Email
 
 Our team can be reached through any of these emails:\
-Support: s[upport@nvst.ly](mailto:upport@nvst.ly)\
+Support: [support@nvst.ly](mailto:support@nvst.ly)\
 General: [team@nvst.ly](mailto:team@nvst.ly)\
 Billing: [billing@nvst.ly](mailto:billing@nvst.ly)
 
