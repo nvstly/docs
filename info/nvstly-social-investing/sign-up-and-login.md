@@ -12,13 +12,13 @@ Using email forwarding or the "Hide My Email" feature when signing up with Apple
 Apple email forwarding is not supported. Please revoke access in Apple ID settings and retry and select 'Share My Email'.
 {% endhint %}
 
-To fix this, the NVST.ly app needs to be unlinked from your Apple account, then signing up again without using Apple's "Hide My Email" feature.
+To fix this, the NVSTly app needs to be unlinked from your Apple account, then signing up again without using Apple's "Hide My Email" feature.
 
 1. Head to your [Apple ID settings](https://appleid.apple.com/account/manage/section/security).
 2. Go to Sign-in and Security settings.
 3. Click the Sign in with Apple box.\
    ![](<../../.gitbook/assets/image (277).png>)
-4. Click NVST.ly Mobile App
+4. Click NVSTly Mobile App
 5. Hit the Stop using Sign-in with Apple button.\
    ![](<../../.gitbook/assets/image (278).png>)
 6. Confirm by hitting Stop Using.
