@@ -3,7 +3,6 @@
 ## ℹ Info
 
 * [NVSTly - Social Investing](README.md)
-  * [Sign Up & Login](info/nvstly-social-investing/sign-up-and-login.md)
 * [User Interfaces Overview](info/user-interfaces-overview.md)
 * [Download Your Data](info/download-your-data.md)
 * [Contact & Support](info/contact-and-support.md)
