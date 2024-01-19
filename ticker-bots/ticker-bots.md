@@ -21,13 +21,13 @@ You can request any stock, futures, forex, or crypto ticker(s) you'd like added,
 
 {% tabs %}
 {% tab title="Stocks & ETFs" %}
-[$SPY SPDR ETF](https://discord.com/api/oauth2/authorize?client\_id=1057542831994048553\&permissions=335547392\&scope=applications.commands%20bot)
+[$SPY SPDR ETF](https://discord.com/api/oauth2/authorize?client\_id=1057542831994048553\&permissions=335547392\&scope=bot)
 
-[$QQQ Invesco Trust Series 1](https://discord.com/api/oauth2/authorize?client\_id=1197012024643813396\&permissions=335547392\&scope=bot+applications.commands)
+[$QQQ Invesco Trust Series 1](https://discord.com/api/oauth2/authorize?client\_id=1197012024643813396\&permissions=335547392\&scope=bot)
 
-[$GOOGL Google Class A](https://discord.com/api/oauth2/authorize?client\_id=1060023476133576794\&permissions=335547392\&scope=bot%20applications.commands)
+[$GOOGL Google Class A](https://discord.com/api/oauth2/authorize?client\_id=1060023476133576794\&permissions=335547392\&scope=bot)
 
-[$AMZN Amazon.com](https://discord.com/api/oauth2/authorize?client\_id=1059985460094582874\&permissions=335547392\&scope=applications.commands%20bot)
+[$AMZN Amazon.com](https://discord.com/api/oauth2/authorize?client\_id=1059985460094582874\&permissions=335547392\&scope=bot)
 
 [$TSLA Tesla Inc.](https://discord.com/api/oauth2/authorize?client\_id=1059927220384174131\&permissions=335547392\&scope=bot%20applications.commands)
 
