@@ -29,9 +29,14 @@ Submitting crypto trades can still be allowed when the default market is set to 
 > `BTO BTC.X @ CMP`
 
 {% hint style="info" %}
-The `-S` and `.X` syntax's can be used with any of these characters:\
+The `-S` and `.X` syntax's are case insensitive and can be used with any of these characters:\
 `-` `.` `_` `*` `^` `>` `<` **except** `@` and `/`
 {% endhint %}
+
+When default market is set to `crypto` and when submitting a crypto trade, the trading pair isn't required, and if one isn't specified it will use the default pair. See [#default-trading-pair](defaults.md#default-trading-pair "mention")
+
+> `BTO BTC @ CMP`\
+> Will be submit the cryptocurrency BTC using the default pair or USDT if default pair hasn't been changed, and using the default exchange or Binance if default exchange hasn't been changed.
 
 ### How to set or change the Default Trading Market
 
