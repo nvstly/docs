@@ -6,8 +6,7 @@ description: >-
 
 # Discord Ticker Price Bots
 
-Ticker bots can be added by using the links below. Here's an example of how they look.\
-
+Ticker bots can be added by using the links below. Here's an example of how they look.\\
 
 <figure><img src="../.gitbook/assets/image (273).png" alt=""><figcaption><p>Bots automatically update price and can assign themselves roles when the price is up/down</p></figcaption></figure>
 
@@ -58,6 +57,18 @@ You can request any stock, futures, forex, or crypto ticker(s) you'd like added,
 [$ARKK ARK Innovation ETF](https://discord.com/api/oauth2/authorize?client\_id=1164309284641853571\&permissions=335547392\&scope=bot)
 
 [$PTON Peloton Interactive Inc](https://discord.com/api/oauth2/authorize?client\_id=1164309334700859422\&permissions=335547392\&scope=bot)
+
+[$SQQQ ProShares UltraPro Short QQQ ETF](https://discord.com/api/oauth2/authorize?client\_id=1206763592209268767\&permissions=335547392\&scope=bot+applications.commands)
+
+[$TQQQ ProShares UltraPro QQQ](https://discord.com/api/oauth2/authorize?client\_id=1206763531060514836\&permissions=335547392\&scope=bot+applications.commands)
+
+[$SOXL Direxion Daily Semiconductor Bull 3X Shares](https://discord.com/api/oauth2/authorize?client\_id=1206763823818608640\&permissions=335547392\&scope=bot+applications.commands)
+
+[$SOXS Direxion Daily Semiconductor Bear 3X Shares](https://discord.com/api/oauth2/authorize?client\_id=1206763940156149840\&permissions=335547392\&scope=bot+applications.commands)
+
+[$TNA Direxion Daily Small Cap Bull 3X ETF](https://discord.com/api/oauth2/authorize?client\_id=1206763697612128348\&permissions=335547392\&scope=bot+applications.commands)
+
+[$TZA Direxion Daily Small Cap Bear 3X ETF](https://discord.com/api/oauth2/authorize?client\_id=1206763735168057344\&permissions=335547392\&scope=bot+applications.commands)
 {% endtab %}
 
 {% tab title="Indices" %}
@@ -188,6 +199,3 @@ You can request any stock, futures, forex, or crypto ticker(s) you'd like added,
 [$WOMBAT Wombat Web3 Gaming](https://discord.com/api/oauth2/authorize?client\_id=1185228057682923581\&permissions=335547392\&scope=bot)
 {% endtab %}
 {% endtabs %}
-
-
-
