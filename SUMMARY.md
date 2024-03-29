@@ -1,6 +1,6 @@
 # Table of contents
 
-## ℹ Info
+## ℹ️ Info
 
 * [NVSTly - Social Investing](README.md)
 * [User Interfaces Overview](info/user-interfaces-overview.md)
@@ -22,7 +22,7 @@
 * [Twitter (Temporarily Disabled)](trade-sharing/twitter-temporarily-disabled.md)
 * [Customize Messages or embeds](trade-sharing/customize-messages-or-embeds.md)
 
-## ⚙ Discord Bot Setup
+## ⚙️ Discord Bot Setup
 
 * [Overview](discord-bot-setup/overview.md)
 * [Add the Bot](discord-bot-setup/add-the-bot.md)

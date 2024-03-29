@@ -34,6 +34,8 @@ You can request any stock, futures, forex, or crypto ticker(s) you'd like added,
 
 [$META Meta Platforms](https://discord.com/api/oauth2/authorize?client\_id=1059985538737787020\&permissions=335547392\&scope=bot)
 
+[$MSFT Microsoft Corp](https://discord.com/oauth2/authorize?client\_id=1223141398178435222)
+
 [$NFLX Netflix](https://discord.com/api/oauth2/authorize?client\_id=1059985303663808513\&permissions=335547392\&scope=bot)
 
 [$ROKU Roku Inc.](https://discord.com/api/oauth2/authorize?client\_id=1064463704780972083\&permissions=335547392\&scope=bot)
