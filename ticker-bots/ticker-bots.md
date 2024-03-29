@@ -71,6 +71,8 @@ You can request any stock, futures, forex, or crypto ticker(s) you'd like added,
 [$TNA Direxion Daily Small Cap Bull 3X ETF](https://discord.com/api/oauth2/authorize?client\_id=1206763697612128348\&permissions=335547392\&scope=bot+applications.commands)
 
 [$TZA Direxion Daily Small Cap Bear 3X ETF](https://discord.com/api/oauth2/authorize?client\_id=1206763735168057344\&permissions=335547392\&scope=bot+applications.commands)
+
+[$DIA SPDR Dow Jones Industrial Average ETF](https://discord.com/oauth2/authorize?client\_id=1223145044412727438)
 {% endtab %}
 
 {% tab title="Indices" %}
