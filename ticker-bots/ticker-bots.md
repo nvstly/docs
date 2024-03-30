@@ -80,7 +80,9 @@ You can request any stock, futures, forex, or crypto ticker(s) you'd like added,
 
 [NASDAQ](https://discord.com/api/oauth2/authorize?client\_id=1057543504127078411\&permissions=335547392\&scope=bot)
 
-[Dow Jones](https://discord.com/api/oauth2/authorize?client\_id=1057542980606636163\&permissions=335547392\&scope=bot) or [US30](https://discord.com/api/oauth2/authorize?client\_id=1163330255180804146\&permissions=335547392\&scope=bot)
+[Dow Jones](https://discord.com/api/oauth2/authorize?client\_id=1057542980606636163\&permissions=335547392\&scope=bot)
+
+[US30](https://discord.com/api/oauth2/authorize?client\_id=1163330255180804146\&permissions=335547392\&scope=bot)
 
 [U.S. Dollar Index](https://discord.com/api/oauth2/authorize?client\_id=1163327819628154941\&permissions=335547392\&scope=bot)
 
@@ -99,6 +101,8 @@ You can request any stock, futures, forex, or crypto ticker(s) you'd like added,
 [SGX Nifty](https://discord.com/api/oauth2/authorize?client\_id=1117071374620573756\&permissions=335547392\&scope=bot)
 
 [FTSE 100](https://discord.com/api/oauth2/authorize?client\_id=1116979054298546257\&permissions=335547392\&scope=bot)
+
+[Oslo Børs Benchmark Index](https://discord.com/oauth2/authorize?client\_id=1223629887856971928)
 {% endtab %}
 
 {% tab title="Futures" %}
