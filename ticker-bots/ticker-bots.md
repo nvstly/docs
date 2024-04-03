@@ -114,7 +114,7 @@ You can request any stock, futures, forex, or crypto ticker(s) you'd like added,
 
 [$6J Japanes Yen Futures](https://discord.com/api/oauth2/authorize?client\_id=1094488823225925692\&permissions=335547392\&scope=bot)
 
-[$CL Crude Oil](https://discord.com/api/oauth2/authorize?client\_id=1116983986539999293\&permissions=335547392\&scope=20bot)
+[$CL Crude Oil](https://discord.com/oauth2/authorize?client\_id=1116983986539999293)
 
 [$GC Gold](https://discord.com/api/oauth2/authorize?client\_id=1116984113816145930\&permissions=335547392\&scope=bot)
 
