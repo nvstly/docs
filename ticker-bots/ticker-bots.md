@@ -192,6 +192,14 @@ You can request any stock, futures, forex, or crypto ticker(s) you'd like added,
 
 [$SYLO Sylo](https://discord.com/api/oauth2/authorize?client\_id=1179481694831640607\&permissions=335547392\&scope=bot)
 
+[$GMT GoMining](https://discord.com/oauth2/authorize?client\_id=1183795101529554944\&permissions=335547392\&scope=bot)
+
+[$MBOX MOBOX](https://discord.com/api/oauth2/authorize?client\_id=1182105957543723128\&permissions=335547392\&scope=bot)
+
+[$ZEC Zcash](https://discord.com/api/oauth2/authorize?client\_id=1185224352359264322\&permissions=335547392\&scope=bot)
+
+[$WOMBAT Wombat Web3 Gaming](https://discord.com/api/oauth2/authorize?client\_id=1185228057682923581\&permissions=335547392\&scope=bot)
+
 [$SPRING Seasonal Tokens](https://discord.com/oauth2/authorize?client\_id=1158950656586027028\&permissions=335547392\&scope=bot)
 
 [$SUMMER Seasonal Tokens](https://discord.com/oauth2/authorize?client\_id=1158950528009650247\&permissions=335547392\&scope=bot)
@@ -199,11 +207,5 @@ You can request any stock, futures, forex, or crypto ticker(s) you'd like added,
 [$AUTUMN Seasonal Tokens](https://discord.com/oauth2/authorize?client\_id=1158950617113436211\&permissions=335547392\&scope=bot)
 
 [$WINTER Seasonal Tokens](https://discord.com/oauth2/authorize?client\_id=1158950569747161150\&permissions=335547392\&scope=bot)
-
-[$MBOX MOBOX](https://discord.com/api/oauth2/authorize?client\_id=1182105957543723128\&permissions=335547392\&scope=bot)
-
-[$ZEC Zcash](https://discord.com/api/oauth2/authorize?client\_id=1185224352359264322\&permissions=335547392\&scope=bot)
-
-[$WOMBAT Wombat Web3 Gaming](https://discord.com/api/oauth2/authorize?client\_id=1185228057682923581\&permissions=335547392\&scope=bot)
 {% endtab %}
 {% endtabs %}
