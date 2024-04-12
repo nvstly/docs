@@ -180,7 +180,7 @@ You can request any stock, futures, forex, or crypto ticker(s) you'd like added,
 
 [$XMR Monero](https://discord.com/oauth2/authorize?client\_id=1158947906104078437\&permissions=335547392\&scope=bot)
 
-[$AVAX (Avalanche)](https://discord.com/api/oauth2/authorize?client\_id=1191499141994528889\&permissions=335547392\&scope=bot)
+[$AVAX Avalanche](https://discord.com/api/oauth2/authorize?client\_id=1191499141994528889\&permissions=335547392\&scope=bot)
 
 [$XNO Nano](https://discord.com/oauth2/authorize?client\_id=1158950089709060137\&permissions=335547392\&scope=bot)
 
