@@ -27,6 +27,13 @@ Private bots are limited to only the servers they are customized for. Servers ca
 \- 1 bot: $5 per month or $50 per year\
 \- 5 or mote bots: $3 per bot per month or 20% discounted rate per year
 
+**Payment Methods:**\
+We can accept any of the following payment methods:\
+\- Stripe (Credit card, ACH)\
+\- PayPal\
+\- CashApp\
+\- Any cryptocurrency of your choice listed on the Coinbase exchange
+
 ## How To Order & Setup Private Bots
 
 To order an exclusive or private bot(s) simply [send us an email](https://email:support@nvst.ly) or contact support in our [Discord server.](https://nvstly.com/go/discord) \
