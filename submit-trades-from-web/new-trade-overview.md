@@ -55,7 +55,7 @@ Trades will automatically close when your specified Take Profit or Stop Loss has
 {% endhint %}
 
 **Trade Notes**\
-\- Include notes or _(soon)_ upload media.\
+\- Include notes or upload media.\
 \- Not required\
 \
 **Flags**\
