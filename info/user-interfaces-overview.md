@@ -26,7 +26,7 @@ To learn how to use this interface, see [submit-trades](../submit-trades-from-we
 
 {% hint style="info" %}
 Did you know?\
-You can auto share your submitted trades directly to Discord with the use of webhooks and fully customized messages and/or embeds? Check out LINK HERE for more info. _With X (previously Twitter) support soon._
+You can auto share your submitted trades directly to Discord with the use of webhooks and fully customized messages and/or embeds? Check out [discord.md](../trade-sharing/discord.md "mention") for more info. _With X (previously Twitter) support soon._
 {% endhint %}
 
 ## Active Positions
