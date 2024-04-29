@@ -53,7 +53,7 @@ Use ![](<../../.gitbook/assets/image (9) (1) (1) (1).png>) to instantly close a 
 
 <figure><img src="../../.gitbook/assets/image (8) (1) (1) (1).png" alt=""><figcaption><p>Average, partial/trim, and close all open positions from the Active Positions tab on the New Trade interface</p></figcaption></figure>
 
-Trades can also be averaged, trimmed, or closed directly from the [Trade Insight](../../info/user-interfaces-overview.md#trade-insight) interface. Standalone notes can also be added from this interface using `Update` in the dropdown menu under `Status`.
+Trades can also be averaged, trimmed, or closed directly from the [Trade Insight](../../info/readme/user-interfaces-overview.md#trade-insight) interface. Standalone notes can also be added from this interface using `Update` in the dropdown menu under `Status`.
 
 ## How to Submit Options Trades
 
@@ -92,7 +92,7 @@ Use ![](<../../.gitbook/assets/image (9) (1) (1) (1).png>) to instantly close a 
 
 <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Average, partial/trim, and close all open positions from the Active Positions tab on the New Trade interface</p></figcaption></figure>
 
-Trades can also be averaged, trimmed, or closed directly from the [Trade Insight](../../info/user-interfaces-overview.md#trade-insight) interface. Standalone notes can also be added from this interface using `Update` in the dropdown menu under `Status`.
+Trades can also be averaged, trimmed, or closed directly from the [Trade Insight](../../info/readme/user-interfaces-overview.md#trade-insight) interface. Standalone notes can also be added from this interface using `Update` in the dropdown menu under `Status`.
 
 ## How to Submit Crypto Trades
 
@@ -129,12 +129,12 @@ Use ![](<../../.gitbook/assets/image (9) (1) (1) (1).png>) to instantly close a 
 
 <figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Average, partial/trim, and close all open positions from the Active Positions tab on the New Trade interface</p></figcaption></figure>
 
-Trades can also be averaged, trimmed, or closed directly from the [Trade Insight](../../info/user-interfaces-overview.md#trade-insight) interface. Standalone notes can also be added from this interface using `Update` in the dropdown menu under `Status`.
+Trades can also be averaged, trimmed, or closed directly from the [Trade Insight](../../info/readme/user-interfaces-overview.md#trade-insight) interface. Standalone notes can also be added from this interface using `Update` in the dropdown menu under `Status`.
 
 ## Changing TP/SL on open trades
 
 TP/SL can be added or changed from the Trade Insight interface. Coming soon: Ability to add/change TP/SL from Active Positions tab on the New Trade interface.\
-[#trade-insight-pop-ups-and-pages](../../info/user-interfaces-overview.md#trade-insight-pop-ups-and-pages "mention")
+[#trade-insight-pop-ups-and-pages](../../info/readme/user-interfaces-overview.md#trade-insight-pop-ups-and-pages "mention")
 
 [^1]: _A small tolerance of the submitted price can be off from current price to allow for volatility and time it takes to submit a trade._
 
