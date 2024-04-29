@@ -6,7 +6,7 @@ description: >-
 
 # Referral System & Payouts
 
-Please read the terms of service relating to referrals and payouts.
+Please read the [terms of service](https://nvstly.com/terms#section-7) relating to referrals and payouts.
 
 ## Referrals
 
@@ -50,13 +50,9 @@ Account settings will display an invite tracker, subscription tracker, pending b
 
 
 
-
-
-
-
 #### Terms
 
-For a complete and detailed description of terms relating to referrals and payouts, please refer to section 7 in our terms of service.\
+For a complete and detailed description of terms relating to referrals and payouts, please refer to [section 7](https://nvstly.com/terms#section-7) in our terms of service.\
 \
 If at any time during the 60 day pending phase an invitee disputes a charge related to their billing period, the reward amount will be removed from the balance permanently and won't be credited back even if the dispute results in our favor. _This 60 day pending/holding period is to prevent paying out rewards in the case that a user disputes the membership fee charge. Reward credits relating to a dispute are removed due to our payment processor (Stripe) charging a fee regardless the resolution results._\
 \
