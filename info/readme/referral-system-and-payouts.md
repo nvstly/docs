@@ -42,7 +42,7 @@ Because we use [Coinbase](https://trd.ng/ref/coinbase) as our main exchange to h
 
 Getting started is easy. Simply hit the `Create Referral Code` button found in [Account Settings](https://nvstly.com/settings/profile) to generate a code, link, and QR image. This link can be shared anywhere.\
 \
-To be credited for a user you invited to the platform that already has an account, they can input your referral code in their [Membership Settings](https://nvstly.com/settings/membership).
+To be credited for a user you invited to the platform that already has an account, they can input your referral code in their [Membership Settings](https://nvstly.com/settings/membership). They must not already be a PRO member, but if they do become a PRO member after inputting referral code, you will earn from their billings.
 
 #### Tracking Referrals, Subscribers, & Reward Balance or History
 
@@ -53,6 +53,8 @@ Account settings will display an invite tracker, subscription tracker, pending b
 #### Terms
 
 For a complete and detailed description of terms relating to referrals and payouts, please refer to [section 7](https://nvstly.com/terms#section-7) in our terms of service.\
+\
+Invitees must use a referral link when signing up or input a referral code in their settings **before** becoming a PRO member for referrers to be issued rewards. If a user is already a PRO member and inputs a referral code, the account that code belongs to will not earn any rewards for any of this user's billing periods.\
 \
 If at any time during the 60 day pending phase an invitee disputes a charge related to their billing period, the reward amount will be removed from the balance permanently and won't be credited back even if the dispute results in our favor. _This 60 day pending/holding period is to prevent paying out rewards in the case that a user disputes the membership fee charge. Reward credits relating to a dispute are removed due to our payment processor (Stripe) charging a fee regardless the resolution results._\
 \
