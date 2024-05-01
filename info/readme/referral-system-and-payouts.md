@@ -10,7 +10,7 @@ Please read the [terms of service](https://nvstly.com/terms#section-7) relating 
 
 ## Referrals
 
-Any time a user signs up using your referral link, and at any time subscribes to PRO/PRO+ the referring user will earn a percentage of the invitees membership payment, and not just once but for every billing period. Even if a referred user already has an account, they can input a referral code through their [Membership Settings](https://nvstly.com/settings/membership), _but can't already be a subscribed PRO Member._\
+Any time a user signs up using your referral link, and at any time subscribes to PRO/PRO+ the referring user will earn a percentage of the invitees membership payment, and not just once but for every billing period. Even if a referred user already has an account, they can input a referral code through their [Membership Settings](https://nvstly.com/settings/membership), _so long they are not already a subscribed PRO Member._\
 \
 Even when a user uses a referral link but doesn't signup immediately or does so at a later date, the referral code will be cached in their browser so that the referral will still be credite.\
 \
@@ -54,7 +54,7 @@ Account settings will display an invite tracker, subscription tracker, pending b
 
 For a complete and detailed description of terms relating to referrals and payouts, please refer to [section 7](https://nvstly.com/terms#section-7) in our terms of service.\
 \
-Invitees must use a referral link when signing up or input a referral code in their settings **before** becoming a PRO member for referrers to be issued rewards. If a user is already a PRO member and inputs a referral code, the account that code belongs to will not earn any rewards for any of this user's billing periods.\
+Accounts that are subscribed PRO Members cannot input any referral code in their Membership Settings. An invitee needs to either signup using a referral link or input a referral code within their Membership Settings _**prior**_ to becoming a PRO Member for a referrer to be credited rewards.\
 \
 If at any time during the 60 day pending phase an invitee disputes a charge related to their billing period, the reward amount will be removed from the balance permanently and won't be credited back even if the dispute results in our favor. _This 60 day pending/holding period is to prevent paying out rewards in the case that a user disputes the membership fee charge. Reward credits relating to a dispute are removed due to our payment processor (Stripe) charging a fee regardless the resolution results._\
 \
