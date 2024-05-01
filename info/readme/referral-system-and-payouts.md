@@ -10,7 +10,7 @@ Please read the [terms of service](https://nvstly.com/terms#section-7) relating 
 
 ## Referrals
 
-Any time a user signs up using your referral link, and at any time subscribes to PRO/PRO+ the referring user will earn a percentage of the invitees membership payment, and not just once but for every billing period. Even if a referred user already has an account, they can input a referral code through their [Membership Settings](https://nvstly.com/settings/membership).\
+Any time a user signs up using your referral link, and at any time subscribes to PRO/PRO+ the referring user will earn a percentage of the invitees membership payment, and not just once but for every billing period. Even if a referred user already has an account, they can input a referral code through their [Membership Settings](https://nvstly.com/settings/membership), _but can't already be a subscribed PRO Member._\
 \
 Even when a user uses a referral link but doesn't signup immediately or does so at a later date, the referral code will be cached in their browser so that the referral will still be credite.\
 \
