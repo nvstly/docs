@@ -54,7 +54,7 @@ Account settings will display an invite tracker, subscription tracker, pending b
 
 For a complete and detailed description of terms relating to referrals and payouts, please refer to [section 7](https://nvstly.com/terms#section-7) in our terms of service.\
 \
-Accounts that are subscribed PRO Members cannot input any referral code in their Membership Settings. An invitee needs to either signup using a referral link or input a referral code within their Membership Settings _**prior**_ to becoming a PRO Member for a referrer to be credited rewards.\
+Existing PRO Members who haven't linked a referral code to their accounts cannot input a referral code in their Membership Settings. To credit rewards to a referrer, an invitee must sign up using a referral link or enter a referral code in their Membership Settings before becoming a PRO Member.\
 \
 If at any time during the 60 day pending phase an invitee disputes a charge related to their billing period, the reward amount will be removed from the balance permanently and won't be credited back even if the dispute results in our favor. _This 60 day pending/holding period is to prevent paying out rewards in the case that a user disputes the membership fee charge. Reward credits relating to a dispute are removed due to our payment processor (Stripe) charging a fee regardless the resolution results._\
 \
