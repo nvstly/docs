@@ -10,13 +10,13 @@ There is no extra trigger or syntax to average positions. Using the same opening
 \
 For example, if you submit `BTO BTC/USDT @ 25000` and do not close it, when you submit  another opening position the same as an existing one, such as `BTO BTC/USDT @ 24000,` it will already know you have an existing open trade for this ticker and will auto calculate the new average for this trade to 24500- the average of 25000 & 24000.
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Example of averaging up</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>Example of averaging up</p></figcaption></figure>
 
 ## Using Slash Commands
 
 The same concept applies to slash commands as with text commands. Submitting an open position for the same existing open position will average it.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Example of averaging with slash command</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>Example of averaging with slash command</p></figcaption></figure>
 
 
 
