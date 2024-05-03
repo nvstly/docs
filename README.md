@@ -8,7 +8,7 @@ Track & share trades with in-depth performance stats, follow others to receive i
 
 The #1 tool for traders on social media. Auto post your trades to social media such as Twitter, Discord, & Stocktwits with an optional delay, include your stats such as win rate & average return.
 
-Join [our community on Discord](https://discord.gg/tradehub) of over 35,000 traders
+Join [our community on Discord](https://discord.gg/tradehub) of over 40,000 traders
 
 
 
