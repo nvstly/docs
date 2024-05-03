@@ -70,7 +70,7 @@
 * [Daily/Weekly/Monthly Trades](commands/daily-weekly-monthly-trades.md)
 * [Reputation](commands/reputation.md)
 * [Follow](commands/follow.md)
-* [Market Data](commands/market-data.md)
+* [Market Data (Charts, Data Prices, etc.)](commands/market-data.md)
 
 ## Ticker Bots
 
