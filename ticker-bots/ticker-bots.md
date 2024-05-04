@@ -1,12 +1,22 @@
 ---
 description: >-
-  Ticker bots display close to real-time price updates and are available for any
-  Discord server. If there's a ticker you'd like added, feel free to reach out.
+  Ticker bots display prices & price movements for specified tickers, available
+  to any server. For better uptime & performance, or tickers we don't have-
+  consider our exclusive or private bots.
 ---
 
 # Discord Ticker Price Bots
 
-Ticker bots can be added by using the links below. Here's an example of how they look.\\
+### Consider Our Exclusive or Private Ticker Bots
+
+Our public bots are 100% free, but there's only 1 bot per ticker we provide. This can cause slower price updates as more servers invite a bot. With so many public bots, and as more servers continue to add them, we find ourselves needing to increase resources and provide maintenance more frequently than we'd like.\
+To solve the problem with scheduled & unexpected down time, as well as slower price updates for the more popular ticker bots- we've dedicated computing and resources to exclusive & private bots only. With this, we're able to guarantee 99% uptime and 100% price updates no later than 10 (7-8) second intervals and are obligated to do so or offer a money back guarantee.\
+\
+To learn more about our exclusive & private bots check out [exclusive-and-private-ticker-bots.md](exclusive-and-private-ticker-bots.md "mention")
+
+## Ticker Bots
+
+Ticker bots can be added by using the links below. Here's an example of how they look.
 
 <figure><img src="../.gitbook/assets/image (273).png" alt=""><figcaption><p>Bots automatically update price and can assign themselves roles when the price is up/down</p></figcaption></figure>
 
@@ -209,3 +219,24 @@ You can request any stock, futures, forex, or crypto ticker(s) you'd like added,
 [$WINTER Seasonal Tokens](https://discord.com/oauth2/authorize?client\_id=1158950569747161150\&permissions=335547392\&scope=bot)
 {% endtab %}
 {% endtabs %}
+
+## Help Support Our Ticker Bots
+
+Offering a free platform and nearly 100 free ticker bots gives us the gratification when users and servers have and report a great user experience. However, market data isn't cheap and neither is the resources to run all this with stability.\
+\
+Totally optional, but the best way to support the entire platform including these ticker bots is to become a [PRO member](https://nvstly.com/settings/membership) for a low affordable fee of $6/month. You can also find promotions and discount codes within our [Discord server](https://discord.gg/nvstly) to save upwards of 30-50% on this membership. Buying your own exclusive or private & customized ticker bot(s) also help supports the platform- more info on that here [exclusive-and-private-ticker-bots.md](exclusive-and-private-ticker-bots.md "mention")\
+\
+We'll also accept any sized donations via CashApp, PayPal, or cryptocurrency.&#x20;
+
+&#x20;   **PayPal:** `donate@nvst.ly` OR [PayPal Donate](https://nvstly.com/paypal)\
+&#x20;   **CashApp:** `$TradeHub`\
+&#x20;   **Coinbase:** `team@nvst.ly` - Can transfer any crypto & for free when doing coinbase-to-coinbase transfers.\
+&#x20;   **Crypto:** Contact us if you'd like to donate a different coin/token [_info@nvst.ly_](mailto:info@nvst.ly)\
+&#x20;       **Bitcoin (BTC):** `3NPwubJKVwn751NGrTgwZoP9ALsDQuEA5p`\
+&#x20;       **Ethereum (ETH):** `0xd8842865661b6901F04593d216Fe061DE906f312`\
+&#x20;       **Litecoin (LTC):** `MJH2gpgZnkVts4Y1S6cvoLfmab1MthDYoT`\
+&#x20;       **Ripple (XRP):** `rw2ciyaNshpHe7bCHo4bRWq6pqqynnWKQg` - Memo: `514910569`\
+&#x20;       **USDT Addresses:** \
+&#x20;            **TRC20**: `TPfsBMDZTfkBQTcq1y1bhNshACjkFpaQnT`\
+&#x20;            **ERC20**: `0xd1d5B859f3BbB3671D77B4aD6130aB8AbA6cF2A9`\
+&#x20;            **BEP20**: `0x45Ac4b386c78F2E4394DDfF947Dd626340da521A`

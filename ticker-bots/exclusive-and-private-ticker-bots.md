@@ -7,6 +7,10 @@ description: >-
 
 # Exclusive & Private Ticker Bots
 
+{% hint style="success" %}
+Guaranteed 99% online uptime with 100% price updates no later than 10 (7-8) seconds or your money back guaranteed.
+{% endhint %}
+
 ## Exclusive Bots
 
 Exclusive bots are available to limited servers and are guaranteed with a 99% online uptime, and updates their prices no later than 10 seconds. Once an exclusive bot reaches a server count limit slows down price updates to more than 10 seconds, we create an additional exclusive bot for that ticker(s) so our guaranteed 100% price updates in 10 seconds or less is always met. Exclusive bots are also great for tickers that we don't have any free public bots for, there is no limit on how many tickers bots can be created for.\
