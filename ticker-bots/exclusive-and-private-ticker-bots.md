@@ -24,12 +24,12 @@ Private bots are limited to only the servers they are customized for. Servers ca
 ## Pricing
 
 **Exclusive Bots:**\
-\- 1 bot: $2.49 per month or $25 per year\
-\- 5 or more bots: $2 per bot per month or 20% discounted rate per year
+\- 1 bot: $1 per month or $10 per year\
+\- 5 or more bots: $0.50 per bot per month or $5/bot per year
 
 **Private Bots:**\
-\- 1 bot: $5 per month or $50 per year\
-\- 5 or mote bots: $3 per bot per month or 20% discounted rate per year
+\- 1 bot: $2 per month or $20 per year\
+\- 5 or mote bots: $1 per bot per month or $10/bot per year
 
 **Payment Methods:**\
 We can accept any of the following payment methods:\
