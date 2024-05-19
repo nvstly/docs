@@ -2,7 +2,7 @@
 description: Auto trade sharing with tweets.
 ---
 
-# Twitter
+# Twitter (Temporarily Disabled)
 
 Currently you will need to confirm each tweet after submitting a trade position, soon PRO users will be able to opt-in for automatic trade sharing tweets. You \
 \
@@ -36,3 +36,7 @@ You have full permissions of how your message or embed looks when sent. We've bu
 * Curent market price of ticker
 * Daily high/low price of ticker
 * [And so much more](customize-messages-or-embeds.md)
+
+## How To Generate X/Twitter API Keys
+
+Coming soon to provide full trade sharing automation to X.com
