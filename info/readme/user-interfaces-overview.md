@@ -6,7 +6,7 @@ description: Important UIs & what they are.
 
 ### Trades Feed
 
-The T[rades feed ](https://trhub.net/trades)displays all the trades that are submitted by traders. Each time a trader submits a trade it's displayed on this page in real-time or on a 15 minute delay for free users. Any time a trade is opened, averaged. trimmed/partially closed, or exited, the trade is refreshed to the top of this list.\
+The [Trades feed ](https://trhub.net/trades)displays all the trades that are submitted by traders. Each time a trader submits a trade it's displayed on this page in real-time or on a 15 minute delay for free users. Any time a trade is opened, averaged. trimmed/partially closed, or exited, the trade is refreshed to the top of this list.\
 \
 Each row shows the trader who made the trade and important information for that trade. It shows the ticker being traded with the direction (long/short) along with the options data (if any), the current status, and the price it was opened at and a profit/loss stat.
 
