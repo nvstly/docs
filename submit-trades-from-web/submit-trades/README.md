@@ -44,7 +44,7 @@ After continuing to the next step, the submitted price will be locked in. So eve
 
 Use ![](<../../.gitbook/assets/image (9) (1) (1) (1).png>) to instantly close a position at the current market price.
 
-1. Click on a position's row to expand it.
+1. Go to Active Positions and click on a position's row to expand it.
 2. Select Average, Partial, or Close from the dropdown menu under Status.
 3. Input your price or use the provided real-time market price.
 4. Optionally add notes or upload media.
@@ -83,7 +83,7 @@ Trades can also be averaged, trimmed, or closed directly from the [Trade Insight
 
 Use ![](<../../.gitbook/assets/image (9) (1) (1) (1).png>) to instantly close a position at the current market price.
 
-1. Click on a position's row to expand it.
+1. Go to Active Positions and click on a position's row to expand it.
 2. Select Average, Partial, or Close from the dropdown menu under Status.
 3. Input your price or use the provided real-time market price.
 4. Optionally add notes or upload media.
@@ -120,7 +120,7 @@ Trades can also be averaged, trimmed, or closed directly from the [Trade Insight
 
 Use ![](<../../.gitbook/assets/image (9) (1) (1) (1).png>) to instantly close a position at the current market price.
 
-1. Click on a position's row to expand it.&#x20;
+1. Go to Active Positions and click on a position's row to expand it.&#x20;
 2. Select Average, Partial, or Close from the dropdown menu under Status.&#x20;
 3. Input your price or use the provided real-time market price.&#x20;
 4. Optionally add notes or upload media.&#x20;
