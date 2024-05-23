@@ -56,8 +56,8 @@ For example: \
 \[\[stock.name]] the ticker would be `aapl`\
 \[\[Stock.name]] the ticker would be `Aapl`\
 \[\[STOCK.name]] the ticker would be `AAPL`\
-\[\[trade.type]] would be `open,` `average,` p`artial,` or `close`\
-\[\[Trade.type]] would be `Open,` `Average,` `Partial,`or `Close`
+\[\[trade.type]] would be `open,` `average,` `partial,` or `close`\
+\[\[Trade.type]] would be `Open,` `Average,` `Partial,` or `Close`
 
 {% hint style="info" %}
 When TP/SL is triggered and options expire, these are sent through the **Close** event, and will utilize the **Trade Notes** property. "Trade Expired", and "Stop Loss Hit" or "Take Profit Hit" will be in the trade notes.
