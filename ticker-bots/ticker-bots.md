@@ -22,11 +22,11 @@ Ticker bots can be added by using the links below. Here's an example of how they
 
 ### How to automatically change colors
 
-For the bots to automatically change colors, representing up/down price changes, you will need to create two roles. Create two roles named "Up" and "Down" with their respected colors. Then assign the `Manage Roles` permissions to the bots if they don't have it already.
+To enable automatic color changes representing up/down price changes, the bots need to have the _Manage Roles_ permission. This allows them to create _Up_ and _Down_ roles with their respective colors. To prevent the bots from creating duplicate roles, ensure that these roles are placed below the bots main roles. If duplicate roles are created, you can delete them, and the bots will continue working as usual.
 
 ### Available ticker bots
 
-You can request any stock, futures, forex, or crypto ticker(s) you'd like added, and we will have it running within 48 hours. Join our [Discord](https://discord.thetradehub.net) and send a request through our support channel.
+We are no longer accepting requests for stock, futures, forex, or crypto tickers that we don't currently provide. Instead, servers can order an exclusive or private ticker bot for any tickers we don't currently have available.
 
 {% tabs %}
 {% tab title="Stocks & ETFs" %}
