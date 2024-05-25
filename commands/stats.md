@@ -5,9 +5,12 @@ description: Display a trader's performance stats
 # Stats
 
 {% hint style="info" %}
-`$stats [@user/username] [-t time]`\
-**and**\
-`/stats <user> <timeframe>`\
+`$stats [@user/username] [-t time]`
+
+**and**
+
+`/stats <user> <timeframe>`
+
 _User & time syntax are optional_
 {% endhint %}
 
