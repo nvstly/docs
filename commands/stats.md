@@ -24,6 +24,6 @@ Check your own or another trader's performance stats based on all their closed t
 Stats can be shown for days, weeks, months, and years using `d` `w` `mo` `y` after the timeframe number value.
 
 > $stats @Hubert -t 2w\
-> Will show the last two weeks of trading performance stats for the traader Hubert.
+> Will show the last two weeks of trading performance stats for the trader Hubert.
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Stats command for trader Ellie displaying past year of statistics</p></figcaption></figure>
