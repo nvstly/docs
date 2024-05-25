@@ -24,4 +24,5 @@ There is 1 **optional** permission that you can grant the bot after it has been 
 When the bot joins the server it scans for channels with the keywords "general", "hangout", & "chat" to send it's greeting message. If it does not detect a channel containing a key word it sends the message into the first channel it has the `Send Messages` permission. \
 \
 This greeting message will inform you that a setup is not required but will prompt you with the available commands for settings.\
-![](<../.gitbook/assets/image (17) (1) (1).png>)
+\
+<img src="../.gitbook/assets/image (282).png" alt="" data-size="original">
