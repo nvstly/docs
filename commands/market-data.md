@@ -4,7 +4,7 @@ description: >-
   market data without leaving Discord. Asset info, prices, charts, & more.
 ---
 
-# Market Data
+# Market Data (Charts, Data Prices, etc.)
 
 {% hint style="warning" %}
 Crypto charts, stats, & prices will be modified soon where you can choose to request data from a specific exchange.
@@ -15,8 +15,10 @@ Crypto charts, stats, & prices will be modified soon where you can choose to req
 ### Stocks
 
 {% hint style="info" %}
-`$chart` _(or)_ `$c TICKER [time]`\
-**or**\
+`$chart` _(or)_ `$c TICKER [time]`
+
+**or**
+
 `/chart TICKER [time]`
 {% endhint %}
 
