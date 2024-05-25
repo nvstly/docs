@@ -10,7 +10,7 @@ The [Trades feed ](https://trhub.net/trades)displays all the trades that are sub
 \
 Each row shows the trader who made the trade and important information for that trade. It shows the ticker being traded with the direction (long/short) along with the options data (if any), the current status, and the price it was opened at and a profit/loss stat.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Trade Row</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Trade Row</p></figcaption></figure>
 
 The row can be expanded which displays any notes about the trade the trader has provided.\
 \

@@ -41,7 +41,7 @@ Take Profit and/or Stop Loss values can be specified anywhere within the trade n
 > `TP is 2.34 & SL is 1.23`\
 > _(Any symbol or word can be used where `@` and `is` are.)_
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Example of setting TP/SL values with trade submission notes</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Example of setting TP/SL values with trade submission notes</p></figcaption></figure>
 
 ### Changing TP/SL using List command
 
@@ -59,7 +59,7 @@ Trades are intended to auto close when the asset's price reaches or exceeds the 
 
 <figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>Notification sent to channel the trade originates in</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>DM notification for TP/SL being triggered</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption><p>DM notification for TP/SL being triggered</p></figcaption></figure>
 
 {% hint style="danger" %}
 Note: Auto closing at TP/SL when hit is not always 100% successful with volatility. If you have them set and a trade didn't close when it should, please use the `$fixtrade` command or reach out to [support.](https://discord.gg/rhAvzyzk9J)

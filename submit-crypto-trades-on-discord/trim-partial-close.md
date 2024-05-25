@@ -21,7 +21,7 @@ To trim or partially close trades and keep them open, use the trim/partial keywo
 {% endtab %}
 
 {% tab title="Example #2" %}
-![](<../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png>)Example of partially closing DOT/USDT position
+![](<../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png>)Example of partially closing DOT/USDT position
 {% endtab %}
 
 {% tab title="Example #3" %}

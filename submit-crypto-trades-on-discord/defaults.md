@@ -43,7 +43,7 @@ When default market is set to `crypto` and when submitting a crypto trade, the t
 Use the `/defaults` or `$defaults` command to bring up the defaults settings interface. Click on the button labeled "Default Market".\
 ![](<../.gitbook/assets/image (17).png>)\
 A prompt will appear where the name of the default market can be entered.\
-![](<../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)\
+![](<../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)\
 Type in `crypto` to set the default trading market to crypto, then hit Submit.
 
 If successful the bot will then respond with an ephemeral message stating that the default market has been changed. If it responds with "That is not a supported market!" try again and double check the spelling of `stocks` or `crypto`.

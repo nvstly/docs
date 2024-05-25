@@ -19,7 +19,7 @@ Opening triggers;\
 
 To open a **long** stock position, use the trigger **`BTO`** followed by the ticker, then the symbol @ before the price.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Example of opening a long position for $AAPL at the price of $188.00</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Example of opening a long position for $AAPL at the price of $188.00</p></figcaption></figure>
 
 ### Opening Short
 
@@ -28,7 +28,7 @@ To open a **long** stock position, use the trigger **`BTO`** followed by the tic
 
 To open a **short** stock position, use the trigger **`STO`** followed by the ticker, then the symbol **@** before the price.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Example of opening a short position for $AAPL at the price of $177.94</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Example of opening a short position for $AAPL at the price of $177.94</p></figcaption></figure>
 
 ##
 

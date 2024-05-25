@@ -14,7 +14,7 @@ All text based commands can also be used via /slash commands.
 
 **The bot can be added with the required permissions and used in any channel immediately without any setup needed.** For a list of all available settings, use the `/setup` or `$setup` command.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>All available settings</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>All available settings</p></figcaption></figure>
 
 ## Prefix
 

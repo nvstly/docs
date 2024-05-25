@@ -16,7 +16,7 @@ For example, if you submit `BTO BTC/USDT @ 25000` and do not close it, when you 
 
 The same concept applies to slash commands as with text commands. Submitting an open position for the same existing open position will average it.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Example of averaging with slash command</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Example of averaging with slash command</p></figcaption></figure>
 
 
 

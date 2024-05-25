@@ -28,7 +28,7 @@ Using the `$list` or `/list` command will display all open trades where each one
 After successfully setting or changing a TP/SL, the bot's ephemeral message will be edited to confirm the values specified. The bot will also edit it's response embed to the submitted trade to display the TP/SL values.\
 CHANGE THIS - add gif of setting TP/SL and bot editing the embed
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Successfully setting or changing TP/SL</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Successfully setting or changing TP/SL</p></figcaption></figure>
 
 ## Setting TP/SL with trade submission
 
@@ -52,7 +52,7 @@ The `$list` or `/list` command displays all open trades ordered by most recent. 
 A TP/SL can be added, changed, or removed at any time by using the `$list` or `/list` command.  It displays all your open trades 4 at a time. Each trade has a TP/SL button that can be used to specify new or remove values.\
 
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>List command display example</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>List command display example</p></figcaption></figure>
 
 ### When TP/SL is Hit
 
