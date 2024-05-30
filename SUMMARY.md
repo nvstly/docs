@@ -48,6 +48,7 @@
 ## 🪙 Submit Crypto Trades on Discord
 
 * [Overview](submit-crypto-trades-on-discord/overview.md)
+* [Supported Exchanges](submit-crypto-trades-on-discord/supported-exchanges.md)
 * [Defaults](submit-crypto-trades-on-discord/defaults.md)
 * [Triggers](submit-crypto-trades-on-discord/triggers.md)
 * [Opening Trades](submit-crypto-trades-on-discord/opening-trades.md)

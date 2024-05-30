@@ -55,30 +55,30 @@ The default crypto exchange setting is what allows trades to be submitted withou
 We currently support 25 crypto exchanges used to check real-time crypto prices. Here's the full list:
 
 * Binance
-* Binance.us
-* Bingx
+* Binance.US
+* BingX
 * Bitfinex
-* Bitforex
+* BitForex
 * Bitget
-* Bitmart
-* Bitmex
+* BitMart
+* BitMEX
 * Bitrue
-* Cex.io
+* CEX.IO
 * Coinbase
 * Coinsbit
-* Cryptocom
-* Digifinex
-* Gateio
+* Crypto.com
+* DigiFinex
+* Gate.io
 * Gemini
-* Hitbtc
-* Huobi
+* HitBTC
+* Huobi/HTX
 * Kraken
-* Kucoin
-* Lbank
+* KuCoin
+* LBank
 * MEXC
 * OKX
 * Poloniex
-* Xt
+* XT
 
 By default, a new users default exchange is set to `binance`. Specifying an exchange name in the trade notes can be used to submit a trade on an exchange that is not the default exchange.
 
