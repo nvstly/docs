@@ -6,7 +6,8 @@
   * [User Interfaces Overview](info/readme/user-interfaces-overview.md)
   * [Download Your Data](info/readme/download-your-data.md)
   * [Referral System & Payouts](info/readme/referral-system-and-payouts.md)
-* [Broker Integration](info/broker-integration.md)
+* [Broker Integration](info/broker-integration/README.md)
+  * [Webull Integration](info/broker-integration/webull-integration.md)
 * [Contact & Support](info/contact-and-support.md)
 
 ## 🆕 Submit Trades From Web
