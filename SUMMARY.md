@@ -30,6 +30,7 @@
 * [Server Settings](discord-bot-setup/server-settings/README.md)
   * [Admin Roles](discord-bot-setup/server-settings/admin-roles.md)
   * [Whitelist Channels](discord-bot-setup/server-settings/whitelist-channels.md)
+* [Server-only Leaderboard](discord-bot-setup/server-only-leaderboard.md)
 
 ## 📈 Submit Stocks/Options Trades on Discord
 

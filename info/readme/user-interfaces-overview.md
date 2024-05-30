@@ -73,13 +73,13 @@ The ranking formula is subject to change as we stride to keep rankings fair for 
 
 #### Server-Only Leaderboards
 
-Servers can access their own leaderboards which rank only traders within their community. These leaderboards display the ranks of every trader who is a signed up user on our platform and also meets the the seven (7) trade minimum quantity for eligibility.
+Servers can access their own leaderboards which rank only traders within their community. These leaderboards display the ranks of every trader who is a signed up user on our platform and also meets the the seven (7) trade minimum quantity for eligibility, for timeframes above _Past Day_.
 
 {% hint style="info" %}
 **How to see server-only leaderboards?**\
 `https://trd.ng/ranks?guild=server-id-here`\
 or\
-`https://nvst.ly/ranks?guild=server-id-here`
+`https://nvstly.com/ranks?guild=server-id-here`
 {% endhint %}
 
 ## Dashboard
