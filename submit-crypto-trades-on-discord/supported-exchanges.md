@@ -12,7 +12,6 @@ Here's a complete list of 25 crypto exchanges we currently support. This list wi
 * Binance.US
 * BingX
 * Bitfinex
-* BitForex
 * Bitget
 * BitMart
 * BitMEX
@@ -42,7 +41,6 @@ We deduct an exchange fee percentage for each trade. This adds better accuracy o
 * Binance.US - 0.38%&#x20;
 * BingX - 0.1%&#x20;
 * Bitfinex - 0.1%&#x20;
-* BitForex - 0.1%&#x20;
 * Bitget - 0.02%&#x20;
 * BitMart - 0.02%&#x20;
 * BitMEX - 0.0175%&#x20;
