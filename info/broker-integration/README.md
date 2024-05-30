@@ -25,5 +25,6 @@ Linking or connecting a broker only shares trades with the app, it **cannot** cr
 * TradeStation
 * Robinhood
 * Fidelity
+* Tastytrade
 * Firstrade
 * Tradier
