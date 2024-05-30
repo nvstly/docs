@@ -13,7 +13,7 @@ Stocks with more than one class of shares that contain a dot in their ticker sym
 
 Below is a list of stock ticker symbols, if you see any are missing please report them to us at [support@nvst.ly](mailto:support@nvst.ly)
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>List of all stock tickers with more than one class of shares &#x26; their aliases</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>List of all stock tickers with more than one class of shares &#x26; their aliases</p></figcaption></figure>
 
 The symbols in the left column are those the bot recognizes. When submitting a trade containing any of these symbols, simply just remove the dot or dash and the bot will recognize it.
 
@@ -23,6 +23,6 @@ Some indices have options that can be traded, and typically use an up arrow in t
 
 Below is a list of all index tickers, if you see any are missing please report them to [support@nvst.ly](mailto:support@nvst.ly)
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>List of all index ticker symbols &#x26; their aliases</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>List of all index ticker symbols &#x26; their aliases</p></figcaption></figure>
 
 The tickers in the left column are those the bot recognizes. When submitting an options trade containing any of these symbols, be sure to use the alias ticker in the left column.

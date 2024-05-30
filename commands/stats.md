@@ -26,4 +26,4 @@ Stats can be shown for days, weeks, months, and years using `d` `w` `mo` `y` aft
 > $stats @Hubert -t 2w\
 > Will show the last two weeks of trading performance stats for the trader Hubert.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Stats command for trader Ellie displaying past year of statistics</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption><p>Stats command for trader Ellie displaying past year of statistics</p></figcaption></figure>

@@ -13,11 +13,11 @@ Daytrade - Swing - Scalp - Long Term
 
 Specifying the style of a trade has no functionality other than cosmetic and informational purposes. It can help viewers whether the trade is short or long term. By default, all trades use the `Daytrade` style unless specified otherwise.&#x20;
 
-![](<../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png>)![](<../.gitbook/assets/image (5) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1).png>)![](<../.gitbook/assets/image (5) (1) (1) (1) (1).png>)
 
 To set the style of a trade, mention any one of the style keywords anywhere in the trade notes.
 
-<figure><img src="../.gitbook/assets/image (6) (1) (1) (1).png" alt=""><figcaption><p>Trade Style keyword "swing" used in notes will mark the trade as a swing</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1) (1) (1) (1).png" alt=""><figcaption><p>Trade Style keyword "swing" used in notes will mark the trade as a swing</p></figcaption></figure>
 
 ## Risk Flags
 
@@ -39,7 +39,7 @@ To specify risk factors on trades, use trade flag keywords anywhere in the notes
 \
 Trades flagged with a risk factor are displayed as such on the [Trades](https://nvst.ly/trades) and Trade Insight interfaces.
 
-<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption><p>Risk Flag "Lotto" added by using the keyword in Trade Notes</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption><p>Risk Flag "Lotto" added by using the keyword in Trade Notes</p></figcaption></figure>
 
 <img src="../.gitbook/assets/image (8) (1).png" alt="" data-size="original">![](<../.gitbook/assets/image (9) (1).png>)
 

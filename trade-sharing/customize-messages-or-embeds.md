@@ -95,7 +95,7 @@ To customize your Twitter tweets, go to [Accounts & Sharing](https://test.nvst.l
 
 This will prompt you with the message/embed builder as shown below. The message builder is pretty self-explanatory. To start, select which trade event (open, close, etc.) and the market you you wish to customize trade sharing content for.
 
-<img src="../.gitbook/assets/image (7) (1) (1) (1) (1).png" alt="" data-size="original">
+<img src="../.gitbook/assets/image (7) (1) (1) (1) (1) (1).png" alt="" data-size="original">
 
 Check out the above documentation here [#customization](customize-messages-or-embeds.md#customization "mention") for more info as customization for Discord and Twitter use the same interface with the same functionality. There is also a description of each property here [#account-trade-and-stock-properties](customize-messages-or-embeds.md#account-trade-and-stock-properties "mention")
 

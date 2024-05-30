@@ -18,7 +18,7 @@ There are many ways to open crypto positions, this documentation will go over th
 To open a **long** crypto position, use the trigger **`BTO`** followed by the ticker/pair (I.e. BTC/USDT), then the symbol @ before the price. By default on new accounts, the crypto exchange is set to Binance and if an exchange name is not specified the bot will log the trade for the Binance exchange. \
 The default exchange, among other (market, pair) defaults, can be changed. See [defaults.md](defaults.md "mention")for more info.
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption><p>Example of opening a long position for BTC/USDT at the price of $27154.580 on Binance</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Example of opening a long position for BTC/USDT at the price of $27154.580 on Binance</p></figcaption></figure>
 
 ### Opening Short
 
@@ -28,7 +28,7 @@ The default exchange, among other (market, pair) defaults, can be changed. See [
 To open a **short** crypto position, use the trigger **`STO`** followed by the ticker/pair (I.e. BTC/USDT), then the symbol @ before the price. By default on new accounts, the crypto exchange is set to Binance and if an exchange name is not specified the bot will log the trade for the Binance exchange. \
 The default exchange, among other (market, pair) defaults, can be changed. See [defaults.md](defaults.md "mention")for more info.
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Example of opening a short position for BTC/USDT at the price of $27171.00 on default exchange</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>Example of opening a short position for BTC/USDT at the price of $27171.00 on default exchange</p></figcaption></figure>
 
 
 
@@ -59,4 +59,4 @@ ADD GIF HERE of submitting trade (may need new screenshot for matching data)
 
 Notes can be added and are optional. Trade Styles (swing, scalp, etc.), [Risk Factor Flags](broken-reference), and a Take Profit and/or Stop Loss can all be added by using the notes.
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption><p>Example of opening a long BTC/USDT position on the Binance exchange using 0 for the current market price, and setting style to Long Term</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption><p>Example of opening a long BTC/USDT position on the Binance exchange using 0 for the current market price, and setting style to Long Term</p></figcaption></figure>
