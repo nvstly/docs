@@ -67,6 +67,8 @@ You can update positions and add or modify your TP/SL directly from this interfa
 The [rankings](https://nvst.ly/ranks) interface are side by side leaderboards that lists the ranks of the top traders for any and all markets. We've formulated a scoring system that ranks traders based on their total number of closed trades, win rate, & average return. Traders need a minimum of seven (7) trades for ranking eligibility.\
 _Winning stock trades will have a multiplier soon as bigger gains are harder than options. This should help level the leaderboard for stocks vs options traders._
 
+<figure><img src="../../.gitbook/assets/image (283).png" alt=""><figcaption><p>Leaderboard Rankings</p></figcaption></figure>
+
 {% hint style="warning" %}
 The ranking formula is subject to change as we stride to keep rankings fair for each type of trader and calculate scores that don't favor heavily of one stat over another.
 {% endhint %}
