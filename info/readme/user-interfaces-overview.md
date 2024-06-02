@@ -62,6 +62,12 @@ To access these interface displays, click the trade info from trade rows that ar
 You can update positions and add or modify your TP/SL directly from this interface.
 {% endhint %}
 
+### POV Charts
+
+A unique feature, the POV Charts, offers a unique perspective of each trade event by precisely marking the respective candlesticks on the chart, granting viewers valuable insights into the trader's observations of trends and patterns at the time of each action.
+
+<figure><img src="../../.gitbook/assets/image (284).png" alt=""><figcaption><p>POV Charts show the candles when a trader has entered, averaged, trimmed, or closed.</p></figcaption></figure>
+
 ## Leaderboards
 
 The [rankings](https://nvst.ly/ranks) interface are side by side leaderboards that lists the ranks of the top traders for any and all markets. We've formulated a scoring system that ranks traders based on their total number of closed trades, win rate, & average return. Traders need a minimum of seven (7) trades for ranking eligibility.\
