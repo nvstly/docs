@@ -46,7 +46,7 @@ All push notifications are enabled by default.
 * [x] Reputation received
 * [ ] Social Mentions _(coming soon)_
 
-Notifications can be modified in your Account Settings within the [Notifications](https://nvst.ly/settings/notifications) section.. From here you can enabled/disable all or some events as well modify them for each trader you follow.
+Notifications can be modified in your Account Settings within the [Notifications](https://nvstly.com/settings/notifications) section.. From here you can enabled/disable all or some events as well modify them for each trader you follow.
 
 <figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Customize Notifications for Each Trader</p></figcaption></figure>
 
