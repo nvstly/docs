@@ -70,7 +70,7 @@ A unique feature, the POV Charts, offers a unique perspective of each trade even
 
 ## Leaderboards
 
-The [rankings](https://nvst.ly/ranks) interface are side by side leaderboards that lists the ranks of the top traders for any and all markets. We've formulated a scoring system that ranks traders based on their total number of closed trades, win rate, & average return. Traders need a minimum of seven (7) trades for ranking eligibility.\
+The [rankings](https://nvstly.com/ranks) interface are side by side leaderboards that lists the ranks of the top traders for any and all markets. We've formulated a scoring system that ranks traders based on their total number of closed trades, win rate, & average return. Traders need a minimum of seven (7) trades for ranking eligibility.\
 _Winning stock trades will have a multiplier soon as bigger gains are harder than options. This should help level the leaderboard for stocks vs options traders._
 
 <figure><img src="../../.gitbook/assets/image (283).png" alt=""><figcaption><p>Leaderboard Rankings</p></figcaption></figure>
@@ -114,7 +114,7 @@ You can only +Rep another trader once per day to prevent trading rep and abuse.
 
 #### Badges
 
-PRO/PRO+ icons on dashboards and avatars distinguish subscribed members, you can acquire these by [upgrading your membership.](https://trhub.net/pro)\
+PRO/PRO+ icons on dashboards and avatars distinguish subscribed members, you can acquire these by [upgrading your membership](https://nvstly.com/settings/membership).\
 \
 Badges help traders distinguish themselves from the pack, representing top traders or those with a high win rate. Badges also represent which traders are official analysts or NVSTly staff.
 
@@ -142,7 +142,7 @@ Founder - Just a back-end permissions & access for administrators
 
 ## Settings
 
-Everything you think that can be set or configured will be found in [Account Settings](https://thetradehub.net/settings), if available. Set your dashboard info, link your social media accounts, manage your account & membership plan, modify notification preferences, etc.
+Everything you think that can be set or configured will be found in [Account Settings](https://nvstly.com/settings), if available. Set your dashboard info, link your social media accounts, manage your account & membership plan, modify notification preferences, etc.
 
 For more info on how to setup and configure the many elements in your Account Settings, see LINK HERE
 
