@@ -128,6 +128,8 @@ High Win Rate - 70% or higher win rate
 
 Tier 1-4 - Measure of a traders length of time and contributions in the Discord server
 
+OG - Early supporters
+
 ELITE Analyst - An official Trade Hub analyst, we back their trades are of quality
 
 Analyst - Prospects for ELITE & guest analysts
