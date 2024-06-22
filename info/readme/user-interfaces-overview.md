@@ -54,7 +54,7 @@ Notifications can be modified in your Account Settings within the [Notifications
 
 Trades have their own individual interfaces where additional data for that trade is displayed. Everything pertaining to a submitted trade will be shown on this UI such as every position update, TP/SL change, and notes or media uploads, including additional elements such as ticker data and our unique POV Charts that gives viewers a traders perspective of a chart when they were taking and updating positions.
 
-To access these interface displays, click the trade info from trade rows that are listed on the [Trades](user-interfaces-overview.md#trades-feed) feed, trader [Dashboards](user-interfaces-overview.md#dashboard), or [Stock Info](user-interfaces-overview.md#stock-info-page) displays.
+To access these interface displays, click the trade info from trade rows that are listed on the [Trades](user-interfaces-overview.md#trades-feed) feed, trader [Dashboards](user-interfaces-overview.md#dashboard), or [Ticker Info](user-interfaces-overview.md#ticker-info) displays.
 
 <figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Trade Insight Interface <em>(comments section soon)</em></p></figcaption></figure>
 
