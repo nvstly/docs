@@ -144,7 +144,7 @@ Founder - Just a back-end permissions & access for administrators
 
 Everything you think that can be set or configured will be found in [Account Settings](https://nvstly.com/settings), if available. Set your dashboard info, link your social media accounts, manage your account & membership plan, modify notification preferences, etc.
 
-For more info on how to setup and configure the many elements in your Account Settings, see LINK HERE
+For more info on how to setup and configure the many elements in your Account Settings, see (Settings docs coming soon)
 
 #### Download Data
 
