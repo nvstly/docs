@@ -68,6 +68,12 @@
 * [Triggers](submitting-forex-trades-on-discord/triggers.md)
 * [Opening Trades](submitting-forex-trades-on-discord/opening-trades.md)
 * [Closing Trades](submitting-forex-trades-on-discord/closing-trades.md)
+* [Average Up/Down Positions](submitting-forex-trades-on-discord/average-up-down-positions.md)
+* [Trim/Partial Close](submitting-forex-trades-on-discord/trim-partial-close.md)
+* [Setting TP/SL](submitting-forex-trades-on-discord/setting-tp-sl.md)
+* [Trade Styles, Risk Flags, & Trade Notes](submitting-forex-trades-on-discord/trade-styles-risk-flags-and-trade-notes.md)
+* [Error/Invalid Replies](submitting-forex-trades-on-discord/error-invalid-replies.md)
+* [Fix/Edit Trades](submitting-forex-trades-on-discord/fix-edit-trades.md)
 
 ## Commands
 

@@ -48,6 +48,6 @@ Input the base and quote currency tickers, do not separate them with a `/` slash
 
 Enter in the price or use `0` for the current market price.
 
-Notes can be added and are optional. Trade Styles (swing, scalp, etc.), Risk Factor Flags, and a Take Profit and/or Stop Loss can all be added by using the notes.
+Notes can be added and are optional. [Trade Styles](trade-styles-risk-flags-and-trade-notes.md#trade-styles) (swing, scalp, etc.), [Risk Factor Flags](trade-styles-risk-flags-and-trade-notes.md#risk-flags), and a Take Profit and/or Stop Loss ([#setting-tp-sl-with-trade-submission](setting-tp-sl.md#setting-tp-sl-with-trade-submission "mention")) can all be added by using the notes.
 
 <figure><img src="../.gitbook/assets/{FD99E266-789F-4D5A-BCCF-FAFEABA83611}.png" alt=""><figcaption><p>Example of opening a long position for USD/CAD at $1.3950, and setting both TP/SL.</p></figcaption></figure>

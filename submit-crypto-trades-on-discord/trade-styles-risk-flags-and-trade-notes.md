@@ -34,7 +34,7 @@ Risk, Risky
 
 To specify risk factors on trades, use trade flag keywords anywhere in the notes. More than one trade flag can be applied.
 
-Trades flagged with a risk factor are displayed as such on the [Trades](https://nvst.ly/trades) and Trade Insight interfaces.
+Trades flagged with a risk factor are displayed as such on the [Trades Feed](https://nvstly.com/trades) and Trade Insight interfaces.
 
 <figure><img src="../.gitbook/assets/image (239).png" alt=""><figcaption><p>Risk Flag "High Risk" added by using the keyword in Trade Notes</p></figcaption></figure>
 
@@ -46,7 +46,7 @@ YOLO trades are exempted from main Win Rate and all main Loss/Gain/Return stats,
 
 ## Trade Notes
 
-Trade Notes are comments that are attached to trades when they are submitted. They give more insight from the trader about the position. Notes are displayed for each event (open, close, etc.) on [Trades](https://nvst.ly/trades) and Trade Insight interfaces.
+Trade Notes are comments that are attached to trades when they are submitted. They give more insight from the trader about the position. Notes are displayed for each event (open, close, etc.) on [Trades Feed](https://nvstly.com/trades) and Trade Insight interfaces.
 
 ![](<../.gitbook/assets/image (244).png>)![](<../.gitbook/assets/image (245).png>)
 
@@ -77,5 +77,5 @@ Another method for adding standalone notes is through the use of the /list or $l
 <figure><img src="../.gitbook/assets/image (268).png" alt=""><figcaption><p>This prompt appears when hitting the Update button on the /list UI</p></figcaption></figure>
 
 {% hint style="success" %}
-For PRO members, up to 3 images can be included with notes. Whether attached to your Discord message when submitting a trade, or uploading through the app, they will appear on the Trade Insight interface.
+For PRO members, up to 3 images can be included with notes. Whether attached to your Discord message when submitting a trade, or uploading through the app, they will appear on the Trade Insight interface. No media is allowed for free users.
 {% endhint %}

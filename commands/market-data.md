@@ -91,7 +91,7 @@ The `$gainers` command displays the top 10 highest gainers of the day in referen
 \
 The `$losers` command displays the top 10 losing stocks of the day in reference to the last closing price.
 
-![](<../.gitbook/assets/image (4) (1) (1).png>)![](<../.gitbook/assets/image (5) (1) (1).png>)
+![](<../.gitbook/assets/image (4) (1) (1) (1).png>)![](<../.gitbook/assets/image (5) (1) (1) (1).png>)
 
 
 

@@ -4,9 +4,13 @@ description: Explanation of error or invalid message replies you might run into
 
 # Error/Invalid Replies
 
+### **Invalid:** Your input format is invalid, please recheck the format of your message.
+
+The format of your message is wrong. Common cases include mistyping triggers or `cmp`, misplacing or excluding tickers, or not including the `@` before price.
+
 ### That ticker symbol is invalid!
 
-The specified ticker does not exist, was spelled wrong, or is not on the default or specified exchange. Please only click the Report button if it's an actual ticker, not a typo.
+The specified tickers do not exist, was spelled wrong, or is not on the default or specified exchange. Please only click the Report button if it's an actual ticker, not a typo.
 
 ### Your price is too far off the current market price of...
 
