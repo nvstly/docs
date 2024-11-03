@@ -8,8 +8,8 @@ How To Submit & Modify Trades For:\
 \- [Stocks](./#how-to-submit-stock-trades)\
 \- [Options](./#how-to-submit-options-trades)\
 \- [Crypto](./#how-to-submit-crypto-trades)\
+\- [Forex](./#how-to-submit-forex-trades)\
 \- Futures (soon)\
-\- Forex (soon)\
 \- [Adding or changing TP/SL on open trades](./#changing-tp-sl-on-open-trades)
 
 ## How To Submit Stock Trades
