@@ -82,9 +82,7 @@ Input the ticker or select a provided ticker matching your input.
 
 Enter in the price or use `0` for the current market price.
 
-ADD GIF HERE of submitting trade (may need new screenshot for matching data)
-
-Notes can be added and are optional. Trimming or partially closing positions can be done by using the [Trim/Partial Close](../trim-partial-close.md) keywords within the notes.
+Notes can be added and are optional. Trimming or partially closing positions can be done by using the [Trim/Partial Close](../trim-partial-close.md) keywords (trim, trimming, partial, etc.) within the notes.
 
 <figure><img src="../../.gitbook/assets/image (228).png" alt=""><figcaption><p>Example of closing a long position for $AAPL at $181.26, with exit notes.</p></figcaption></figure>
 
@@ -104,9 +102,7 @@ Put in the strike price.
 
 Enter in the price or use `0` for the current market price.
 
-ADD GIF HERE of submitting trade (may need new screenshot for matching data)
-
-Notes can be added and are optional. Trimming or partially closing positions can be done by using the [Trim/Partial Close](../trim-partial-close.md) keywords within the notes.
+Notes can be added and are optional. Trimming or partially closing positions can be done by using the [Trim/Partial Close](../trim-partial-close.md) keywords (trim, trimming, partial, etc. ) within the notes.
 
 <figure><img src="../../.gitbook/assets/image (229).png" alt=""><figcaption><p>Example of partially closing a long options call for $SPY with $450 strike &#x26; exp. date of 9/07. Partially closing by using keyword 'trimming' in notes.</p></figcaption></figure>
 

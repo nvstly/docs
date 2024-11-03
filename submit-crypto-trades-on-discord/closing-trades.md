@@ -4,9 +4,11 @@ description: How to close crypto positions
 
 # Closing Trades
 
+{% hint style="info" %}
 Closing triggers;\
 **`STC`** is used to close long\
 **`BTC`** is used to close short
+{% endhint %}
 
 ### Closing Long
 
@@ -50,8 +52,6 @@ Input the ticker & pair with a separator. (I.e. BTC/USDT)
 
 Enter in the price or use `0` for the current market price.
 
-ADD GIF HERE of submitting trade (may need new screenshot for matching data)
-
-Notes can be added and are optional. Trade Styles (swing, scalp, etc.), [Risk Factor Flags](broken-reference), and a Take Profit and/or Stop Loss can all be added by using the notes.
+Notes can be added and are optional. Trimming or partially closing positions can be done by using the [Trim/Partial Close](trim-partial-close.md) keywords (trim, trimming, partial, etc.) within the notes.
 
 <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Example of closing a long BTC/USDT position on the Binance exchange using 0 for the current market price</p></figcaption></figure>

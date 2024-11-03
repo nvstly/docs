@@ -6,8 +6,8 @@ description: How to add the Discord bot.
 
 ## Inviting the bot
 
-To add the bot to your server you will need to invite it using the [invite link](https://trd.ng/addbot) then select the server you want to add it to.\
-Bot Invite Link: [https://trd.ng/addbot](https://trd.ng/addbot)
+To add the bot to your server you will need to invite it using the [invite link](https://nvstly.com/addbot) then select the server you want to add it to.\
+Bot Invite Link: [https://nvstly.com/addbot](https://nvstly.com/addbot)
 
 ![](<../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)
 

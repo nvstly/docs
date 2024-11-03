@@ -4,7 +4,7 @@ description: Specifying trade styles, adding risk factor flags, and adding notes
 
 # Trade Styles, Risk Flags, & Trade Notes
 
-Trade Styles
+### Trade Styles
 
 {% hint style="info" %}
 **Available trade styles & keywords:**\

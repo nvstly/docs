@@ -19,7 +19,7 @@ The symbols in the left column are those the bot recognizes. When submitting a t
 
 ## Index Ticker Symbols
 
-Some indices have options that can be traded, and typically use an up arrow in their ticker symbol- or sometimes are known as completely different than their actual ticker. For example, the S\&P 500 is commonlly referred to as SPX, but the actual ticker is ^GSPC.
+Some indices have options that can be traded, and typically use an up arrow in their ticker symbol- or sometimes are known as completely different than their actual ticker. For example, the S\&P 500 is commonly referred to as SPX, but the actual ticker is ^GSPC.
 
 Below is a list of all index tickers, if you see any are missing please report them to [support@nvst.ly](mailto:support@nvst.ly)
 

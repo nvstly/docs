@@ -15,7 +15,7 @@ Linking or connecting a broker only shares trades with the app, it **cannot** cr
 
 ## Supported Brokers
 
-* Webull - [webull-integration.md](webull-integration.md "mention")
+* [Webull](https://nvstly.com/ref/webull) - [webull-integration.md](webull-integration.md "mention")
 
 ## Supported Brokers to Come
 

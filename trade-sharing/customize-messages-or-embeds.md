@@ -18,7 +18,7 @@ v1 design, same functionality. v2 videos in the works.
 
 Each individual market and trade event (open, close, etc.) can be customized.
 
-To customize your Discord message or embed, go to [Accounts & Sharing](https://nvst.ly/settings/sharing) in your account settings under Linked Accounts, click the `customize` button in the settings for your Discord account- you must have Discord linked for this.\
+To customize your Discord message or embed, go to [Accounts & Sharing](https://nvstly.com/settings/sharingl) in your account settings under Linked Accounts, click the `customize` button in the settings for your Discord account- you must have Discord linked for this.\
 ![](<../.gitbook/assets/image (213).png>)
 
 ### Customization
@@ -89,7 +89,7 @@ Author Name & Author Image URL are not to be confused with the username & avatar
 
 ## Twitter (Temporarily Disabled)
 
-To customize your Twitter tweets, go to [Accounts & Sharing](https://test.nvst.ly/settings/sharing) in your account settings under Linked Accounts, click the `customize` button in the settings for your Twitter account- you must have Twitter linked for this.
+To customize your Twitter tweets, go to [Accounts & Sharing](https://nvstly.com/settings/sharing) in your account settings under Linked Accounts, click the `customize` button in the settings for your Twitter account- you must have Twitter linked for this.
 
 ![](<../.gitbook/assets/image (216).png>)
 

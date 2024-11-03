@@ -37,7 +37,6 @@
 ## 📈 Submit Stocks/Options Trades on Discord
 
 * [Overview](submit-stocks-options-trades-on-discord/overview.md)
-* [Triggers](submit-stocks-options-trades-on-discord/triggers.md)
 * [Opening Trades](submit-stocks-options-trades-on-discord/opening-trades.md)
 * [Closing Trades](submit-stocks-options-trades-on-discord/closing-trades/README.md)
 * [Average Up/Down Positions](submit-stocks-options-trades-on-discord/average-up-down-positions.md)
@@ -66,14 +65,17 @@
 ## 📊 Submitting Forex Trades on Discord
 
 * [Overview](submitting-forex-trades-on-discord/overview.md)
+* [Triggers](submitting-forex-trades-on-discord/triggers.md)
+* [Opening Trades](submitting-forex-trades-on-discord/opening-trades.md)
+* [Closing Trades](submitting-forex-trades-on-discord/closing-trades.md)
 
 ## Commands
 
 * [List](commands/list.md)
 * [Stats](commands/stats.md)
 * [Daily/Weekly/Monthly Trades](commands/daily-weekly-monthly-trades.md)
-* [Reputation](commands/reputation.md)
 * [Follow](commands/follow.md)
+* [Reputation](commands/reputation.md)
 * [Market Data (Charts, Data Prices, etc.)](commands/market-data.md)
 
 ## Ticker Bots

@@ -8,7 +8,7 @@ description: >-
 
 ## Webull Integration
 
-To connect or link your Webull brokerage account to NVSTly, follow the steps provided below.
+To connect or link your [Webull](https://nvstly.com/ref/webull) brokerage account to NVSTly, follow the steps provided below.
 
 1. Navigate to [Brokerages & Exchanges](https://nvstly.com/settings/brokers) in Account Settings
 2. Hit Connect next to Webull in the brokers menu\
@@ -20,7 +20,14 @@ To connect or link your Webull brokerage account to NVSTly, follow the steps pro
    ![](<../../.gitbook/assets/image (2).png>)
 7. Confirm the login\
    ![](<../../.gitbook/assets/image (4).png>)
-8. Enable which account you want linked. Success, that's it. Your Webull account is now connected with NVSTly.\
+8. Enable which account you want linked. Success, that's it. Your [Webull](https://nvstly.com/ref/webull) account is now connected with NVSTly.\
    ![](<../../.gitbook/assets/image (6).png>)
 
-Any trades executed within the linked Webull account will automatically be submitted to the app. Enable Trade Sharing to take advantage of automating your trade signals or sharing trades to Discord or social media. [Broken link](broken-reference "mention")
+Any trades executed within the linked [Webul](https://nvstly.com/ref/webull)l account will automatically be submitted to the app. Enable Trade Sharing to take advantage of automating your trade signals or sharing trades to Discord or social media. [Broken link](broken-reference "mention")
+
+
+
+{% hint style="info" %}
+Don't have Webull?\
+We've partnered with Webull to give our users 20 free stocks, just sign up to receive a portion of those and make a minimum deposit to receive the rest. Be sure to use this referral link when creating a Webull account: [https://nvstly.com/ref/webull](https://nvstly.com/ref/webull)
+{% endhint %}

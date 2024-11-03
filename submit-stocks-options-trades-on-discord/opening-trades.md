@@ -82,9 +82,7 @@ Input the ticker or select a provided ticker matching your input.
 
 Enter in the price or use `0` for the current market price.
 
-ADD GIF HERE of submitting trade (may need new screenshot for matching data)
-
-Notes can be added and are optional. Trade Styles (swing, scalp, etc.), [Risk Factor Flags](broken-reference), and a Take Profit and/or Stop Loss can all be added by using the notes.
+Notes can be added and are optional. [Trade Styles](trade-styles-risk-flags-and-trade-notes.md#trade-styles) (swing, scalp, etc.), [Risk Factor Flags](trade-styles-risk-flags-and-trade-notes.md#risk-flags), and a Take Profit and/or Stop Loss ([#setting-tp-sl-with-trade-submission](setting-tp-sl.md#setting-tp-sl-with-trade-submission "mention")) can all be added by using the notes.
 
 <figure><img src="../.gitbook/assets/image (10) (1) (1).png" alt=""><figcaption><p>Example of opening a long position for $AAPL at $177.90, adding the Earnings risk flag, and setting both TP/SL</p></figcaption></figure>
 
@@ -104,9 +102,7 @@ Put in the strike price.
 
 Enter in the price or use `0` for the current market price.
 
-ADD GIF HERE of submitting trade (may need new screenshot for matching data)
-
-Notes can be added and are optional. Trade Styles (swing, scalp, etc.), [Risk Factor Flags](broken-reference), and a Take Profit and/or Stop Loss can all be added through by the notes.
+Notes can be added and are optional. [Trade Styles](trade-styles-risk-flags-and-trade-notes.md#trade-styles) (swing, scalp, etc.), [Risk Factor Flags](trade-styles-risk-flags-and-trade-notes.md#risk-flags), and a Take Profit and/or Stop Loss ([#setting-tp-sl-with-trade-submission](setting-tp-sl.md#setting-tp-sl-with-trade-submission "mention")) can all be added by using the notes.
 
 <figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Example of opening a long options call position for $SPY with $450 strike &#x26; expiration date of 9/07, adding the YOLO high risk flag, and setting both TP/SL</p></figcaption></figure>
 
