@@ -57,6 +57,6 @@ Input the ticker & pair with a separator. (I.e. BTC/USDT)
 
 Enter in the price or use `0` for the current market price.
 
-Notes can be added and are optional. Trade Styles (swing, scalp, etc.), [Risk Factor Flags](trade-styles-risk-flags-and-trade-notes.md#risk-flags), and a Take Profit and/or Stop Loss ([#setting-tp-sl-with-trade-submission](../submit-stocks-options-trades-on-discord/setting-tp-sl.md#setting-tp-sl-with-trade-submission "mention")) can all be added by using the notes.
+Notes can be added and are optional. [Trade Styles](trade-styles-risk-flags-and-trade-notes.md#trade-styles) (swing, scalp, etc.), [Risk Factor Flags](trade-styles-risk-flags-and-trade-notes.md#risk-flags), and a Take Profit and/or Stop Loss ([#setting-tp-sl-with-trade-submission](../submit-stocks-options-trades-on-discord/setting-tp-sl.md#setting-tp-sl-with-trade-submission "mention")) can all be added by using the notes.
 
 <figure><img src="../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption><p>Example of opening a long BTC/USDT position on the Binance exchange using 0 for the current market price, and setting style to Long Term</p></figcaption></figure>
