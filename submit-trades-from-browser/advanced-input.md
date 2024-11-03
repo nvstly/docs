@@ -9,13 +9,10 @@ description: A quick & efficient way of submitting trades.
 The advanced input feature allows for a quicker and more efficient method of submitting trades. When using general elements on the New Trade interface, you can see what the advanced format version of your trade would be. The advanced method uses abbreviations and keywords that describe your trade data.\
 It starts with a trigger that specifies if the submissions is opening or closing a trade, and the direction of it. A ticker symbol if always followed after the trigger, and if options then the expiration date, strike price, and call/put. For crypto trades the pair is included with with the ticker while using a `/` as the separator. It the ends with `@ <price>` where \<price> is replaced with your submitted price. See below for more info and examples.
 
-
-
 {% hint style="info" %}
 If you're experienced or familiar with using the NVST.ly Discord bot, the advanced input method is exactly the same as submitting trades via text commands.
 {% endhint %}
 
-\
 [**Triggers:**](https://docs.thetradehub.net/submit-stocks-options-trades-on-discord/triggers)\
 **BTO** - Buy to Open _(open long)_\
 **STC** - Sell to Close _(close long)_\
@@ -27,7 +24,7 @@ If you're experienced or familiar with using the NVST.ly Discord bot, the advanc
 These keywords can be used anywhere within the notes.\
 \
 **Notes:**\
-Notes are used after the price. They can be used to set the [style](broken-reference) of a trade, set Take Profit and/or Stop Loss, partial/trim a position, mark a trade with [risk factor flags](broken-reference), or specify a crypto exchange,&#x20;
+Notes are used after the price. They can be used to set the S[tyle](../submit-stocks-options-trades-on-discord/trade-styles-risk-flags-and-trade-notes.md#trade-styles) of a trade, set [Take Profit and/or Stop Loss](../submit-stocks-options-trades-on-discord/setting-tp-sl.md), [Partial/Trim](../submit-stocks-options-trades-on-discord/trim-partial-close.md) a position, mark a trade with R[isk Factor Flags](../submit-stocks-options-trades-on-discord/trade-styles-risk-flags-and-trade-notes.md#risk-flags), or specify a crypto exchange,&#x20;
 
 ### &#x20;**Examples:**
 

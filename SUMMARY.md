@@ -37,6 +37,7 @@
 ## 📈 Submit Stocks/Options Trades on Discord
 
 * [Overview](submit-stocks-options-trades-on-discord/overview.md)
+* [Triggers](submit-stocks-options-trades-on-discord/triggers.md)
 * [Opening Trades](submit-stocks-options-trades-on-discord/opening-trades.md)
 * [Closing Trades](submit-stocks-options-trades-on-discord/closing-trades/README.md)
 * [Average Up/Down Positions](submit-stocks-options-trades-on-discord/average-up-down-positions.md)
