@@ -23,16 +23,14 @@ To set the style of a trade, mention any one of the style keywords anywhere in t
 
 {% hint style="info" %}
 **Risk Factor Keywords:**\
-Lotto, YOLO\
+YOLO\
 Risk, Risky
 {% endhint %}
 
-> `lotto` or `yolo` will be marked as _High Risk YOLO Play_
+> `yolo` will be marked as _High Risk YOLO Play_
 >
 > \
-> `risk` or `risky` or `high risk` will be marked as _High Risk Play_\
-> \
-> `earnings` or `er` will be marked as _Earnings Play_
+> `risk` or `risky` or `high risk` will be marked as _High Risk Play_
 
 To specify risk factors on trades, use trade flag keywords anywhere in the notes. More than one trade flag can be applied.\
 \
@@ -43,7 +41,7 @@ Trades flagged with a risk factor are displayed as such on the [Trades Feed](htt
 <img src="../.gitbook/assets/image (8) (1).png" alt="" data-size="original">![](<../.gitbook/assets/image (9) (1).png>)
 
 {% hint style="danger" %}
-Lotto/YOLO trades are exempted from main Win Rate and all main Loss/Gain/Return stats, and have their own stats for each.
+YOLO trades are exempted from main Win Rate and all main Loss/Gain/Return stats, and have their own stats for each.
 {% endhint %}
 
 ## Trade Notes
