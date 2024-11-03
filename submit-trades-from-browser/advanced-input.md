@@ -13,7 +13,7 @@ It starts with a trigger that specifies if the submissions is opening or closing
 If you're experienced or familiar with using the NVST.ly Discord bot, the advanced input method is exactly the same as submitting trades via text commands.
 {% endhint %}
 
-[**Triggers:**](https://docs.thetradehub.net/submit-stocks-options-trades-on-discord/triggers)\
+[**Triggers:**](../submit-stocks-options-trades-on-discord/triggers.md)\
 **BTO** - Buy to Open _(open long)_\
 **STC** - Sell to Close _(close long)_\
 **STO** - Sell to Open _(open short)_\
