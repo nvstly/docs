@@ -18,7 +18,7 @@ Because this app was started with just a Discord bot, we are still (and always w
 Discord Invite: [https://discord.gg/nvstly](https://discord.gg/nvstly)\
 Secondary invite: [https://discord.gg/4fEAb8aTPv](https://discord.gg/4fEAb8aTPv)
 
-To contact support through Discord use the #❓┃help channel or send a direct message to the NVST.ly Support bot.
+To contact support through Discord use the #❓┃help channel or send a direct message to the NVSTly Support bot (NVSTly Support #9832).
 
 **ATTENTION:** Our staff and team will NEVER send you a friend request or DM you first! We will never ask for personal, financial, or sensitive information. If anyone does so, or claims to be affiliated with us, please report them to our staff. \
 Beware of impersonators and scammers- we have methods in place to catch them, but we can't remove them all until sadly it's too late. We encourage all of our users on Discord to disable their direct messages on our server so no one can message you, there is no reason why a discussion, guidance, advice, or support can't be given within the server channels.\
