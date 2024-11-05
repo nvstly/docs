@@ -19,6 +19,7 @@ The default market setting is what informs the bot whether submitted trades are 
 When attempting to trade stocks or forex while the default market is set to crypto, a `-S` or `-F` syntax attached to the ticker is required.\
 I.e. `BTO AAPL-S @ cmp` or `BTO USDCAD-F @ cmp`\
 \
+Syntaxes are not case sensitive, and can be used with any special character `-` `.` `_` and others. (I.e. `BTO ABC.S @ cmp`)\
 When submitting options trades, the `-S` syntax is **not** required.
 {% endhint %}
 
@@ -28,15 +29,10 @@ Submitting crypto trades can still be allowed when the default market is set to 
 > or\
 > `BTO BTC.X @ CMP`
 
-{% hint style="info" %}
-The `-S` and `.X` syntax's are case insensitive and can be used with any of these characters:\
-`-` `.` `_` `*` `^` `>` `<` **except** `@` and `/`
-{% endhint %}
-
-When default market is set to `crypto` and when submitting a crypto trade, the trading pair isn't required, and if one isn't specified it will use the default pair. See [#default-trading-pair](defaults.md#default-trading-pair "mention")
+When default market is set to `crypto` and when submitting a crypto trade, the trading pair isn't required, and when one isn't specified it will use the default pair. See [#default-trading-pair](defaults.md#default-trading-pair "mention")
 
 > `BTO BTC @ CMP`\
-> Will be submit the cryptocurrency BTC using the default pair or USDT if default pair hasn't been changed, and using the default exchange or Binance if default exchange hasn't been changed.
+> Will be submitting the cryptocurrency BTC using the default pair or USDT if default pair hasn't been changed, and using the default exchange or Binance if default exchange hasn't been changed.
 
 ### How to set or change the Default Trading Market
 
@@ -120,11 +116,11 @@ _Standard submission, typically used when submitting a trade that is not using a
 
 > `BTO BTC.X @ CMP`
 
-W_here `.X` is used for the default trading pair, default market can be either `stocks` or `crypto`._
+W_here `.X` is used for the default trading pair, default market can be either `stocks`, `forex`, or `crypto`._
 
-> ~~`BTO BTC @ CMP`~~
+> `BTO BTC @ CMP`
 
-~~_Where default market is set to__ __`crypto`__, and specifying a trading pair or__ __`.X`__ __is not required._~~
+_Where default market is set to `crypto`, and not specifying a trading pair or `.X` is not required because default pair is used._
 
 > `BTO BTC @ CMP Coinbase`
 
