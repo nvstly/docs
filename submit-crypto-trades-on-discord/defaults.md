@@ -16,11 +16,11 @@ There are currently 3 trading markets, `stocks`,`forex`, and `crypto`- and by de
 The default market setting is what informs the bot whether submitted trades are on crypto, stock, or forex markets. When the default market is stocks, submitting crypto trades requires a complete format (I.e. BTO BTC/USDT @ CMP) where a `/` separator and the trading pair ticker need to be specified- or if using a [#default-trading-pair](defaults.md#default-trading-pair "mention") when submitting then the `.X` syntax can be used in replace of the `/` separator and pair ticker. (I.e. BTO BTC.X @ CMP)
 
 {% hint style="warning" %}
-When attempting to trade stocks or forex while the default market is set to crypto, a `-S` or `-F` syntax attached to the ticker is required.\
-I.e. `BTO AAPL-S @ cmp` or `BTO USDCAD-F @ cmp`\
+When attempting to trade stocks while the default market is set to `crypto`, a `-S` syntax attached to the ticker is required.\
+I.e. `BTO AAPL-S @ cmp`\
 \
 Syntaxes are not case sensitive, and can be used with any special character `-` `.` `_` and others. (I.e. `BTO ABC.S @ cmp`)\
-When submitting options trades, the `-S` syntax is **not** required.
+When submitting options trades, the `-S` syntax is **not** required. No syntax is needed when submitting forex trades while default market is `crypto`.
 {% endhint %}
 
 Submitting crypto trades can still be allowed when the default market is set to `stocks`. But the trading pair ticker or `.X` syntax for the default pair will be required.
