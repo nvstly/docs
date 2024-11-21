@@ -19,20 +19,17 @@ Join [our community on Discord](https://discord.gg/nvstly) of over 45,000 trader
 * Viewers, followers, and copy traders have an in-depth perspective on positions from traders with real-time ticker statistical data, specified price targets, take profits, & stop losses. Along with trader submitted notes and media uploads relating to their positions. Including our unique one-of-a-kind "POV Charts" showing the trader's point of view of a chart at the time of submitting or updating positions- which until now has never been done before in our industry.
 * Trader dashboards give an inside look on any investors performance with in-depth trading stats such as win rate, average return, total gains, and much more with filtered time periods. As well listing all their active and historical trades.
 * Discord servers and users can take advantage of almost all these core features with the use of our #1 ranked financial & verified Discord bot, home to thousands of trading communities. There is simply no other like it or comparable.
+* Brokerage integration to automate the tracking & sharing of trades.
 
 ### What's to come
 
 Core Features to Come
 
-* Brokerage integration to automate the tracking, sharing, & copying of trades. Providing verified & 100% accurate trade data, trader stats, and leader board rankings.
+* Futures market support
+* Multi-leg options supported
 * Auto share trades to Twitter and/or Stocktwits immediately after being submitted.
 * 1-click copy trading via brokerage integration.
 * Ability to post analysis, trade ideas, news, or other market and trading related content.
 * A complete Market Data Suite for all stocks, futures, forex, & cryptocurrency markets. With advanced analytical tools and alerting features.
-
-Additional Features & Implementations
-
-* Multi-leg options support.
-* Futures market support.
-* Forex market support improved.
+* 1-click copy trading
 * A complete beginner to advanced interactive educational course & content.
