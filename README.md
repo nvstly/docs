@@ -14,7 +14,7 @@ Join [our community on Discord](https://discord.gg/nvstly) of over 45,000 trader
 
 ### Core Features
 
-* Track trades by manually submitting them using the New Trade interface or by using our Discord bot to log all your trades called out and alerted to your viewers.
+* Track trades by manually submitting them using the New Trade interface or by using our Discord bot to log all your trades called out and alerted to your viewers. Or automate the tracking/sharing of trades by linking your broker.
 * Share trades with followers or to other Discord servers with the use of webhooks and fully customizable messages & embeds.
 * Viewers, followers, and copy traders have an in-depth perspective on positions from traders with real-time ticker statistical data, specified price targets, take profits, & stop losses. Along with trader submitted notes and media uploads relating to their positions. Including our unique one-of-a-kind "POV Charts" showing the trader's point of view of a chart at the time of submitting or updating positions- which until now has never been done before in our industry.
 * Trader dashboards give an inside look on any investors performance with in-depth trading stats such as win rate, average return, total gains, and much more with filtered time periods. As well listing all their active and historical trades.
