@@ -10,7 +10,7 @@ The #1 tool for traders on social media. Auto post your trades to social media s
 
 Join [our community on Discord](https://discord.gg/nvstly) of over 45,000 traders
 
-
+{% embed url="https://youtu.be/usMjT4vcewY" %}
 
 ### Core Features
 
