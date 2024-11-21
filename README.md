@@ -8,9 +8,17 @@ Track & share trades with in-depth performance stats, follow others to receive i
 
 The #1 tool for traders on social media. Auto post your trades to social media such as Twitter, Discord, & Stocktwits with an optional delay, include your stats such as win rate & average return.
 
+{% embed url="https://youtu.be/usMjT4vcewY" %}
+
+### App Links
+
+[Web](https://nvstly.com) | [iOS](https://nvstly.com/go/ios) | [Google Play](https://nvstly.com/go/android) | [Discord App/Bot](https://nvstly.com/go/bot)\
+\
 Join [our community on Discord](https://discord.gg/nvstly) of over 45,000 traders
 
-{% embed url="https://youtu.be/usMjT4vcewY" %}
+### Socials
+
+[X/Twitter](https://nvstly.com/go/x) | [YouTube](https://nvstly.com/go/youtube) | [TikTok](https://nvstly.com/go/tiktok) | [Instagram](https://nvstly.com/go/instagram) | [Facebook](https://nvstly.com/go/facebook) | [LinkedIn](https://nvstly.com/go/linkedin) | [GitHub](https://nvstly.com/go/github)
 
 ### Core Features
 
