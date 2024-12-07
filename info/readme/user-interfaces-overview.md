@@ -58,14 +58,6 @@ To access these interface displays, click the trade info from trade rows that ar
 
 <figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Trade Insight Interface <em>(comments section soon)</em></p></figcaption></figure>
 
-### Chart Timeframes
-
-Duration of trade:\
-Less than 1 day = 1min timeframe\
-1-7 days = 15min\
-7-14 days = 1hr\
-More than 14 days = 1day
-
 {% hint style="info" %}
 You can update positions and add or modify your TP/SL directly from this interface.
 {% endhint %}
@@ -73,6 +65,12 @@ You can update positions and add or modify your TP/SL directly from this interfa
 ### POV Charts
 
 A unique feature, the POV Charts, offers a unique perspective of each trade event by precisely marking the respective candlesticks on the chart, granting viewers valuable insights into the trader's observations of trends and patterns at the time of each action.
+
+**Chart Timeframes depend on d**uration of trade:\
+Less than 1 day = 1min timeframe\
+1-7 days = 15min\
+7-14 days = 1hr\
+More than 14 days = 1day
 
 <figure><img src="../../.gitbook/assets/image (284).png" alt=""><figcaption><p>POV Charts show the candles when a trader has entered, averaged, trimmed, or closed.</p></figcaption></figure>
 
