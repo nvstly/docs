@@ -58,6 +58,14 @@ To access these interface displays, click the trade info from trade rows that ar
 
 <figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Trade Insight Interface <em>(comments section soon)</em></p></figcaption></figure>
 
+### Chart Timeframes
+
+Duration of trade:\
+Less than 1 day = 1min timeframe\
+1-7 days = 15min\
+7-14 days = 1hr\
+More than 14 days = 1day
+
 {% hint style="info" %}
 You can update positions and add or modify your TP/SL directly from this interface.
 {% endhint %}
@@ -71,7 +79,7 @@ A unique feature, the POV Charts, offers a unique perspective of each trade even
 ## Leaderboards
 
 The [rankings](https://nvstly.com/ranks) interface are side by side leaderboards that lists the ranks of the top traders for any and all markets. We've formulated a scoring system that ranks traders based on their total number of closed trades, win rate, & average return. Traders need a minimum of seven (7) trades for ranking eligibility.\
-_Winning stock trades will have a multiplier soon as bigger gains are harder than options. This should help level the leaderboard for stocks vs options traders._
+&#xNAN;_&#x57;inning stock trades will have a multiplier soon as bigger gains are harder than options. This should help level the leaderboard for stocks vs options traders._
 
 <figure><img src="../../.gitbook/assets/image (283).png" alt=""><figcaption><p>Leaderboard Rankings</p></figcaption></figure>
 
