@@ -12,13 +12,13 @@ The #1 tool for traders on social media. Auto post your trades to social media s
 
 ### App Links
 
-[Web](https://nvstly.com) | [iOS](https://nvstly.com/go/ios) | [Google Play](https://nvstly.com/go/android) | [Discord App/Bot](https://nvstly.com/go/bot)\
+[Web](https://nvstly.com) | [iOS](https://nvstly.com/go/ios) | [Google Play](https://nvstly.com/go/android) | [Discord App/Bot](https://nvstly.com/go/bot) | [GitHub](https://nvstly.com/go/github)\
 \
 Join [our community on Discord](https://discord.gg/nvstly) of over 45,000 traders
 
 ### Socials
 
-[X/Twitter](https://nvstly.com/go/x) | [YouTube](https://nvstly.com/go/youtube) | [TikTok](https://nvstly.com/go/tiktok) | [Instagram](https://nvstly.com/go/instagram) | [Facebook](https://nvstly.com/go/facebook) | [LinkedIn](https://nvstly.com/go/linkedin) | [GitHub](https://nvstly.com/go/github)
+[X/Twitter](https://nvstly.com/go/x) | [YouTube](https://nvstly.com/go/youtube) | [TikTok](https://nvstly.com/go/tiktok) | [Stocktwits](https://nvstly.com/go/stocktwits) | [Instagram](https://nvstly.com/go/instagram) | [Threads](https://nvstly.com/go/threads) | [Facebook](https://nvstly.com/go/facebook) | [LinkedIn](https://nvstly.com/go/linkedin) | [Mastodon](https://nvstly.com/go/mastodon) | [Nostr](https://nvstly.com/go/nostr) | [Bluesky](https://nvstly.com/go/bsky) | [Hive/InLeo](https://nvstly.com/go/hive) | [Product Hunt](https://nvstly.com/go/producthunt) | [Linktree](https://nvstly.com/go/linktree)
 
 ### Core Features
 
@@ -35,7 +35,7 @@ Core Features to Come
 
 * Futures market support
 * Multi-leg options supported
-* Auto share trades to Twitter and/or Stocktwits immediately after being submitted.
+* Auto share trades to Twitter and/or Stocktwits immediately after being submitted utilizing user-submitted API keys.
 * 1-click copy trading via brokerage integration.
 * Ability to post analysis, trade ideas, news, or other market and trading related content.
 * A complete Market Data Suite for all stocks, futures, forex, & cryptocurrency markets. With advanced analytical tools and alerting features.
