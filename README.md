@@ -20,6 +20,11 @@ Join [our community on Discord](https://discord.gg/nvstly) of over 45,000 trader
 
 [X/Twitter](https://nvstly.com/go/x) | [YouTube](https://nvstly.com/go/youtube) | [TikTok](https://nvstly.com/go/tiktok) | [Stocktwits](https://nvstly.com/go/stocktwits) | [Instagram](https://nvstly.com/go/instagram) | [Threads](https://nvstly.com/go/threads) | [Facebook](https://nvstly.com/go/facebook) | [LinkedIn](https://nvstly.com/go/linkedin) | [Mastodon](https://nvstly.com/go/mastodon) | [Nostr](https://nvstly.com/go/nostr) | [Bluesky](https://nvstly.com/go/bsky) | [Hive/InLeo](https://nvstly.com/go/hive) | [Product Hunt](https://nvstly.com/go/producthunt) | [Linktree](https://nvstly.com/go/linktree)
 
+### Awards & Recognition
+
+* [People's Choice Award](https://www.benzinga.com/news/events/24/11/42098678/these-are-the-top-fintech-innovators-recognized-at-benzingas-2024-global-fintech-awards) from Benzinga FinTech Awards 2024
+* \#1 FinTech Product of the Week (x2) & #4 FinTech Product of the Month on [Product Hunt](https://www.producthunt.com/products/nvstly-social-investing)
+
 ### Core Features
 
 * Track trades by manually submitting them using the New Trade interface or by using our Discord bot to log all your trades called out and alerted to your viewers. Or automate the tracking/sharing of trades by linking your broker.
