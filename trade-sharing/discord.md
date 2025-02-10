@@ -33,7 +33,7 @@ To share your trades to Discord via webhooks, you can either enable it in the [A
 When enabled in settings, it will always be enabled in New Trade.
 {% endhint %}
 
-You have full customization of how your message or embed content looks when sent. We've built a no-code message builder for sharing trades to Discord, scope it out in the [Accounts & Sharing](https://nvst.ly/settings/sharing) section of account settings by clicking the `Customize` button next to your linked Discord account info.
+You have full customization of how your message or embed content looks when sent. We've built a no-code message builder for sharing trades to Discord, scope it out in the [Accounts & Sharing](https://nvst.ly/settings/sharing) section of account settings by clicking the `Customize` button next to your linked Discord account info. See [customize-messages-or-embeds.md](customize-messages-or-embeds.md "mention")for more info.
 
 **You can customize each trade event message:**
 
