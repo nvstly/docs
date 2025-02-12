@@ -204,21 +204,13 @@ We are no longer accepting requests for stock, futures, forex, or crypto tickers
 
 [$SYLO Sylo](https://discord.com/oauth2/authorize?client_id=1179481694831640607)
 
-[$GMT GoMining](https://discord.com/oauth2/authorize?client_id=1183795101529554944)
-
 [$MBOX MOBOX](https://discord.com/oauth2/authorize?client_id=1182105957543723128)
 
 [$ZEC Zcash](https://discord.com/oauth2/authorize?client_id=1185224352359264322)
 
-[$WOMBAT Wombat Web3 Gaming](https://discord.com/oauth2/authorize?client_id=1185228057682923581)
+[$RON / $RONIN Ronin](https://discord.com/oauth2/authorize?client_id=1339166449402642462)
 
-[$SPRING Seasonal Tokens](https://discord.com/oauth2/authorize?client_id=1158950656586027028)
-
-[$SUMMER Seasonal Tokens](https://discord.com/oauth2/authorize?client_id=1158950528009650247)
-
-[$AUTUMN Seasonal Tokens](https://discord.com/oauth2/authorize?client_id=1158950617113436211)
-
-[$WINTER Seasonal Tokens](https://discord.com/oauth2/authorize?client_id=1158950569747161150)
+[$SEI Sei](https://discord.com/oauth2/authorize?client_id=1339166506470080554)
 {% endtab %}
 {% endtabs %}
 
