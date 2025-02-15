@@ -70,6 +70,8 @@ We are no longer accepting requests for stock, futures, forex, or crypto tickers
 
 [$ARKK ARK Innovation ETF](https://discord.com/oauth2/authorize?client_id=1164309284641853571)
 
+[$IWM iShares Russell 2000 ETF](https://discord.com/oauth2/authorize?client_id=1340208235012948018)
+
 [$SQQQ ProShares UltraPro Short QQQ ETF](https://discord.com/oauth2/authorize?client_id=1206763592209268767)
 
 [$TQQQ ProShares UltraPro QQQ](https://discord.com/oauth2/authorize?client_id=1206763531060514836)
