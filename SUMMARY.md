@@ -2,7 +2,7 @@
 
 ## ℹ️ Info
 
-* [NVSTly - Social Investing](README.md)
+* [NVSTly: Social Investing](README.md)
   * [User Interfaces Overview](info/readme/user-interfaces-overview.md)
   * [Download Your Data](info/readme/download-your-data.md)
   * [Referral System & Payouts](info/readme/referral-system-and-payouts.md)
