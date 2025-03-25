@@ -79,6 +79,8 @@ More than 14 days = 1day
 The [rankings](https://nvstly.com/ranks) interface are side by side leaderboards that lists the ranks of the top traders for any and all markets. We've formulated a scoring system that ranks traders based on their total number of closed trades, win rate, & average return. Traders need a minimum of seven (7) trades for ranking eligibility.\
 &#xNAN;_&#x57;inning stock trades will have a multiplier soon as bigger gains are harder than options. This should help level the leaderboard for stocks vs options traders._
 
+Win Rate values may differ from those on trader dashboards because, for rankings, we include open trades in the calculation. This ensures fairness by accounting for traders who leave losing trades open to avoid impacting their performance stats.
+
 <figure><img src="../../.gitbook/assets/image (283).png" alt=""><figcaption><p>Leaderboard Rankings</p></figcaption></figure>
 
 {% hint style="warning" %}
