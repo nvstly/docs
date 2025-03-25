@@ -14,7 +14,9 @@ The #1 tool for traders on social media. Auto post your trades to social media s
 
 ### App Links
 
-[Web](https://nvstly.com) | [iOS](https://nvstly.com/go/ios) | [Google Play](https://nvstly.com/go/android) | [Discord App/Bot](https://nvstly.com/go/bot) | [GitHub](https://nvstly.com/go/github)\
+[Web](https://nvstly.com) | [iOS](https://nvstly.com/go/ios) | [Google Play](https://nvstly.com/go/android) | [Discord App/Bot](https://nvstly.com/go/bot) | [GitHub](https://nvstly.com/go/github)
+
+[ ![](<.gitbook/assets/app_store (1).png>)](https://nvstly.com/go/ios)[  ![](<.gitbook/assets/google_play (1).png>)](https://nvstly.com/go/android) [![](.gitbook/assets/discord_app.png)](https://nvstly.com/go/bot)\
 \
 Join [our community on Discord](https://discord.gg/nvstly) of over 45,000 traders
 

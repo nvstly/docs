@@ -38,7 +38,7 @@ Take Profit and/or Stop Loss values can be specified anywhere within the trade n
 > `TP 1.34 SL 1.23`\
 > `TP @ 1.34 and SL @ 1.23`\
 > `TP is 1.34 & SL is 1.23`\
-> _(Any symbol or word can be used where `@` and `is` are.)_
+> &#xNAN;_(Any symbol or word can be used where `@` and `is` are.)_
 
 <figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Example of setting TP/SL values with trade submission notes</p></figcaption></figure>
 

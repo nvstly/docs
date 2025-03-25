@@ -7,8 +7,8 @@ description: Display all trades from the past 24-hours or 1 week
 {% hint style="info" %}
 $daily, $d, /daily _\[@user/username]_ - Displays all trades from the last 24-hours\
 $weekly, $w, /weekly _\[@user/username]_ - Displays all trades from the last 7-days\
-_$monthly, $mo, /monthly \[@user/username] - Displays all trades from the last 30-days_\
-_User syntax is optional_
+&#xNAN;_$monthly, $mo, /monthly \[@user/username] - Displays all trades from the last 30-days_\
+&#xNAN;_&#x55;ser syntax is optional_
 {% endhint %}
 
 > $daily | $daily @Hubert

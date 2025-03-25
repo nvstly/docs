@@ -6,8 +6,8 @@ description: How to open forex positions
 
 {% hint style="info" %}
 Opening triggers;\
-**`BTO`** is used to open long\
-**`STO`** is used to open short
+&#xNAN;**`BTO`** is used to open long\
+&#xNAN;**`STO`** is used to open short
 {% endhint %}
 
 ### Opening Long

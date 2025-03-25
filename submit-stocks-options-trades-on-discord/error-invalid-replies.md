@@ -22,7 +22,7 @@ This occurs when the specified premium price for an options trade submission is 
 
 {% hint style="info" %}
 **Did you know?**\
-_Y_ou may use the `/fixtrade` or `$fixtrade` command to request a trade to be forced in on your behalf if you run into an error or issue preventing a legitimate trade from being submitted.
+_&#x59;_&#x6F;u may use the `/fixtrade` or `$fixtrade` command to request a trade to be forced in on your behalf if you run into an error or issue preventing a legitimate trade from being submitted.
 {% endhint %}
 
 ### You do not have a position in...

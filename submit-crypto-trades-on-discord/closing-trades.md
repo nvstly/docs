@@ -6,8 +6,8 @@ description: How to close crypto positions
 
 {% hint style="info" %}
 Closing triggers;\
-**`STC`** is used to close long\
-**`BTC`** is used to close short
+&#xNAN;**`STC`** is used to close long\
+&#xNAN;**`BTC`** is used to close short
 {% endhint %}
 
 ### Closing Long

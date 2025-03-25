@@ -11,7 +11,7 @@ description: Follow traders using the bot
 {% endhint %}
 
 > _`$follow @Hubert`_\
-> _`$follow Hubert`_
+> &#xNAN;_`$follow Hubert`_
 
 Traders can follow others directly from Discord using the `$follow` or `/follow` command.
 

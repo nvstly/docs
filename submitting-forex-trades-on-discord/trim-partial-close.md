@@ -9,7 +9,7 @@ description: >-
 {% hint style="success" %}
 Trim/Partial Keywords\
 `TRIM` - `SCAL` - `PART` - `Leaving Some` are all keywords to trigger a trim/partial close & can be used anywhere within the notes.\
-_(trimming, scale, scaling, partial, partially)_
+&#xNAN;_(trimming, scale, scaling, partial, partially)_
 {% endhint %}
 
 > I.e. _`STC USDCAD @ 1.395`` `**`trimming`**_

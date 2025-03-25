@@ -116,7 +116,7 @@ _Standard submission, typically used when submitting a trade that is not using a
 
 > `BTO BTC.X @ CMP`
 
-W_here `.X` is used for the default trading pair, default market can be either `stocks`, `forex`, or `crypto`._
+&#x57;_&#x68;ere `.X` is used for the default trading pair, default market can be either `stocks`, `forex`, or `crypto`._
 
 > `BTO BTC @ CMP`
 
@@ -124,4 +124,4 @@ _Where default market is set to `crypto`, and not specifying a trading pair or `
 
 > `BTO BTC @ CMP Coinbase`
 
-D_efault market is set to `crypto`, using the default trading pair, and `Coinbase` in trade notes to specify the trade is not using the default exchange._
+&#x44;_&#x65;fault market is set to `crypto`, using the default trading pair, and `Coinbase` in trade notes to specify the trade is not using the default exchange._

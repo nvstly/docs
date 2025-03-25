@@ -6,8 +6,8 @@ description: How to open crypto positions
 
 {% hint style="info" %}
 Opening triggers;\
-**`BTO`** is used to open long\
-**`STO`** is used to open short
+&#xNAN;**`BTO`** is used to open long\
+&#xNAN;**`STO`** is used to open short
 {% endhint %}
 
 There are many ways to open crypto positions, this documentation will go over the most basic way using the full format. Formats for submitting crypto trades can be shorter & more effecient by utilizing the [defaults.md](defaults.md "mention")settings.

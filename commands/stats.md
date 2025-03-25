@@ -16,8 +16,8 @@ _User & time syntax are optional_
 
 > `$stats`\
 > `$stats`_`@Hubert`_ \
-> _`$stats @Hubert -t 2w`_ \
-> _`$stats Hubert`_
+> &#xNAN;_`$stats @Hubert -t 2w`_ \
+> &#xNAN;_`$stats Hubert`_
 
 Check your own or another trader's performance stats based on all their closed trades by using the `$stats` or `/stats` command. By default, if no timeframe is specified, the stats displayed are based on the last 30 days.
 

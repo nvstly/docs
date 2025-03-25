@@ -6,8 +6,8 @@ description: How to open both stocks & options positions
 
 {% hint style="info" %}
 Opening triggers;\
-**`BTO`** is used to open long\
-**`STO`** is used to open short
+&#xNAN;**`BTO`** is used to open long\
+&#xNAN;**`STO`** is used to open short
 {% endhint %}
 
 ## Stocks Format
@@ -38,7 +38,7 @@ To open a **short** stock position, use the trigger **`STO`** followed by the ti
 
 > **BTO \<ticker> \<exp. date> \<strike> \<call/put> @ \<price>**\
 > I.e. _`BTO SPY 9/07 450 call @ 1.27`_\
-> _`BTO SPY 9/07 450c @ 1.27`_
+> &#xNAN;_`BTO SPY 9/07 450c @ 1.27`_
 
 To open **long** options position, use the trigger **`BTO`** followed by the _ticker,_ then the expiration date using MM/DD format _(and /YY if next year)_, the strike price, and either attaching **`c`** or **`p`** to it or specifying `call` or `put` followed by the symbol **@** and the price.
 
@@ -53,7 +53,7 @@ I.e. `BTO SPY 450c 9/07 @ 1.27`
 
 > **STO \<ticker> \<exp. date> \<strike> \<call/put> @ \<price>**\
 > I.e. _`STO SPY 9/08 450 call @ .32`_\
-> _`STO SPY 9/08 450c @ .32`_
+> &#xNAN;_`STO SPY 9/08 450c @ .32`_
 
 To open **short** options position, use the trigger **`STO`** followed by the _ticker,_ then the expiration date using MM/DD format _(and /YY if next year)_, the strike price, and either attaching **`c`** or **`p`** to it or specifying `call` or `put` followed by the symbol **@** and the price.
 

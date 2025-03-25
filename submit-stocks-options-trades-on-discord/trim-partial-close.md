@@ -9,11 +9,11 @@ description: >-
 {% hint style="success" %}
 Trim/Partial Keywords\
 `TRIM` - `SCAL` - `PART` - `Leaving Some` are all keywords to trigger a trim/partial close & can be used anywhere within the notes.\
-_(trimming, scale, scaling, partial, partially)_
+&#xNAN;_(trimming, scale, scaling, partial, partially)_
 {% endhint %}
 
 > I.e. _`STC AAPL @ 150`` `**`partial`**_\
-> _`BTC SPY 4/01 460p @ 2.40`` `**`trim`**_
+> &#xNAN;_`BTC SPY 4/01 460p @ 2.40`` `**`trim`**_
 
 To trim or partially close trades and keep them open, use the trim/partial keywords at the end of the trade or anywhere within the notes, such as `trim` `trimming` `scale` `scaling` `partial` `partially`.&#x20;
 
