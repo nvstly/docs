@@ -31,7 +31,7 @@ Join [our community on Discord](https://discord.gg/nvstly) of over 45,000 trader
 * [People's Choice Award](https://www.benzinga.com/news/events/24/11/42098678/these-are-the-top-fintech-innovators-recognized-at-benzingas-2024-global-fintech-awards) from Benzinga FinTech Awards 2024
 * \#1 FinTech Product of the Week (x2) & #4 FinTech Product of the Month on [Product Hunt](https://www.producthunt.com/products/nvstly-social-investing)
 
-[![](.gitbook/assets/benzinga_badge.png)](https://nvstly.com/shrt/bnzgaward)
+[![](.gitbook/assets/benzinga_badge.png)](https://nvstly.com/shrt/bnzgaward)[ ![](<.gitbook/assets/producthunt_potw_23-24 (1).png>)](https://nvstly.com/go/producthunt)
 
 ### Core Features
 
