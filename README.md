@@ -16,9 +16,11 @@ The #1 tool for traders on social media. Auto post your trades to social media s
 
 [Web](https://nvstly.com) | [iOS](https://nvstly.com/go/ios) | [Google Play](https://nvstly.com/go/android) | [Discord App/Bot](https://nvstly.com/go/bot) | [GitHub](https://nvstly.com/go/github)
 
-[ ![](<.gitbook/assets/app_store (1).png>)](https://nvstly.com/go/ios)[  ![](<.gitbook/assets/google_play (1).png>)](https://nvstly.com/go/android) [![](.gitbook/assets/discord_app.png)](https://nvstly.com/go/bot)\
+[ ![](<.gitbook/assets/app_store (1).png>)](https://nvstly.com/go/ios) [  ![](<.gitbook/assets/google_play (1).png>)](https://nvstly.com/go/android)   [![](.gitbook/assets/discord_app.png)](https://nvstly.com/go/bot)\
 \
 Join [our community on Discord](https://discord.gg/nvstly) of over 45,000 traders
+
+[ ![](.gitbook/assets/discord_server.png)](https://nvstly.com/go/discord)
 
 ### Socials
 
@@ -28,6 +30,8 @@ Join [our community on Discord](https://discord.gg/nvstly) of over 45,000 trader
 
 * [People's Choice Award](https://www.benzinga.com/news/events/24/11/42098678/these-are-the-top-fintech-innovators-recognized-at-benzingas-2024-global-fintech-awards) from Benzinga FinTech Awards 2024
 * \#1 FinTech Product of the Week (x2) & #4 FinTech Product of the Month on [Product Hunt](https://www.producthunt.com/products/nvstly-social-investing)
+
+[![](.gitbook/assets/benzinga_badge.png)](https://nvstly.com/shrt/bnzgaward)
 
 ### Core Features
 
