@@ -54,4 +54,4 @@ Enter in the price or use `0` for the current market price.
 
 Notes can be added and are optional. Trimming or partially closing positions can be done by using the [Trim/Partial Close](trim-partial-close.md) keywords (trim, trimming, partial, etc.) within the notes.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Example of closing a long BTC/USDT position on the Binance exchange using 0 for the current market price</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Example of closing a long BTC/USDT position on the Binance exchange using 0 for the current market price</p></figcaption></figure>

@@ -12,7 +12,7 @@ To connect or link your [Webull](https://nvstly.com/ref/webull) brokerage accoun
 
 1. Navigate to [Brokerages & Exchanges](https://nvstly.com/settings/brokers) in Account Settings
 2. Hit Connect next to Webull in the brokers menu\
-   ![](<../../.gitbook/assets/image (1) (1).png>)
+   ![](<../../.gitbook/assets/image (1) (1) (1).png>)
 3. Input your Webull 6-digit PIN
 4. Open the Webull mobile app
 5. Go to Menu > 3 vertical dots on top right > Scan

@@ -31,7 +31,7 @@ Did you know?\
 After continuing to the next step, the submitted price will be locked in. So even if the current market price exceeds the price tolerance threshold, you will still be able to complete the submission. _Keep in mind there is a time expiration on this._
 {% endhint %}
 
-**Second & **<mark style="color:red;">**Optional**</mark>** Final Step**
+**Second &&#x20;**<mark style="color:red;">**Optional**</mark>**&#x20;Final Step**
 
 1. [Specify a Take Profit and/or Stop Loss.](#user-content-fn-2)[^2]
 2. Add notes or upload media. _(Media uploads limited to PRO members only)_
@@ -70,11 +70,11 @@ Trades can also be averaged, trimmed, or closed directly from the [Trade Insight
 9. Input the strike price.
 10. Hit `Continue`
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Stock options trades can be submited using the New Trade interface</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Stock options trades can be submited using the New Trade interface</p></figcaption></figure>
 
-**Second & **<mark style="color:red;">**Optional**</mark>** Final Step**
+**Second &&#x20;**<mark style="color:red;">**Optional**</mark>**&#x20;Final Step**
 
-1. [Specify a Take Profit and/or Stop Loss.](#user-content-fn-4)[^4]
+1. [Specify a Take Profit and/or Stop Loss.](#user-content-fn-2)[^2]
 2. Add notes or upload media.  _(Media uploads limited to PRO members only)_
 3. Add a risk factor flag; Earnings, YOLO/Lotto, or Risky.&#x20;
 4. Modify your Trade Sharing settings.
@@ -90,7 +90,7 @@ Use ![](<../../.gitbook/assets/image (9) (1) (1) (1).png>) to instantly close a 
 5. Modify the Trade Share settings
 6. Hit `Submit`
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Average, partial/trim, and close all open positions from the Active Positions tab on the New Trade interface</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Average, partial/trim, and close all open positions from the Active Positions tab on the New Trade interface</p></figcaption></figure>
 
 Trades can also be averaged, trimmed, or closed directly from the [Trade Insight](../../info/readme/user-interfaces-overview.md#trade-insight) interface. Standalone notes can also be added from this interface using `Update` in the dropdown menu under `Status`.
 
@@ -103,15 +103,15 @@ Trades can also be averaged, trimmed, or closed directly from the [Trade Insight
 3. Select the direction of your trade, Long or Short.
 4. Enter the crypto ticker symbol under Coin & it's trading pair under Pair. _(I.e. BTC/USDT where BTC is the Coin and USDT is the Pair)_
 5. Start typing the exchange name and select it from list.
-6. [Put in your traded price, or use the provided real-time price.](#user-content-fn-5)[^5]
+6. [Put in your traded price, or use the provided real-time price.](#user-content-fn-3)[^3]
 7. Select the Style of your trade: Daytrade, Swing, Scalp, or Long Term.
 8. Hit `Continue`
 
 <figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Submit crypto trades using the New Trade interface</p></figcaption></figure>
 
-**Second & **<mark style="color:red;">**Optional**</mark>** Final Step**
+**Second &&#x20;**<mark style="color:red;">**Optional**</mark>**&#x20;Final Step**
 
-1. [Specify a Take Profit and/or Stop Loss.](#user-content-fn-6)[^6]
+1. [Specify a Take Profit and/or Stop Loss.](#user-content-fn-2)[^2]
 2. Add notes or upload media. _(Media uploads limited to PRO members only)_
 3. Add a risk factor flag; Earnings, YOLO/Lotto, or Risky.&#x20;
 4. Modify your Trade Sharing settings.
@@ -139,15 +139,15 @@ Trades can also be averaged, trimmed, or closed directly from the [Trade Insight
 2. Choose `Forex` under Market.
 3. Select the direction of your trade, Long or Short.
 4. Enter the forex base & quote currency ticker symbols- do not separate the tickers with any character. _You will see it's logo appear and it's current price in the price field._
-5. [Put in your traded price, or use the provided real-time price.](#user-content-fn-7)[^7]
+5. [Put in your traded price, or use the provided real-time price.](#user-content-fn-3)[^3]
 6. Select the Style of your trade; Daytrade, Swing, Scalp, or Long Term.
 7. Hit `Continue`
 
 <figure><img src="../../.gitbook/assets/image (289).png" alt=""><figcaption><p>Submit trades using the New Trade interfce</p></figcaption></figure>
 
-**Second & **<mark style="color:red;">**Optional**</mark>** Final Step**
+**Second &&#x20;**<mark style="color:red;">**Optional**</mark>**&#x20;Final Step**
 
-1. [Specify a Take Profit and/or Stop Loss.](#user-content-fn-8)[^8]
+1. [Specify a Take Profit and/or Stop Loss.](#user-content-fn-2)[^2]
 2. Add notes or upload media. _(Media uploads limited to PRO members only)_
 3. Add a risk factor flag; YOLO or Risky.
 4. Modify your Trade Sharing settings.
@@ -179,13 +179,3 @@ TP/SL can be added or changed from the Trade Insight interface. Coming soon: Abi
 [^2]: Trades will close automatically when the current market prices reaches these values.
 
 [^3]: A small tolerance is allowed between the submitted price and the current price to account for volatility and the time required to process the trade.
-
-[^4]: Trades will close automatically when the current market prices reaches these values.
-
-[^5]: A small tolerance is allowed between the submitted price and the current price to account for volatility and the time required to process the trade.
-
-[^6]: Trades will close automatically when the current market prices reaches these values.
-
-[^7]: A small tolerance is allowed between the submitted price and the current price to account for volatility and the time required to process the trade.
-
-[^8]: Trades will close automatically when the current market prices reaches these values.

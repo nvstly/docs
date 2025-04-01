@@ -13,3 +13,7 @@ Each radio bot streams it's associated radio station 24/7, automatically joining
 Bloomberg Radio Bot: [https://discord.com/oauth2/authorize?client\_id=1356307811855896606](https://discord.com/oauth2/authorize?client_id=1356307811855896606)
 
 CNBC Radio Bot: [https://discord.com/oauth2/authorize?client\_id=1356357850473037985](https://discord.com/oauth2/authorize?client_id=1356357850473037985)
+
+
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>24/7 Radio Bots</p></figcaption></figure>
