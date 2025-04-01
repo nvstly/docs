@@ -8,6 +8,7 @@
   * [Referral System & Payouts](info/readme/referral-system-and-payouts.md)
 * [Broker Integration](info/broker-integration/README.md)
   * [Webull Integration](info/broker-integration/webull-integration.md)
+  * [Moomoo Integration](info/broker-integration/moomoo-integration.md)
 * [Contact & Support](info/contact-and-support.md)
 
 ## 🆕 Submit Trades From Web

@@ -16,4 +16,4 @@ CNBC Radio Bot: [https://discord.com/oauth2/authorize?client\_id=135635785047303
 
 
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>24/7 Radio Bots</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>24/7 Radio Bots</p></figcaption></figure>

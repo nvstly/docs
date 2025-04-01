@@ -18,15 +18,15 @@ To trim or partially close trades and keep them open, use the trim/partial keywo
 
 {% tabs %}
 {% tab title="Example #1" %}
-![](<../.gitbook/assets/image (1) (1).png>)Example of partially closing USD/CAD long position
+![](<../.gitbook/assets/image (1) (1) (1).png>)Example of partially closing USD/CAD long position
 {% endtab %}
 
 {% tab title="Example #2" %}
-![](<../.gitbook/assets/image (2).png>)Example of partially closing USD/JPY long position
+![](<../.gitbook/assets/image (2) (1).png>)Example of partially closing USD/JPY long position
 {% endtab %}
 
 {% tab title="Example #3" %}
-![](<../.gitbook/assets/image (3).png>)Example of partially closing USDEUR short position
+![](<../.gitbook/assets/image (3) (1).png>)Example of partially closing USDEUR short position
 {% endtab %}
 {% endtabs %}
 
