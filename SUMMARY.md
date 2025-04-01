@@ -89,3 +89,7 @@
 
 * [Discord Ticker Price Bots](ticker-bots/ticker-bots.md)
 * [Exclusive & Private Ticker Bots](ticker-bots/exclusive-and-private-ticker-bots.md)
+
+## Radio Bots
+
+* [CNBC & Bloomberg Streams](radio-bots/cnbc-and-bloomberg-streams.md)
