@@ -200,12 +200,6 @@ We are no longer accepting requests for stock, futures, forex, or crypto tickers
 
 [$LINK Chainlink](https://discord.com/oauth2/authorize?client_id=1158950132826509332)
 
-[$ROOT The Root Network](https://discord.com/oauth2/authorize?client_id=1179480985847476325)
-
-[$ASTO Altered State Token](https://discord.com/oauth2/authorize?client_id=1179481420276711516)
-
-[$SYLO Sylo](https://discord.com/oauth2/authorize?client_id=1179481694831640607)
-
 [$MBOX MOBOX](https://discord.com/oauth2/authorize?client_id=1182105957543723128)
 
 [$ZEC Zcash](https://discord.com/oauth2/authorize?client_id=1185224352359264322)
