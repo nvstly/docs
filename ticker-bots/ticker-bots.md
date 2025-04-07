@@ -60,14 +60,6 @@ We are no longer accepting requests for stock, futures, forex, or crypto tickers
 
 [$APE AMC Entertainment](https://discord.com/oauth2/authorize?client_id=1056164721105047662)
 
-[$BBIG Vinco Ventures](https://discord.com/oauth2/authorize?client_id=1058096948697116702)
-
-[$HYMC Hycroft Mining](https://discord.com/oauth2/authorize?client_id=1056164613244325930)
-
-[$PPP Prospector Metals Corp](https://discord.com/oauth2/authorize?client_id=1059974856583688202)
-
-[$PTON Peloton Interactive Inc](https://discord.com/oauth2/authorize?client_id=1164309334700859422)
-
 [$ARKK ARK Innovation ETF](https://discord.com/oauth2/authorize?client_id=1164309284641853571)
 
 [$IWM iShares Russell 2000 ETF](https://discord.com/oauth2/authorize?client_id=1340208235012948018)
@@ -109,8 +101,6 @@ We are no longer accepting requests for stock, futures, forex, or crypto tickers
 [NIFTY 50](https://discord.com/oauth2/authorize?client_id=1116977217151447101)
 
 [Bank NIFTY](https://discord.com/oauth2/authorize?client_id=1116978570334576700)
-
-[SGX NIFTY](https://discord.com/oauth2/authorize?client_id=1117071374620573756)
 
 [FTSE 100](https://discord.com/oauth2/authorize?client_id=1116979054298546257)
 
@@ -196,17 +186,7 @@ We are no longer accepting requests for stock, futures, forex, or crypto tickers
 
 [$AVAX Avalanche](https://discord.com/oauth2/authorize?client_id=1191499141994528889)
 
-[$XNO Nano](https://discord.com/oauth2/authorize?client_id=1158950089709060137)
-
 [$LINK Chainlink](https://discord.com/oauth2/authorize?client_id=1158950132826509332)
-
-[$MBOX MOBOX](https://discord.com/oauth2/authorize?client_id=1182105957543723128)
-
-[$ZEC Zcash](https://discord.com/oauth2/authorize?client_id=1185224352359264322)
-
-[$RON / $RONIN Ronin](https://discord.com/oauth2/authorize?client_id=1339166449402642462)
-
-[$SEI Sei](https://discord.com/oauth2/authorize?client_id=1339166506470080554)
 {% endtab %}
 {% endtabs %}
 
