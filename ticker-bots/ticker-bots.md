@@ -58,23 +58,23 @@ We are no longer accepting requests for stock, futures, forex, or crypto tickers
 
 [$AMC Entertainment](https://discord.com/oauth2/authorize?client_id=1056164678079877121)
 
-[$APE AMC Entertainment](https://discord.com/oauth2/authorize?client_id=1056164721105047662)
+[$APE AMC Entertainment](https://discord.com/oauth2/authorize?client_id=1056164721105047662) **\*\*\***
 
-[$ARKK ARK Innovation ETF](https://discord.com/oauth2/authorize?client_id=1164309284641853571)
+[$ARKK ARK Innovation ETF](https://discord.com/oauth2/authorize?client_id=1164309284641853571) \*\*\*
 
-[$IWM iShares Russell 2000 ETF](https://discord.com/oauth2/authorize?client_id=1340208235012948018)
+[$IWM iShares Russell 2000 ETF](https://discord.com/oauth2/authorize?client_id=1340208235012948018) \*\*\*
 
-[$SQQQ ProShares UltraPro Short QQQ ETF](https://discord.com/oauth2/authorize?client_id=1206763592209268767)
+[$SQQQ ProShares UltraPro Short QQQ ETF](https://discord.com/oauth2/authorize?client_id=1206763592209268767) \*\*\*
 
-[$TQQQ ProShares UltraPro QQQ](https://discord.com/oauth2/authorize?client_id=1206763531060514836)
+[$TQQQ ProShares UltraPro QQQ](https://discord.com/oauth2/authorize?client_id=1206763531060514836) \*\*\*
 
-[$SOXL Direxion Daily Semiconductor Bull 3X Shares](https://discord.com/oauth2/authorize?client_id=1206763823818608640)
+[$SOXL Direxion Daily Semiconductor Bull 3X Shares](https://discord.com/oauth2/authorize?client_id=1206763823818608640) \*\*\*
 
-[$SOXS Direxion Daily Semiconductor Bear 3X Shares](https://discord.com/oauth2/authorize?client_id=1206763940156149840)
+[$SOXS Direxion Daily Semiconductor Bear 3X Shares](https://discord.com/oauth2/authorize?client_id=1206763940156149840) \*\*\*
 
-[$TNA Direxion Daily Small Cap Bull 3X ETF](https://discord.com/oauth2/authorize?client_id=1206763697612128348)
+[$TNA Direxion Daily Small Cap Bull 3X ETF](https://discord.com/oauth2/authorize?client_id=1206763697612128348) \*\*\*
 
-[$TZA Direxion Daily Small Cap Bear 3X ETF](https://discord.com/oauth2/authorize?client_id=1206763735168057344)
+[$TZA Direxion Daily Small Cap Bear 3X ETF](https://discord.com/oauth2/authorize?client_id=1206763735168057344) \*\*\*
 
 [$DIA SPDR Dow Jones Industrial Average ETF](https://discord.com/oauth2/authorize?client_id=1223145044412727438)
 {% endtab %}
@@ -90,21 +90,21 @@ We are no longer accepting requests for stock, futures, forex, or crypto tickers
 
 [DXY U.S. Dollar Index](https://discord.com/oauth2/authorize?client_id=1163327819628154941)
 
-[$OMXH25 OMX Helsinki 25](https://discord.com/oauth2/authorize?client_id=1057557438867443823)
+[$OMXH25 OMX Helsinki 25](https://discord.com/oauth2/authorize?client_id=1057557438867443823) \*\*\*
 
-[$OMXHGI OMX Helsinki GI](https://discord.com/oauth2/authorize?client_id=1057557568022646835)
+[$OMXHGI OMX Helsinki GI](https://discord.com/oauth2/authorize?client_id=1057557568022646835) \*\*\*
 
-[CAC 40](https://discord.com/oauth2/authorize?client_id=1116979345433575434)
+[CAC 40](https://discord.com/oauth2/authorize?client_id=1116979345433575434) \*\*
 
 [DAX Performance](https://discord.com/oauth2/authorize?client_id=1116979287531200533)
 
 [NIFTY 50](https://discord.com/oauth2/authorize?client_id=1116977217151447101)
 
-[Bank NIFTY](https://discord.com/oauth2/authorize?client_id=1116978570334576700)
+[Bank NIFTY](https://discord.com/oauth2/authorize?client_id=1116978570334576700) \*\*
 
-[FTSE 100](https://discord.com/oauth2/authorize?client_id=1116979054298546257)
+[FTSE 100](https://discord.com/oauth2/authorize?client_id=1116979054298546257) \*
 
-[OSEBX Oslo Børs Benchmark Index](https://discord.com/oauth2/authorize?client_id=1223629887856971928)
+[OSEBX Oslo Børs Benchmark Index](https://discord.com/oauth2/authorize?client_id=1223629887856971928) \*\*\*
 
 [US10Y Treasury Yield 10 Years](https://discord.com/oauth2/authorize?client_id=1116985018334584912)
 {% endtab %}
@@ -120,9 +120,9 @@ We are no longer accepting requests for stock, futures, forex, or crypto tickers
 
 [$SI Silver](https://discord.com/oauth2/authorize?client_id=1116984290673172510)
 
-[$6E Euro FX Futures](https://discord.com/oauth2/authorize?client_id=1094486896295551006)
+[$6E Euro FX Futures](https://discord.com/oauth2/authorize?client_id=1094486896295551006) \*\*\*
 
-[$6J Japanes Yen Future](https://discord.com/oauth2/authorize?client_id=1094488823225925692)
+[$6J Japanes Yen Future](https://discord.com/oauth2/authorize?client_id=1094488823225925692) \*\*\*
 {% endtab %}
 
 {% tab title="Forex" %}
@@ -140,15 +140,15 @@ We are no longer accepting requests for stock, futures, forex, or crypto tickers
 
 [USD/CHF](https://discord.com/oauth2/authorize?client_id=1064342001660731452)
 
-[USD/HKD](https://discord.com/oauth2/authorize?client_id=1064342130694299758)
+[USD/HKD](https://discord.com/oauth2/authorize?client_id=1064342130694299758) \*
 
 [EUR/GBP](https://discord.com/oauth2/authorize?client_id=1064342251469283328)
 
 [NZD/USD](https://discord.com/oauth2/authorize?client_id=1064342371917111387)
 
-[GBP/TRY](https://discord.com/oauth2/authorize?client_id=1139787938960515122)
+[GBP/TRY](https://discord.com/oauth2/authorize?client_id=1139787938960515122) \*\*
 
-[EUR/TRY](https://discord.com/oauth2/authorize?client_id=1139811978211241994)
+[EUR/TRY](https://discord.com/oauth2/authorize?client_id=1139811978211241994) \*\*
 
 [GBP/JPY](https://discord.com/oauth2/authorize?client_id=1162899866012360724)
 
@@ -182,7 +182,7 @@ We are no longer accepting requests for stock, futures, forex, or crypto tickers
 
 [$TRX Tron](https://discord.com/oauth2/authorize?client_id=1158950491619852388)
 
-[$XMR Monero](https://discord.com/oauth2/authorize?client_id=1158947906104078437)
+[$XMR Monero](https://discord.com/oauth2/authorize?client_id=1158947906104078437) \*
 
 [$AVAX Avalanche](https://discord.com/oauth2/authorize?client_id=1191499141994528889)
 
