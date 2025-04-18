@@ -190,6 +190,10 @@ We are no longer accepting requests for stock, futures, forex, or crypto tickers
 {% endtab %}
 {% endtabs %}
 
+\*\*\* **- These will be removed shortly, Super low usage count.**\
+\*\* - These will likely be removed shortly. Very low usage count\
+\* - These are under consideration of being removed.
+
 ## Help Support Our Ticker Bots
 
 Offering a free platform and nearly 100 free ticker bots gives us the gratification when users and servers have and report a great user experience. However, market data isn't cheap and neither is the resources to run all this with stability.\
