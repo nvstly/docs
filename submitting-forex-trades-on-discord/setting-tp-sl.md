@@ -12,7 +12,7 @@ There are various methods in setting and changing Take Profits and Stop Losses.
 
 When the bot replies to an open trade submission, a blue button titled `Add TP/SL` is attached with it's response. Clicking this will prompt a user friendly popup where values can be specified for Take Profit and/or Stop Loss. Set the value for one or both.
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Set TP/SL popup upon clicking the "Add TP/SL" button</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Set TP/SL popup upon clicking the "Add TP/SL" button</p></figcaption></figure>
 
 The bot will not allow a value below the current market price to be set for a Take Profit, and a value above the current market price to be set for a Stop Loss- and vice versa for short positions.
 

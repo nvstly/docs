@@ -28,10 +28,11 @@ Join [our community on Discord](https://discord.gg/nvstly) of over 45,000 trader
 
 ### Awards & Recognition
 
+* [Gold Stevie](https://nvstly.com/shrt/stevieaba)® Award Winner for _Tech Startup of the Year_ at the 2025 American Business Awards®
 * [People's Choice Award](https://www.benzinga.com/news/events/24/11/42098678/these-are-the-top-fintech-innovators-recognized-at-benzingas-2024-global-fintech-awards) from Benzinga FinTech Awards 2024
 * \#1 FinTech Product of the Week (x2) & #4 FinTech Product of the Month on [Product Hunt](https://www.producthunt.com/products/nvstly-social-investing)
 
-[![](.gitbook/assets/benzinga_badge.png)](https://nvstly.com/shrt/bnzgaward)[ ![](<.gitbook/assets/producthunt_potw_23-24 (1).png>)](https://nvstly.com/go/producthunt)
+[![Gold Stevie® Award Winner for Tech Startup of the Year at the 2025 American Business Awards®](<.gitbook/assets/image (2).png>) ](https://nvstly.com/shrt/stevieaba)[![NVSTly Wins the People's Choice Award at the Benzinga Fintech Awards 2024](.gitbook/assets/benzinga_badge.png)](https://nvstly.com/shrt/bnzgaward)[ ![NVSTly Crowned #1 Fintech Product of the Week (x2) & #4 Fintech Product of the Month on Product Hunt](<.gitbook/assets/producthunt_potw_23-24 (1).png>)](https://nvstly.com/go/producthunt)
 
 ### Core Features
 

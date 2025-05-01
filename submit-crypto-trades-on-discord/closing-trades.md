@@ -18,7 +18,7 @@ Closing triggers;\
 To close a **long** crypto position, use the trigger **`STC`** followed by the ticker/pair (I.e. BTC/USDT), then the symbol @ before the price. By default on new accounts, the crypto exchange is set to Binance and if an exchange name is not specified the bot will log the trade for the Binance exchange. \
 The default exchange, among other (market, pair) defaults, can be changed. See [defaults.md](defaults.md "mention")for more info.
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption><p>Example of closing a long position for BTC/USDT at the price of $27154.50 on default exchange</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption><p>Example of closing a long position for BTC/USDT at the price of $27154.50 on default exchange</p></figcaption></figure>
 
 ### Closing Short
 
@@ -54,4 +54,4 @@ Enter in the price or use `0` for the current market price.
 
 Notes can be added and are optional. Trimming or partially closing positions can be done by using the [Trim/Partial Close](trim-partial-close.md) keywords (trim, trimming, partial, etc.) within the notes.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Example of closing a long BTC/USDT position on the Binance exchange using 0 for the current market price</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Example of closing a long BTC/USDT position on the Binance exchange using 0 for the current market price</p></figcaption></figure>

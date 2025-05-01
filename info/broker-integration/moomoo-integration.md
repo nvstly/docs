@@ -26,12 +26,12 @@ For a completely hands-free convienent experience, follow the steps below for [W
 2.  In the _Start Menu_ or _Search_ field on the bottom taskbar, type in "OpenD" to find Moomoo OpenD. Right click on it and click _Open File Location_. This should take you to `C:\ProgramData\Microsoft\Windows\Start Menu\Programs`, copy the Moomoo OpenD shortcut that it brought you to.\
 
 
-    <figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Open file location for OpenD on Start Menu<br></p></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Open file location for OpenD on Start Menu<br></p></figcaption></figure>
 3. **Press** `Win + R` and type `shell:startup`, then press **Enter**.
    *   This opens the **Startup** folder where programs automatically launch when your PC starts & you login. (I.e. `C:\Users\Username\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup`)\
 
 
-       <figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Open up the Startup folder<br></p></figcaption></figure>
+       <figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Open up the Startup folder<br></p></figcaption></figure>
 4. Paste the Moomoo OpenD shortcut into this folder.
 5. That's it. Now every time you turn on your PC, OpenD will start and you'll automatically login. _(Make sure to check the Remember Me and Auto Login boxes on OpenD signin screen.)_
 

@@ -23,7 +23,7 @@ When options trades expire that have been trimmed or partially closed, the posit
 
 {% tabs %}
 {% tab title="Example #1" %}
-![](<../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)Example of partially closing $TSLA short position
+![](<../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)Example of partially closing $TSLA short position
 {% endtab %}
 
 {% tab title="Example #2" %}

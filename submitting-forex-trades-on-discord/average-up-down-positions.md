@@ -11,7 +11,7 @@ There is no extra trigger or syntax to average positions. Using the same opening
 \
 For example, if you submit `BTO USDCAD @ 1.395` and do not close it, when you submit another opening position the same as an existing one, such as `BTO AAPL @ 1.394,` it will already know you have an existing open trade for this ticker and will auto calculate the new average for this trade to 1.3945- the average of 1.394 & 1.395.
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Example of averaging down</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Example of averaging down</p></figcaption></figure>
 
 
 

@@ -12,7 +12,7 @@ There are various methods in setting and changing Take Profits and Stop Losses.
 
 When the bot replies to an open trade submission, a blue button titled `Add TP/SL` is attached with it's response. Clicking this will prompt a user friendly popup where values can be specified for Take Profit and/or Stop Loss. Set the value for one or both.
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Set TP/SL popup upon clicking the "Add TP/SL" button</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Set TP/SL popup upon clicking the "Add TP/SL" button</p></figcaption></figure>
 
 The bot will not allow a value below the current market price to be set for a Take Profit, and a value above the current market price to be set for a Stop Loss- and vice versa for short positions.
 
@@ -27,7 +27,7 @@ Using the `$list` or `/list` command will display all open trades where each one
 
 After successfully setting or changing a TP/SL, the bot sends a ephemeral message to confirm the values specified. The bot will also edit it's response embed to the submitted trade to display the TP/SL values.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Successfully setting or changing TP/SL</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Successfully setting or changing TP/SL</p></figcaption></figure>
 
 ## Setting TP/SL with trade submission
 
@@ -40,7 +40,7 @@ Take Profit and/or Stop Loss values can be specified anywhere within the trade n
 > `TP is 2.34 & SL is 1.23`\
 > &#xNAN;_(Any symbol or word can be used where `@` and `is` are.)_
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Example of setting TP/SL values with trade submission notes</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Example of setting TP/SL values with trade submission notes</p></figcaption></figure>
 
 ### Changing TP/SL using List command
 
@@ -51,7 +51,7 @@ The `$list` or `/list` command displays all open trades ordered by most recent. 
 A TP/SL can be added, changed, or removed at any time by using the `$list` or `/list` command.  It displays all your open trades 4 at a time. Each trade has a TP/SL button that can be used to specify new or remove values.\
 
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>List command display example</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>List command display example</p></figcaption></figure>
 
 ### When TP/SL is Hit
 
