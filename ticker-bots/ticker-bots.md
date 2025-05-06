@@ -100,13 +100,7 @@ We are no longer accepting requests for stock, futures, forex, or crypto tickers
 
 [NIFTY 50](https://discord.com/oauth2/authorize?client_id=1116977217151447101)
 
-[Bank NIFTY](https://discord.com/oauth2/authorize?client_id=1116978570334576700) \*\*
-
 [FTSE 100](https://discord.com/oauth2/authorize?client_id=1116979054298546257) \*
-
-[OSEBX Oslo Børs Benchmark Index](https://discord.com/oauth2/authorize?client_id=1223629887856971928) \*\*\*
-
-[US10Y Treasury Yield 10 Years](https://discord.com/oauth2/authorize?client_id=1116985018334584912)
 {% endtab %}
 
 {% tab title="Futures" %}
@@ -119,10 +113,6 @@ We are no longer accepting requests for stock, futures, forex, or crypto tickers
 [$GC Gold](https://discord.com/oauth2/authorize?client_id=1116984113816145930)
 
 [$SI Silver](https://discord.com/oauth2/authorize?client_id=1116984290673172510)
-
-[$6E Euro FX Futures](https://discord.com/oauth2/authorize?client_id=1094486896295551006) \*\*\*
-
-[$6J Japanes Yen Future](https://discord.com/oauth2/authorize?client_id=1094488823225925692) \*\*\*
 {% endtab %}
 
 {% tab title="Forex" %}
