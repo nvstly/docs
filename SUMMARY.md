@@ -10,6 +10,7 @@
   * [Webull Integration](info/broker-integration/webull-integration.md)
   * [Moomoo Integration](info/broker-integration/moomoo-integration.md)
 * [Contact & Support](info/contact-and-support.md)
+* [Cancelling Membership & Refund Policy](info/cancelling-membership-and-refund-policy.md)
 
 ## 🆕 Submit Trades From Web
 

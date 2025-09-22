@@ -1,5 +1,5 @@
 ---
-description: Contact methods and user support
+description: Contact methods, user support, & how to cancel membership subscription
 ---
 
 # Contact & Support
